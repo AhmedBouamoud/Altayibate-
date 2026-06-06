@@ -6,9 +6,11 @@ import { usePathname } from "next/navigation";
 
 const links = [
   { href: "/", label: "الرئيسية" },
+  { href: "/about", label: "عن النظام" },
+  { href: "/foods", label: "المسموحات والممنوعات" },
+  { href: "/videos", label: "الفيديوهات" },
   { href: "/articles", label: "المقالات" },
-  { href: "/tips", label: "نصائح عملية" },
-  { href: "/contact", label: "تواصل معنا" },
+  { href: "/contact", label: "تواصل" },
 ];
 
 export default function Navbar() {
@@ -73,8 +75,8 @@ export default function Navbar() {
                 </Link>
               );
             })}
-            <Link href="/tips" className="btn-primary mr-3 py-2 px-5 text-sm">
-              ابدأ الآن
+            <Link href="/foods" className="btn-primary mr-3 py-2 px-5 text-sm">
+              قائمة الطعام
             </Link>
           </div>
 
@@ -136,8 +138,8 @@ export default function Navbar() {
             );
           })}
           <div className="pt-2 pb-1">
-            <Link href="/tips" className="btn-primary w-full text-sm py-3">
-              ابدأ رحلتك الصحية
+            <Link href="/foods" className="btn-primary w-full text-sm py-3">
+              قائمة المسموحات والممنوعات
             </Link>
           </div>
         </div>

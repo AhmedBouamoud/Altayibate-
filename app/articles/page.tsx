@@ -2,145 +2,136 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 
-const categories = ["الكل", "تغذية", "وصفات", "أسلوب حياة", "صحة نفسية", "أطفال"];
+const categories = ["الكل", "أساسيات النظام", "الممنوعات", "المسموحات", "تجارب حقيقية", "ردود علمية"];
 
 const articles = [
   {
-    id: 1,
-    tag: "تغذية",
-    emoji: "🥗",
-    color: "from-green-50 to-emerald-100",
-    title: "لماذا يُعدّ السكر المكرّر من أكثر المواد ضرراً؟",
-    excerpt:
-      "السكر المضاف يرتبط بمخاطر صحية متعددة كالسمنة وأمراض القلب ومقاومة الأنسولين. في هذا المقال نكشف حقيقة السكر وكيف تتعامل معه بوعي.",
-    readTime: "5 دقائق",
-    date: "5 يونيو 2026",
+    id: "1",
+    tag: "أساسيات النظام",
+    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80",
+    title: "الأساسيات الخمس التي تُؤكل يومياً بلا قيود",
+    excerpt: "الأرز، البطاطس، التمر، الزبدة الطبيعية، والسكر — هذه هي ركائز نظام الطيبات التي تمنحك الطاقة وتحمي جهازك الهضمي.",
+    readTime: "٦ دقائق",
+    date: "٥ يونيو ٢٠٢٦",
     featured: true,
   },
   {
-    id: 2,
-    tag: "وصفات",
-    emoji: "🍳",
-    color: "from-amber-50 to-orange-100",
-    title: "وجبة إفطار متكاملة في 10 دقائق",
-    excerpt:
-      "ابدأ يومك بوجبة مغذية تمنحك الطاقة وتُحسّن تركيزك طوال الصباح. بروتين + كربوهيدرات معقدة + دهون مفيدة في عشر دقائق فقط.",
-    readTime: "3 دقائق",
-    date: "3 يونيو 2026",
+    id: "2",
+    tag: "الممنوعات",
+    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+    title: "لماذا الدقيق الأبيض والألبان على رأس قائمة الممنوعات؟",
+    excerpt: "نظام الطيبات يحظر الدقيق الأبيض ومنتجات الألبان بالكامل — اكتشف السبب العلمي وراء هذا القرار الجذري.",
+    readTime: "٨ دقائق",
+    date: "٣ يونيو ٢٠٢٦",
     featured: false,
   },
   {
-    id: 3,
-    tag: "أسلوب حياة",
-    emoji: "🌿",
-    color: "from-teal-50 to-green-100",
-    title: "كيف تبدأ نظام الطيبات بدون قواعد صارمة؟",
-    excerpt:
-      "ليس نظام الطيبات حمية قاسية، بل هو وعي غذائي تدريجي يبدأ بخطوة واحدة. اكتشف كيف تبدأ بلا ضغط.",
-    readTime: "7 دقائق",
-    date: "1 يونيو 2026",
+    id: "3",
+    tag: "تجارب حقيقية",
+    image: "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
+    title: "قصص نجاح حقيقية مع نظام الطيبات",
+    excerpt: "آلاف الأشخاص حول العالم جربوا النظام. إليك أبرز القصص الملهمة مع تفاصيل التجربة.",
+    readTime: "٥ دقائق",
+    date: "١ يونيو ٢٠٢٦",
     featured: false,
   },
   {
-    id: 4,
-    tag: "صحة نفسية",
-    emoji: "🧠",
-    color: "from-violet-50 to-purple-100",
-    title: "الغذاء والمزاج: كيف يؤثر ما تأكله على مشاعرك؟",
-    excerpt:
-      "علم الأمعاء-الدماغ يكشف أن اختياراتنا الغذائية تؤثر مباشرة على الصحة النفسية والتوازن الهرموني.",
-    readTime: "6 دقائق",
-    date: "28 مايو 2026",
+    id: "4",
+    tag: "المسموحات",
+    image: "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=600&q=80",
+    title: "الأسماك في نظام الطيبات: دليلك الكامل",
+    excerpt: "الأسماك مسموحة بجميع أنواعها ما عدا الجمبري والسبيط — كيف تطبخها وكم مرة في الأسبوع؟",
+    readTime: "٤ دقائق",
+    date: "٢٩ مايو ٢٠٢٦",
     featured: false,
   },
   {
-    id: 5,
-    tag: "تغذية",
-    emoji: "🫒",
-    color: "from-lime-50 to-green-100",
-    title: "زيت الزيتون: الدهن المفيد الذي لا يجب إغفاله",
-    excerpt:
-      "من أبرز ما أوصى به نظام الطيبات هو استخدام زيت الزيتون بديلاً عن الزيوت المكررة، وهذا هو السبب.",
-    readTime: "4 دقائق",
-    date: "25 مايو 2026",
+    id: "5",
+    tag: "ردود علمية",
+    image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80",
+    title: "الموقف الطبي من نظام الطيبات — رأي الأطباء",
+    excerpt: "النقابة الطبية والأطباء المتخصصون ناقشوا النظام — إليك الرأي العلمي الموضوعي بالحجج والأدلة.",
+    readTime: "١٠ دقائق",
+    date: "٢٦ مايو ٢٠٢٦",
     featured: false,
   },
   {
-    id: 6,
-    tag: "أطفال",
-    emoji: "👶",
-    color: "from-pink-50 to-rose-100",
-    title: "كيف تُعلّم طفلك حب الطعام الصحي منذ الصغر؟",
-    excerpt:
-      "العادات الغذائية تتشكل مبكراً. إليك أساليب مجربة لجعل الطعام الصحي محبباً لدى أطفالك.",
-    readTime: "8 دقائق",
-    date: "22 مايو 2026",
+    id: "6",
+    tag: "أساسيات النظام",
+    image: "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
+    title: "مناطق الألوان الخمس في نظام الطيبات",
+    excerpt: "خضراء، صفراء، برتقالية، بنفسجية، حمراء — نظام تصنيف الأغذية حسب درجة الأمان والخطورة.",
+    readTime: "٧ دقائق",
+    date: "٢٢ مايو ٢٠٢٦",
     featured: false,
   },
   {
-    id: 7,
-    tag: "وصفات",
-    emoji: "🥑",
-    color: "from-green-50 to-teal-100",
-    title: "٥ وصفات صحية بالأفوكادو لكل وجبة",
-    excerpt:
-      "الأفوكادو من أغنى الأطعمة بالدهون الصحية. إليك طرقاً إبداعية لإدراجه في وجباتك اليومية.",
-    readTime: "5 دقائق",
-    date: "19 مايو 2026",
+    id: "7",
+    tag: "الممنوعات",
+    image: "https://images.unsplash.com/photo-1582901369304-9bf38e4e9e11?w=600&q=80",
+    title: "لماذا يُمنع الدجاج في نظام الطيبات؟",
+    excerpt: "من أكثر الأسئلة التي يطرحها المبتدئون: لماذا الدجاج ممنوع؟ الإجابة الكاملة موثّقة هنا.",
+    readTime: "٥ دقائق",
+    date: "١٨ مايو ٢٠٢٦",
     featured: false,
   },
   {
-    id: 8,
-    tag: "أسلوب حياة",
-    emoji: "🚶",
-    color: "from-sky-50 to-blue-100",
-    title: "المشي بعد الأكل: عادة صغيرة فوائدها كبيرة",
-    excerpt:
-      "١٠ دقائق مشي بعد كل وجبة تُحسّن مستوى السكر في الدم وتُساعد على الهضم وتُقلّل الوزن تدريجياً.",
-    readTime: "4 دقائق",
-    date: "15 مايو 2026",
+    id: "8",
+    tag: "تجارب حقيقية",
+    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+    title: "تجربتي مع نظام الطيبات: ٦ أشهر من التطبيق",
+    excerpt: "قصة مفصّلة من متابع طبّق النظام لمدة ستة أشهر — الإيجابيات والسلبيات والنتائج الحقيقية.",
+    readTime: "١٢ دقيقة",
+    date: "١٤ مايو ٢٠٢٦",
     featured: false,
   },
 ];
 
 const tagColors: Record<string, string> = {
-  تغذية: "bg-green-50 text-green-700",
-  وصفات: "bg-amber-50 text-amber-700",
-  "أسلوب حياة": "bg-teal-50 text-teal-700",
-  "صحة نفسية": "bg-violet-50 text-violet-700",
-  أطفال: "bg-pink-50 text-pink-700",
+  "أساسيات النظام": "bg-green-50 text-green-700",
+  "الممنوعات": "bg-red-50 text-red-700",
+  "المسموحات": "bg-blue-50 text-blue-700",
+  "تجارب حقيقية": "bg-amber-50 text-amber-700",
+  "ردود علمية": "bg-violet-50 text-violet-700",
 };
 
 export default function ArticlesPage() {
   const [activeCategory, setActiveCategory] = useState("الكل");
 
-  const filtered =
-    activeCategory === "الكل"
-      ? articles
-      : articles.filter((a) => a.tag === activeCategory);
-
+  const filtered = activeCategory === "الكل" ? articles : articles.filter((a) => a.tag === activeCategory);
   const featured = articles.find((a) => a.featured);
-  const rest = filtered.filter((a) => !a.featured || activeCategory !== "الكل");
+  const restFiltered = activeCategory === "الكل" ? filtered.filter((a) => !a.featured) : filtered;
 
   return (
     <div className="min-h-screen">
       {/* Header */}
-      <div className="bg-gradient-to-bl from-primary-50 via-white to-earth-50 py-16 section-pattern">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <span className="badge-green mb-4">المقالات التثقيفية</span>
-          <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-4 mt-3">
+      <div className="relative bg-gray-950 py-16 overflow-hidden">
+        <div className="absolute inset-0">
+          <Image
+            src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=1600&q=80"
+            alt="مقالات"
+            fill
+            className="object-cover opacity-10"
+          />
+        </div>
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative">
+          <span className="badge bg-primary-900/50 text-primary-400 border border-primary-800 mb-4">
+            المقالات التثقيفية
+          </span>
+          <h1 className="text-4xl md:text-5xl font-extrabold text-white mb-4 mt-3">
             اقرأ، تعلّم، طبّق
           </h1>
-          <p className="text-gray-500 text-lg max-w-xl mx-auto">
-            محتوى تثقيفي مبسّط في التغذية الصحية — كل أسبوع مقال جديد
+          <p className="text-gray-400 text-lg max-w-xl mx-auto">
+            مقالات متعمقة عن نظام الطيبات — أسسه، تطبيقه، والآراء العلمية حوله
           </p>
         </div>
       </div>
 
       {/* Category Filter */}
       <div className="border-b bg-white sticky top-16 z-40 shadow-sm">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex gap-2 overflow-x-auto no-scrollbar">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex gap-2 overflow-x-auto">
           {categories.map((cat) => (
             <button
               key={cat}
@@ -158,42 +149,33 @@ export default function ArticlesPage() {
       </div>
 
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+
         {/* Featured Article */}
         {activeCategory === "الكل" && featured && (
           <div className="mb-10">
             <Link href={`/articles/${featured.id}`} className="group card cursor-pointer overflow-hidden block">
               <div className="grid grid-cols-1 md:grid-cols-2">
-                <div
-                  className={`h-56 md:h-auto bg-gradient-to-br ${featured.color} flex items-center justify-center text-8xl md:text-9xl relative overflow-hidden`}
-                >
-                  <div className="absolute inset-0 opacity-0 group-hover:opacity-100 bg-primary-600/10 transition-opacity duration-300" />
-                  <span className="group-hover:scale-110 transition-transform duration-500">
-                    {featured.emoji}
-                  </span>
+                <div className="relative h-56 md:h-auto overflow-hidden">
+                  <Image
+                    src={featured.image}
+                    alt={featured.title}
+                    fill
+                    className="object-cover group-hover:scale-105 transition-transform duration-500"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-l from-black/40 to-transparent md:block hidden" />
                 </div>
                 <div className="p-7 flex flex-col justify-center">
                   <div className="flex items-center gap-3 mb-4">
-                    <span className={`badge ${tagColors[featured.tag] ?? "badge-green"}`}>
-                      {featured.tag}
-                    </span>
-                    <span className="text-xs font-semibold text-primary-600 bg-primary-50 px-2.5 py-1 rounded-full">
-                      ✨ مقال مميّز
-                    </span>
+                    <span className={`badge ${tagColors[featured.tag] ?? "badge-green"}`}>{featured.tag}</span>
+                    <span className="badge bg-primary-50 text-primary-600">✨ مقال مميّز</span>
                   </div>
                   <h2 className="font-extrabold text-gray-900 text-2xl mb-3 group-hover:text-primary-700 transition-colors leading-snug">
                     {featured.title}
                   </h2>
-                  <p className="text-gray-500 text-sm leading-relaxed mb-6 line-clamp-3">
-                    {featured.excerpt}
-                  </p>
+                  <p className="text-gray-500 text-sm leading-relaxed mb-6 line-clamp-3">{featured.excerpt}</p>
                   <div className="flex items-center justify-between">
                     <div className="flex items-center gap-3 text-xs text-gray-400">
-                      <span className="flex items-center gap-1">
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-3.5 h-3.5">
-                          <circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" />
-                        </svg>
-                        {featured.readTime}
-                      </span>
+                      <span>{featured.readTime}</span>
                       <span>·</span>
                       <span>{featured.date}</span>
                     </div>
@@ -211,47 +193,38 @@ export default function ArticlesPage() {
         )}
 
         {/* Articles Grid */}
-        {filtered.length === 0 ? (
+        {restFiltered.length === 0 ? (
           <div className="text-center py-20">
             <div className="text-6xl mb-4">🔍</div>
             <p className="text-gray-500 text-lg">لا توجد مقالات في هذا التصنيف حتى الآن</p>
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {(activeCategory === "الكل" ? rest : filtered).map((article) => (
+            {restFiltered.map((article) => (
               <Link
                 key={article.id}
                 href={`/articles/${article.id}`}
-                className="card group cursor-pointer hover:-translate-y-1 transition-all duration-300 block"
+                className="card group hover:-translate-y-1 transition-all duration-300 block"
               >
-                <div
-                  className={`h-48 bg-gradient-to-br ${article.color} flex items-center justify-center text-7xl relative overflow-hidden`}
-                >
-                  <div className="absolute inset-0 opacity-0 group-hover:opacity-100 bg-primary-600/10 transition-opacity duration-300" />
-                  <span className="group-hover:scale-110 transition-transform duration-300">
-                    {article.emoji}
+                <div className="relative h-48 overflow-hidden">
+                  <Image
+                    src={article.image}
+                    alt={article.title}
+                    fill
+                    className="object-cover group-hover:scale-105 transition-transform duration-500"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
+                  <span className={`absolute top-3 right-3 badge ${tagColors[article.tag] ?? "badge-green"}`}>
+                    {article.tag}
                   </span>
                 </div>
                 <div className="p-5">
-                  <div className="flex items-center justify-between mb-3">
-                    <span className={`badge ${tagColors[article.tag] ?? "badge-green"}`}>
-                      {article.tag}
-                    </span>
-                    <span className="text-xs text-gray-400">{article.date}</span>
-                  </div>
                   <h2 className="font-bold text-gray-900 text-base mb-2 group-hover:text-primary-700 transition-colors leading-snug">
                     {article.title}
                   </h2>
-                  <p className="text-gray-500 text-sm leading-relaxed mb-4 line-clamp-3">
-                    {article.excerpt}
-                  </p>
+                  <p className="text-gray-500 text-sm leading-relaxed mb-4 line-clamp-2">{article.excerpt}</p>
                   <div className="flex items-center justify-between pt-2 border-t border-gray-50">
-                    <span className="text-xs text-gray-400 flex items-center gap-1">
-                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-3 h-3">
-                        <circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" />
-                      </svg>
-                      {article.readTime}
-                    </span>
+                    <span className="text-xs text-gray-400">{article.readTime} · {article.date}</span>
                     <span className="text-primary-600 text-sm font-semibold flex items-center gap-1 group-hover:gap-2 transition-all">
                       اقرأ
                       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" className="w-3 h-3">
@@ -265,13 +238,9 @@ export default function ArticlesPage() {
           </div>
         )}
 
-        {/* Load More */}
         <div className="text-center mt-14">
           <button className="btn-secondary px-10 py-3">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-4 h-4">
-              <polyline points="6 9 12 15 18 9" />
-            </svg>
-            تحميل المزيد
+            تحميل المزيد من المقالات
           </button>
         </div>
       </div>

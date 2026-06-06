@@ -2,17 +2,19 @@ import Link from "next/link";
 
 const quickLinks = [
   { href: "/", label: "الرئيسية" },
+  { href: "/about", label: "عن الدكتور ضياء" },
+  { href: "/foods", label: "المسموحات والممنوعات" },
+  { href: "/videos", label: "الفيديوهات" },
   { href: "/articles", label: "المقالات" },
-  { href: "/tips", label: "نصائح عملية" },
   { href: "/contact", label: "تواصل معنا" },
 ];
 
 const categories = [
-  { label: "تغذية" },
-  { label: "وصفات" },
-  { label: "أسلوب حياة" },
-  { label: "صحة نفسية" },
-  { label: "أطفال" },
+  { label: "أساسيات النظام", href: "/articles" },
+  { label: "الممنوعات", href: "/articles" },
+  { label: "المسموحات", href: "/articles" },
+  { label: "تجارب حقيقية", href: "/articles" },
+  { label: "ردود علمية", href: "/articles" },
 ];
 
 export default function Footer() {
@@ -106,7 +108,7 @@ export default function Footer() {
               {categories.map((cat) => (
                 <li key={cat.label}>
                   <Link
-                    href="/articles"
+                    href={cat.href}
                     className="text-sm hover:text-primary-400 transition-colors flex items-center gap-2 group"
                   >
                     <span className="w-1 h-1 rounded-full bg-gray-700 group-hover:bg-primary-500 transition-colors" />
