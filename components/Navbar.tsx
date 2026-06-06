@@ -16,7 +16,8 @@ const links = [
 export default function Navbar() {
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
-  const pathname = usePathname();
+  const rawPathname = usePathname();
+  const pathname = rawPathname ?? "/";
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 20);
