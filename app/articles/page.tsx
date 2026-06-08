@@ -11,9 +11,9 @@ const articles = [
     id: "1",
     tag: "أساسيات النظام",
     image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80",
-    title: "الأساسيات الخمس التي تُؤكل يومياً بلا قيود",
-    excerpt: "الأرز، البطاطس، التمر، الزبدة الطبيعية، والسكر — هذه هي ركائز نظام الطيبات التي تمنحك الطاقة وتحمي جهازك الهضمي.",
-    readTime: "٦ دقائق",
+    title: "الأساسيات الخمس في نظام الطيبات — الدليل الشامل",
+    excerpt: "الأرز، البطاطس، التمر، الزبدة الطبيعية، والسكر — الركائز التي يقوم عليها النظام بالشرح الكامل والمنطق العلمي.",
+    readTime: "١٢ دقيقة",
     date: "٥ يونيو ٢٠٢٦",
     featured: true,
   },
@@ -22,8 +22,8 @@ const articles = [
     tag: "الممنوعات",
     image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
     title: "لماذا الدقيق الأبيض والألبان على رأس قائمة الممنوعات؟",
-    excerpt: "نظام الطيبات يحظر الدقيق الأبيض ومنتجات الألبان بالكامل — اكتشف السبب العلمي وراء هذا القرار الجذري.",
-    readTime: "٨ دقائق",
+    excerpt: "النظام يحظر الدقيق الأبيض، الألبان، والبيض — اكتشف التفسير التفصيلي لكل قرار والرأي العلمي الموضوعي.",
+    readTime: "١٤ دقيقة",
     date: "٣ يونيو ٢٠٢٦",
     featured: false,
   },
@@ -32,8 +32,8 @@ const articles = [
     tag: "تجارب حقيقية",
     image: "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
     title: "قصص نجاح حقيقية مع نظام الطيبات",
-    excerpt: "آلاف الأشخاص حول العالم جربوا النظام. إليك أبرز القصص الملهمة مع تفاصيل التجربة.",
-    readTime: "٥ دقائق",
+    excerpt: "آلاف الأشخاص جرّبوا النظام وشاركوا تجاربهم — قصص موثّقة بالأرقام مع إيجابياتها وتحفّظاتها.",
+    readTime: "١٠ دقائق",
     date: "١ يونيو ٢٠٢٦",
     featured: false,
   },
@@ -41,9 +41,9 @@ const articles = [
     id: "4",
     tag: "المسموحات",
     image: "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=600&q=80",
-    title: "الأسماك في نظام الطيبات: دليلك الكامل",
-    excerpt: "الأسماك مسموحة بجميع أنواعها ما عدا الجمبري والسبيط — كيف تطبخها وكم مرة في الأسبوع؟",
-    readTime: "٤ دقائق",
+    title: "الأسماك في نظام الطيبات — الدليل الكامل للأنواع والطريقة",
+    excerpt: "الأسماك مسموحة بجميع أنواعها تقريباً — أفضل الأنواع، طرق الطهي الصحيحة، والتكرار الأمثل أسبوعياً.",
+    readTime: "٨ دقائق",
     date: "٢٩ مايو ٢٠٢٦",
     featured: false,
   },
@@ -51,9 +51,9 @@ const articles = [
     id: "5",
     tag: "ردود علمية",
     image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80",
-    title: "الموقف الطبي من نظام الطيبات — رأي الأطباء",
-    excerpt: "النقابة الطبية والأطباء المتخصصون ناقشوا النظام — إليك الرأي العلمي الموضوعي بالحجج والأدلة.",
-    readTime: "١٠ دقائق",
+    title: "الموقف الطبي من نظام الطيبات — تحليل علمي شامل",
+    excerpt: "ما يقوله الأطباء والعلماء — الحجج المؤيدة والمعارضة بموضوعية تامة وبدون مبالغة في الاتجاهين.",
+    readTime: "١٦ دقيقة",
     date: "٢٦ مايو ٢٠٢٦",
     featured: false,
   },
@@ -61,9 +61,9 @@ const articles = [
     id: "6",
     tag: "أساسيات النظام",
     image: "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
-    title: "مناطق الألوان الخمس في نظام الطيبات",
-    excerpt: "خضراء، صفراء، برتقالية، بنفسجية، حمراء — نظام تصنيف الأغذية حسب درجة الأمان والخطورة.",
-    readTime: "٧ دقائق",
+    title: "نظام المناطق اللونية في الطيبات — الدليل التطبيقي الكامل",
+    excerpt: "خمس مناطق لونية تُحدد ما تأكله — من الأخضر الآمن إلى الأحمر الممنوع، بالأمثلة والتطبيق العملي.",
+    readTime: "١٣ دقيقة",
     date: "٢٢ مايو ٢٠٢٦",
     featured: false,
   },
@@ -71,9 +71,9 @@ const articles = [
     id: "7",
     tag: "الممنوعات",
     image: "https://images.unsplash.com/photo-1582901369304-9bf38e4e9e11?w=600&q=80",
-    title: "لماذا يُمنع الدجاج في نظام الطيبات؟",
-    excerpt: "من أكثر الأسئلة التي يطرحها المبتدئون: لماذا الدجاج ممنوع؟ الإجابة الكاملة موثّقة هنا.",
-    readTime: "٥ دقائق",
+    title: "لماذا الدجاج ممنوع في نظام الطيبات؟ — الشرح الكامل",
+    excerpt: "من أغرب قرارات النظام: تحريم الدجاج كلياً — التفسير الكامل، الرأي الطبي المعارض، والبدائل.",
+    readTime: "٩ دقائق",
     date: "١٨ مايو ٢٠٢٦",
     featured: false,
   },
@@ -81,10 +81,50 @@ const articles = [
     id: "8",
     tag: "تجارب حقيقية",
     image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
-    title: "تجربتي مع نظام الطيبات: ٦ أشهر من التطبيق",
-    excerpt: "قصة مفصّلة من متابع طبّق النظام لمدة ستة أشهر — الإيجابيات والسلبيات والنتائج الحقيقية.",
-    readTime: "١٢ دقيقة",
+    title: "تجربتي مع نظام الطيبات: ٦ أشهر من البداية للنهاية",
+    excerpt: "رحلة مفصّلة بالأرقام — كل شهر بالتفصيل، التحاليل، الإيجابيات، السلبيات، والنتيجة النهائية.",
+    readTime: "١٨ دقيقة",
     date: "١٤ مايو ٢٠٢٦",
+    featured: false,
+  },
+  {
+    id: "9",
+    tag: "أساسيات النظام",
+    image: "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80",
+    title: "دليل المبتدئين في نظام الطيبات — كيف تبدأ بخطوات عملية",
+    excerpt: "تحضير المطبخ، الجدول الأسبوعي، الأخطاء الشائعة، وأجوبة الأسئلة الأكثر شيوعاً — كل ما يحتاجه المبتدئ.",
+    readTime: "١٥ دقيقة",
+    date: "١٠ مايو ٢٠٢٦",
+    featured: false,
+  },
+  {
+    id: "10",
+    tag: "أساسيات النظام",
+    image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=600&q=80",
+    title: "التمر والسكر في نظام الطيبات — لماذا هما مسموحان؟",
+    excerpt: "التمر يومياً والسكر بحد ١٥ ملعقة — الشرح العلمي لهذا القرار المثير للجدل والفرق بين السكر الطبيعي والمضاف.",
+    readTime: "١١ دقيقة",
+    date: "٨ مايو ٢٠٢٦",
+    featured: false,
+  },
+  {
+    id: "11",
+    tag: "ردود علمية",
+    image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=600&q=80",
+    title: "الالتهابات المزمنة والأمراض — كيف يُعالجها نظام الطيبات؟",
+    excerpt: "نظرية الالتهاب هي محور النظام — ما صحّتها علمياً؟ أي الأمراض تتأثر؟ وأين يبالغ النظام في ادعاءاته؟",
+    readTime: "١٤ دقيقة",
+    date: "٤ مايو ٢٠٢٦",
+    featured: false,
+  },
+  {
+    id: "12",
+    tag: "أساسيات النظام",
+    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600&q=80",
+    title: "نظام الطيبات والرياضة — كيف تُوفّق بينهما؟",
+    excerpt: "هل تكفي طاقة النظام للرياضة والبناء العضلي؟ وجبات ما قبل وبعد التمرين وتجارب الرياضيين.",
+    readTime: "١٠ دقائق",
+    date: "٢٨ أبريل ٢٠٢٦",
     featured: false,
   },
 ];
@@ -101,8 +141,8 @@ export default function ArticlesPage() {
   const [activeCategory, setActiveCategory] = useState("الكل");
 
   const filtered = activeCategory === "الكل" ? articles : articles.filter((a) => a.tag === activeCategory);
-  const featured = articles.find((a) => a.featured);
-  const restFiltered = activeCategory === "الكل" ? filtered.filter((a) => !a.featured) : filtered;
+  const featured = activeCategory === "الكل" ? articles.find((a) => a.featured) : null;
+  const restFiltered = featured ? filtered.filter((a) => !a.featured) : filtered;
 
   return (
     <div className="min-h-screen">
@@ -115,6 +155,7 @@ export default function ArticlesPage() {
             fill
             className="object-cover opacity-10"
           />
+          <div className="absolute inset-0 bg-gradient-to-b from-gray-950/60 to-gray-950" />
         </div>
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative">
           <span className="badge bg-primary-900/50 text-primary-400 border border-primary-800 mb-4">
@@ -124,14 +165,19 @@ export default function ArticlesPage() {
             اقرأ، تعلّم، طبّق
           </h1>
           <p className="text-gray-400 text-lg max-w-xl mx-auto">
-            مقالات متعمقة عن نظام الطيبات — أسسه، تطبيقه، والآراء العلمية حوله
+            ١٢ مقالة معمّقة عن نظام الطيبات — أسسه، تطبيقه، والآراء العلمية حوله
           </p>
+          <div className="flex items-center justify-center gap-6 mt-6 text-sm text-gray-500">
+            <span className="flex items-center gap-1.5"><span className="w-2 h-2 rounded-full bg-green-500"></span>١٢ مقالة</span>
+            <span className="flex items-center gap-1.5"><span className="w-2 h-2 rounded-full bg-blue-500"></span>مصادر علمية موثّقة</span>
+            <span className="flex items-center gap-1.5"><span className="w-2 h-2 rounded-full bg-amber-500"></span>تجارب حقيقية</span>
+          </div>
         </div>
       </div>
 
       {/* Category Filter */}
       <div className="border-b bg-white sticky top-16 z-40 shadow-sm">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex gap-2 overflow-x-auto">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex gap-2 overflow-x-auto scrollbar-none">
           {categories.map((cat) => (
             <button
               key={cat}
@@ -143,6 +189,11 @@ export default function ArticlesPage() {
               }`}
             >
               {cat}
+              {cat !== "الكل" && (
+                <span className="mr-1.5 text-xs opacity-60">
+                  ({articles.filter((a) => a.tag === cat).length})
+                </span>
+              )}
             </button>
           ))}
         </div>
@@ -151,23 +202,27 @@ export default function ArticlesPage() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 
         {/* Featured Article */}
-        {activeCategory === "الكل" && featured && (
+        {featured && (
           <div className="mb-10">
-            <Link href={`/articles/${featured.id}`} className="group card cursor-pointer overflow-hidden block">
+            <div className="flex items-center gap-2 mb-4">
+              <span className="w-2 h-2 rounded-full bg-primary-500 animate-pulse-slow"></span>
+              <span className="text-sm font-semibold text-gray-500">المقالة المميّزة</span>
+            </div>
+            <Link href={`/articles/${featured.id}`} className="group card cursor-pointer overflow-hidden block hover:-translate-y-1 transition-all duration-300">
               <div className="grid grid-cols-1 md:grid-cols-2">
-                <div className="relative h-56 md:h-auto overflow-hidden">
+                <div className="relative h-60 md:h-auto overflow-hidden">
                   <Image
                     src={featured.image}
                     alt={featured.title}
                     fill
                     className="object-cover group-hover:scale-105 transition-transform duration-500"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-l from-black/40 to-transparent md:block hidden" />
+                  <div className="absolute inset-0 bg-gradient-to-l from-black/30 to-transparent md:block hidden" />
                 </div>
-                <div className="p-7 flex flex-col justify-center">
+                <div className="p-8 flex flex-col justify-center">
                   <div className="flex items-center gap-3 mb-4">
                     <span className={`badge ${tagColors[featured.tag] ?? "badge-green"}`}>{featured.tag}</span>
-                    <span className="badge bg-primary-50 text-primary-600">✨ مقال مميّز</span>
+                    <span className="badge bg-primary-50 text-primary-600">✨ مقالة مميّزة</span>
                   </div>
                   <h2 className="font-extrabold text-gray-900 text-2xl mb-3 group-hover:text-primary-700 transition-colors leading-snug">
                     {featured.title}
@@ -175,12 +230,12 @@ export default function ArticlesPage() {
                   <p className="text-gray-500 text-sm leading-relaxed mb-6 line-clamp-3">{featured.excerpt}</p>
                   <div className="flex items-center justify-between">
                     <div className="flex items-center gap-3 text-xs text-gray-400">
-                      <span>{featured.readTime}</span>
+                      <span>🕐 {featured.readTime}</span>
                       <span>·</span>
                       <span>{featured.date}</span>
                     </div>
                     <span className="text-primary-600 text-sm font-bold flex items-center gap-1 group-hover:gap-2 transition-all">
-                      اقرأ المقال
+                      اقرأ المقالة
                       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" className="w-3.5 h-3.5">
                         <path d="M19 12H5M12 5l-7 7 7 7" />
                       </svg>
@@ -213,18 +268,21 @@ export default function ArticlesPage() {
                     fill
                     className="object-cover group-hover:scale-105 transition-transform duration-500"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
-                  <span className={`absolute top-3 right-3 badge ${tagColors[article.tag] ?? "badge-green"}`}>
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
+                  <span className={`absolute top-3 right-3 badge ${tagColors[article.tag] ?? "badge-green"} text-xs`}>
                     {article.tag}
+                  </span>
+                  <span className="absolute bottom-3 left-3 text-white text-xs bg-black/50 px-2 py-0.5 rounded-full">
+                    🕐 {article.readTime}
                   </span>
                 </div>
                 <div className="p-5">
-                  <h2 className="font-bold text-gray-900 text-base mb-2 group-hover:text-primary-700 transition-colors leading-snug">
+                  <h2 className="font-bold text-gray-900 text-base mb-2 group-hover:text-primary-700 transition-colors leading-snug line-clamp-2">
                     {article.title}
                   </h2>
                   <p className="text-gray-500 text-sm leading-relaxed mb-4 line-clamp-2">{article.excerpt}</p>
                   <div className="flex items-center justify-between pt-2 border-t border-gray-50">
-                    <span className="text-xs text-gray-400">{article.readTime} · {article.date}</span>
+                    <span className="text-xs text-gray-400">{article.date}</span>
                     <span className="text-primary-600 text-sm font-semibold flex items-center gap-1 group-hover:gap-2 transition-all">
                       اقرأ
                       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" className="w-3 h-3">
@@ -238,11 +296,6 @@ export default function ArticlesPage() {
           </div>
         )}
 
-        <div className="text-center mt-14">
-          <button className="btn-secondary px-10 py-3">
-            تحميل المزيد من المقالات
-          </button>
-        </div>
       </div>
     </div>
   );
