@@ -3,16 +3,16 @@ const STATIC_CACHE = `altayibate-static-${CACHE_VERSION}`;
 const DYNAMIC_CACHE = `altayibate-dynamic-${CACHE_VERSION}`;
 
 const STATIC_ASSETS = [
-  '/',
-  '/foods/',
-  '/articles/',
-  '/videos/',
-  '/about/',
-  '/tips/',
-  '/contact/',
-  '/manifest.json',
-  '/icons/icon-192.svg',
-  '/icons/icon-512.svg',
+  '/Altayibate-/',
+  '/Altayibate-/foods/',
+  '/Altayibate-/articles/',
+  '/Altayibate-/videos/',
+  '/Altayibate-/about/',
+  '/Altayibate-/tips/',
+  '/Altayibate-/contact/',
+  '/Altayibate-/manifest.json',
+  '/Altayibate-/icons/icon-192.svg',
+  '/Altayibate-/icons/icon-512.svg',
 ];
 
 self.addEventListener('install', (event) => {
@@ -70,7 +70,7 @@ self.addEventListener('fetch', (event) => {
           return res;
         })
         .catch(() =>
-          caches.match(request).then((cached) => cached || caches.match('/'))
+          caches.match(request).then((cached) => cached || caches.match('/Altayibate-/'))
         )
     );
     return;

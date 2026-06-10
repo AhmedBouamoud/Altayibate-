@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     "نظام الطيبات", "ضياء العوضي", "تغذية صحية", "طعام طيب", "صحة",
     "نصائح غذائية", "الطيبات", "وعي غذائي", "أكل صحي", "نظام غذائي"
   ],
-  manifest: "/manifest.json",
+  manifest: "/Altayibate-/manifest.json",
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
@@ -50,8 +50,8 @@ export default function RootLayout({
   return (
     <html lang="ar" dir="rtl" suppressHydrationWarning>
       <head>
-        <link rel="apple-touch-icon" sizes="192x192" href="/icons/icon-192.svg" />
-        <link rel="apple-touch-icon" sizes="512x512" href="/icons/icon-512.svg" />
+        <link rel="apple-touch-icon" sizes="192x192" href="/Altayibate-/icons/icon-192.svg" />
+        <link rel="apple-touch-icon" sizes="512x512" href="/Altayibate-/icons/icon-512.svg" />
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
