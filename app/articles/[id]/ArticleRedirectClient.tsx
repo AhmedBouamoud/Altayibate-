@@ -2,7 +2,7 @@
 import { useEffect } from "react";
 import { useRouter } from "next/navigation";
 
-export default function Page() {
+export default function ArticleRedirectClient() {
   const router = useRouter();
   useEffect(() => { router.replace("/"); }, [router]);
   return null;
