@@ -8,6 +8,8 @@ const links = [
   { href: "/", label: "الرئيسية" },
   { href: "/about", label: "عن النظام" },
   { href: "/foods", label: "المسموحات والممنوعات" },
+  { href: "/drous", label: "الدروس" },
+  { href: "/infographie", label: "الإنفوغرافيك" },
   { href: "/videos", label: "الفيديوهات" },
   { href: "/articles", label: "المقالات" },
   { href: "/contact", label: "تواصل" },
