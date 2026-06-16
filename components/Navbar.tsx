@@ -6,12 +6,9 @@ import { usePathname } from "next/navigation";
 
 const links = [
   { href: "/", label: "الرئيسية" },
-  { href: "/about", label: "عن النظام" },
-  { href: "/foods", label: "المسموحات والممنوعات" },
   { href: "/drous", label: "الدروس" },
   { href: "/infographie", label: "الإنفوغرافيك" },
-  { href: "/videos", label: "الفيديوهات" },
-  { href: "/articles", label: "المقالات" },
+  { href: "/manhajiya", label: "المنهجية" },
   { href: "/contact", label: "تواصل" },
 ];
 
@@ -44,16 +41,17 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2.5 group">
             <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-primary-500 to-primary-700 flex items-center justify-center shadow-green group-hover:scale-105 transition-transform duration-200">
+              {/* Book icon */}
               <svg viewBox="0 0 24 24" fill="white" className="w-5 h-5">
-                <path d="M17 8C8 10 5.9 16.17 3.82 21.34L5.71 22l1-2.3A4.49 4.49 0 0 0 8 20C19 20 22 3 22 3c-1 2-8 2-8 2-8 0-8 8-8 8s6-4 13-3c0 0-9 1-12 9C5 12.5 8 8 17 8z" />
+                <path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
               </svg>
             </div>
             <div>
               <span className="text-lg font-extrabold text-gray-900 leading-none">
-                نظام الطيبات
+                الأستاذة حنانة
               </span>
               <span className="block text-[10px] text-primary-600 font-medium leading-none mt-0.5">
-                تغذية صحية واعية
+                دروس الاجتماعيات
               </span>
             </div>
           </Link>
@@ -78,8 +76,8 @@ export default function Navbar() {
                 </Link>
               );
             })}
-            <Link href="/foods" className="btn-primary mr-3 py-2 px-5 text-sm">
-              قائمة الطعام
+            <Link href="/drous" className="btn-primary mr-3 py-2 px-5 text-sm">
+              ابدأ المذاكرة
             </Link>
           </div>
 
@@ -141,8 +139,8 @@ export default function Navbar() {
             );
           })}
           <div className="pt-2 pb-1">
-            <Link href="/foods" className="btn-primary w-full text-sm py-3">
-              قائمة المسموحات والممنوعات
+            <Link href="/drous" className="btn-primary w-full text-sm py-3">
+              ابدأ المذاكرة
             </Link>
           </div>
         </div>

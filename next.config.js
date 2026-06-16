@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/Altayibate-",
   trailingSlash: true,
   images: {
     unoptimized: true,

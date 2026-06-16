@@ -10,17 +10,16 @@ const config: Config = {
     extend: {
       colors: {
         primary: {
-          50: "#f0fdf4",
-          100: "#dcfce7",
-          200: "#bbf7d0",
-          300: "#86efac",
-          400: "#4ade80",
-          500: "#22c55e",
-          600: "#16a34a",
-          700: "#15803d",
-          800: "#166534",
-          900: "#14532d",
-          950: "#052e16",
+          50: "#eff6ff",
+          100: "#dbeafe",
+          200: "#bfdbfe",
+          300: "#93c5fd",
+          400: "#60a5fa",
+          500: "#3b82f6",
+          600: "#2563eb",
+          700: "#1d4ed8",
+          800: "#1e40af",
+          900: "#1e3a8a",
         },
         earth: {
           50: "#fdf8f0",
@@ -72,13 +71,13 @@ const config: Config = {
       boxShadow: {
         card: "0 2px 8px rgba(0,0,0,0.06), 0 1px 3px rgba(0,0,0,0.04)",
         "card-hover": "0 8px 30px rgba(0,0,0,0.10), 0 2px 8px rgba(0,0,0,0.06)",
-        green: "0 4px 20px rgba(22, 163, 74, 0.25)",
-        "green-lg": "0 8px 40px rgba(22, 163, 74, 0.30)",
+        green: "0 4px 20px rgba(37, 99, 235, 0.25)",
+        "green-lg": "0 8px 40px rgba(37, 99, 235, 0.30)",
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "hero-pattern":
-          "radial-gradient(circle at 20% 50%, rgba(22,163,74,0.06) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(212,137,42,0.05) 0%, transparent 50%)",
+          "radial-gradient(circle at 20% 50%, rgba(37,99,235,0.06) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(29,78,216,0.05) 0%, transparent 50%)",
       },
     },
   },
