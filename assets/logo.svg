@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="شعار مؤسسة الحنان">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="0.55" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#001525" flood-opacity=".30"/>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#071521"/>
+  <circle cx="256" cy="244" r="176" fill="url(#g)" filter="url(#s)"/>
+  <path d="M156 286c41 44 91 66 150 47 38-12 65-38 78-76" fill="none" stroke="white" stroke-width="28" stroke-linecap="round"/>
+  <path d="M147 238c37-58 88-90 153-86 35 2 66 14 93 36" fill="none" stroke="white" stroke-width="28" stroke-linecap="round" opacity=".96"/>
+  <circle cx="204" cy="228" r="20" fill="#071521"/>
+  <circle cx="320" cy="228" r="20" fill="#071521"/>
+  <path d="M210 350h93c38 0 70-30 74-68" fill="none" stroke="#071521" stroke-width="16" stroke-linecap="round" opacity=".35"/>
+  <text x="256" y="455" text-anchor="middle" font-family="Tajawal, Arial" font-size="48" font-weight="800" fill="#fff">الحنان</text>
+</svg>
