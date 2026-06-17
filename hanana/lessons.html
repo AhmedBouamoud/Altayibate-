@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>دروس التاريخ — مؤسسة الحنان الخاصة</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="header">
+  <div class="container">
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <div class="logo-icon-wrap"><span>💙</span></div>
+        <div>
+          <span class="logo-name">مؤسسة الحنان الخاصة</span>
+          <span class="logo-sub">الأستاذ أحمد بوعمود</span>
+        </div>
+      </a>
+      <nav class="header-nav">
+        <a href="index.html" class="nav-link">الرئيسية</a>
+        <a href="lessons.html" class="nav-link active">دروس التاريخ</a>
+        <a href="lessons.html" class="nav-cta">ابدأ الدراسة</a>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div class="page-hero">
+  <div class="container">
+    <div class="page-hero-content">
+      <div class="page-badge">📖 مادة التاريخ</div>
+      <h1 class="page-title">التحولات الكبرى للعالم الرأسمالي<br>وانعكاساتها خلال القرنين 19 و 20 م</h1>
+      <p class="page-desc">الأولى بكالوريا · الاجتماعيات · 2025-2026</p>
+    </div>
+  </div>
+</div>
+
+<div class="filter-bar">
+  <div class="container">
+    <div class="filter-inner">
+      <button class="filter-chip active" data-filter="all">الكل (7)</button>
+      <button class="filter-chip" data-filter="intro">التقديم</button>
+      <button class="filter-chip" data-filter="lesson">الدروس</button>
+    </div>
+  </div>
+</div>
+
+<section class="section-sm">
+  <div class="container">
+    <!-- Progress Bar -->
+    <div style="background:var(--card);border-radius:var(--radius);padding:20px 24px;margin-bottom:32px;border:1px solid var(--border);display:flex;align-items:center;gap:20px;box-shadow:var(--shadow-sm)">
+      <div style="flex:1">
+        <div style="display:flex;justify-content:space-between;margin-bottom:8px;font-size:.85rem">
+          <span style="font-weight:700;color:var(--dark)">مسار التعلم</span>
+          <span style="color:var(--muted)" id="progress-text">0 / 7 دروس</span>
+        </div>
+        <div style="height:8px;background:var(--bg2);border-radius:999px;overflow:hidden">
+          <div id="progress-bar" style="height:100%;background:linear-gradient(90deg,var(--primary),var(--primary-light));border-radius:999px;width:0%;transition:.6s"></div>
+        </div>
+      </div>
+      <button onclick="resetProgress()" style="background:none;border:none;font-size:.8rem;color:var(--muted);cursor:pointer;padding:6px 10px;border-radius:8px" title="إعادة التعيين">🔄</button>
+    </div>
+
+    <!-- Lessons Grid -->
+    <div class="lessons-grid" id="all-lessons"></div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <div class="footer-name">💙 مؤسسة الحنان الخاصة</div>
+        <div class="footer-sub">الأستاذ أحمد بوعمود — الاجتماعيات · الأولى بكالوريا</div>
+      </div>
+      <div class="footer-links">
+        <a href="index.html">الرئيسية</a>
+        <a href="lessons.html">الدروس</a>
+      </div>
+    </div>
+    <div class="footer-bottom">جميع الحقوق محفوظة © مؤسسة الحنان الخاصة 2025-2026</div>
+  </div>
+</footer>
+
+<script src="js/data.js"></script>
+<script>
+const READ_KEY = 'hanana_read_lessons';
+function getRead(){ try{ return JSON.parse(localStorage.getItem(READ_KEY)||'[]') }catch(e){return[]} }
+function markRead(id){ const r=getRead(); if(!r.includes(id)){ r.push(id); localStorage.setItem(READ_KEY,JSON.stringify(r)) } }
+function resetProgress(){ if(confirm('إعادة تعيين التقدم؟')){ localStorage.removeItem(READ_KEY); renderLessons('all') } }
+
+function renderLessons(filter){
+  const container = document.getElementById('all-lessons');
+  const read = getRead();
+  let lessons = HISTORY_LESSONS;
+  if(filter==='intro') lessons = HISTORY_LESSONS.filter(l=>l.id==='intro');
+  if(filter==='lesson') lessons = HISTORY_LESSONS.filter(l=>l.id!=='intro');
+
+  container.innerHTML = lessons.map((l,i) => {
+    const isRead = read.includes(l.id);
+    return `
+    <a href="lesson.html?id=${l.id}" class="lesson-card animate-in" style="animation-delay:${i*.06}s" onclick="markRead('${l.id}')">
+      <div class="lesson-card-header">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px">
+          <div class="lesson-badge" style="background:${l.gradient}">${l.badge}</div>
+          ${isRead ? '<span style="font-size:.75rem;color:var(--green);font-weight:700;display:flex;align-items:center;gap:4px"><span>✓</span> تمت القراءة</span>' : ''}
+        </div>
+        <div class="lesson-icon">${l.icon}</div>
+        <div class="lesson-title">${l.title}</div>
+        <div class="lesson-subtitle">${l.subtitle}</div>
+      </div>
+      <div class="lesson-card-body">
+        <div class="lesson-summary">${l.summary}</div>
+        <div class="lesson-meta">
+          <span class="lesson-duration">⏱ ${l.duration}</span>
+          <span class="lesson-btn" style="background:${l.gradient}">اقرأ الدرس ←</span>
+        </div>
+      </div>
+    </a>`;
+  }).join('');
+
+  const total = HISTORY_LESSONS.length;
+  const done = getRead().filter(id => HISTORY_LESSONS.find(l=>l.id===id)).length;
+  document.getElementById('progress-text').textContent = `${done} / ${total} دروس`;
+  document.getElementById('progress-bar').style.width = (done/total*100)+'%';
+}
+
+document.querySelectorAll('.filter-chip').forEach(btn => {
+  btn.addEventListener('click', function(){
+    document.querySelectorAll('.filter-chip').forEach(b=>b.classList.remove('active'));
+    this.classList.add('active');
+    renderLessons(this.dataset.filter);
+  });
+});
+
+renderLessons('all');
+</script>
+</body>
+</html>

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>الدرس — مؤسسة الحنان الخاصة</title>
+<link rel="stylesheet" href="css/style.css">
+<style>
+  .progress-top{position:fixed;top:73px;left:0;right:0;height:3px;z-index:200;background:var(--border)}
+  .progress-top-bar{height:100%;background:linear-gradient(90deg,var(--primary),var(--primary-light));width:0%;transition:.3s}
+  .toc-dot{width:8px;height:8px;border-radius:50%;background:var(--border);flex-shrink:0;margin-top:8px;transition:.2s}
+  .toc-dot.done{background:var(--green)}
+  .floating-actions{position:fixed;bottom:28px;left:28px;display:flex;flex-direction:column;gap:10px;z-index:90}
+  .fab{width:48px;height:48px;border-radius:50%;border:none;background:var(--card);box-shadow:var(--shadow);cursor:pointer;font-size:1.1rem;display:grid;place-items:center;transition:.2s;border:1px solid var(--border)}
+  .fab:hover{transform:scale(1.1);box-shadow:var(--shadow-lg)}
+  .fab.primary{background:var(--primary);color:#fff;border-color:transparent}
+  @media(max-width:768px){.floating-actions{display:none}}
+</style>
+</head>
+<body>
+
+<div class="progress-top"><div class="progress-top-bar" id="read-progress"></div></div>
+
+<header class="header">
+  <div class="container">
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <div class="logo-icon-wrap"><span>💙</span></div>
+        <div>
+          <span class="logo-name">مؤسسة الحنان الخاصة</span>
+          <span class="logo-sub">الأستاذ أحمد بوعمود</span>
+        </div>
+      </a>
+      <nav class="header-nav">
+        <a href="index.html" class="nav-link">الرئيسية</a>
+        <a href="lessons.html" class="nav-link active">الدروس</a>
+        <a href="lessons.html" class="nav-cta">جميع الدروس</a>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div id="page-hero" class="page-hero">
+  <div class="container">
+    <div class="page-hero-content">
+      <div class="breadcrumb">
+        <a href="index.html">الرئيسية</a>
+        <span class="breadcrumb-sep">›</span>
+        <a href="lessons.html">الدروس</a>
+        <span class="breadcrumb-sep">›</span>
+        <span id="hero-badge-text">...</span>
+      </div>
+      <h1 class="page-title" id="hero-title">جارٍ التحميل...</h1>
+      <p class="page-desc" id="hero-sub"></p>
+    </div>
+  </div>
+</div>
+
+<section class="section-sm">
+  <div class="container">
+    <div class="lesson-layout">
+
+      <!-- Sidebar -->
+      <aside class="lesson-sidebar">
+        <div class="sidebar-card">
+          <div class="sidebar-header" id="sidebar-header">📋 محتوى الدرس</div>
+          <nav class="sidebar-nav" id="sidebar-nav"></nav>
+        </div>
+        <div style="margin-top:16px;background:var(--card);border-radius:var(--radius);border:1px solid var(--border);padding:18px;box-shadow:var(--shadow-sm)">
+          <div style="font-size:.8rem;color:var(--muted);margin-bottom:8px;font-weight:700">⏱ وقت القراءة</div>
+          <div style="font-size:1.1rem;font-weight:800;color:var(--dark)" id="sidebar-duration"></div>
+        </div>
+      </aside>
+
+      <!-- Main Content -->
+      <main class="lesson-main" id="lesson-content">
+        <div style="text-align:center;padding:80px 0;color:var(--muted)">
+          <div style="font-size:2rem;margin-bottom:16px">⏳</div>
+          <p>جارٍ تحميل الدرس...</p>
+        </div>
+      </main>
+    </div>
+
+    <!-- Navigation -->
+    <div class="lesson-nav" id="lesson-nav" style="display:none"></div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <div class="footer-name">💙 مؤسسة الحنان الخاصة</div>
+        <div class="footer-sub">الأستاذ أحمد بوعمود — الاجتماعيات · الأولى بكالوريا</div>
+      </div>
+      <div class="footer-links">
+        <a href="index.html">الرئيسية</a>
+        <a href="lessons.html">الدروس</a>
+      </div>
+    </div>
+    <div class="footer-bottom">جميع الحقوق محفوظة © مؤسسة الحنان الخاصة 2025-2026</div>
+  </div>
+</footer>
+
+<div class="floating-actions">
+  <button class="fab" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="للأعلى">⬆️</button>
+  <button class="fab primary" onclick="window.location='lessons.html'" title="قائمة الدروس">📋</button>
+</div>
+
+<script src="js/data.js"></script>
+<script>
+(function(){
+  const params = new URLSearchParams(location.search);
+  const id = params.get('id') || 'intro';
+  const lesson = HISTORY_LESSONS.find(l=>l.id===id);
+  if(!lesson){ document.getElementById('lesson-content').innerHTML='<div style="text-align:center;padding:80px;color:var(--muted)"><div style="font-size:3rem">😕</div><h3>الدرس غير موجود</h3><a href="lessons.html" class="btn btn-primary" style="margin-top:24px;display:inline-flex">← الدروس</a></div>'; return; }
+
+  document.title = lesson.title + ' — مؤسسة الحنان الخاصة';
+  document.getElementById('hero-title').textContent = lesson.title;
+  document.getElementById('hero-sub').textContent = lesson.subtitle;
+  document.getElementById('hero-badge-text').textContent = lesson.badge;
+  document.getElementById('hero-badge-text').style.color = 'rgba(255,255,255,.7)';
+  document.getElementById('sidebar-duration').textContent = lesson.duration;
+  document.getElementById('sidebar-header').textContent = lesson.icon + ' ' + lesson.badge;
+  document.getElementById('sidebar-header').style.background = lesson.gradient;
+  document.getElementById('sidebar-header').style.color = '#fff';
+  document.getElementById('sidebar-header').style.padding = '18px 20px';
+
+  const navItems = ['الخلاصة','الركائز','بطاقات المفاهيم'];
+  if(lesson.exercise) navItems.push('التطبيق المنهجي');
+  const sidebarNav = document.getElementById('sidebar-nav');
+  sidebarNav.innerHTML = navItems.map((n,i)=>`
+    <a href="#sec-${i}" onclick="document.getElementById('sec-${i}')?.scrollIntoView({behavior:'smooth'});return false">
+      <span class="toc-dot" id="toc-${i}"></span>
+      <span>${n}</span>
+    </a>
+  `).join('');
+
+  try{
+    const r = JSON.parse(localStorage.getItem('hanana_read_lessons')||'[]');
+    if(!r.includes(id)){ r.push(id); localStorage.setItem('hanana_read_lessons',JSON.stringify(r)); }
+  }catch(e){}
+
+  const hasExercise = lesson.exercise;
+  const conceptsHTML = lesson.concepts.length ? `
+    <div class="content-card animate-in delay-2" id="sec-2">
+      <div class="content-card-header">
+        <div class="content-num" style="background:rgba(5,150,105,.1)">🧩</div>
+        <div>
+          <div class="content-card-title">بطاقات المفاهيم</div>
+          <div class="content-card-sub">المصطلحات الأساسية للدرس</div>
+        </div>
+      </div>
+      <div class="content-card-body">
+        <div class="concepts-grid">
+          ${lesson.concepts.map(c=>`
+            <div class="concept-card">
+              <div><div class="concept-tag">${c.term}</div></div>
+              <div class="concept-def">${c.definition}</div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    </div>
+  ` : '';
+
+  const exerciseHTML = hasExercise ? `
+    <div class="content-card animate-in delay-3" id="sec-3">
+      <div class="content-card-header">
+        <div class="content-num" style="background:rgba(217,119,6,.1)">✏️</div>
+        <div>
+          <div class="content-card-title">التطبيق المنهجي</div>
+          <div class="content-card-sub">مهمة تدريبية</div>
+        </div>
+      </div>
+      <div class="content-card-body">
+        <div class="exercise-box">
+          <div class="exercise-label">📝 مهمة تدريبية</div>
+          <div class="exercise-text">${lesson.exercise}</div>
+        </div>
+        <div style="margin-top:20px">
+          <textarea style="width:100%;min-height:120px;border:2px solid var(--border);border-radius:12px;padding:16px;font-family:inherit;font-size:.9rem;color:var(--text);background:var(--bg);resize:vertical;outline:none;direction:rtl;line-height:1.8" placeholder="اكتب إجابتك هنا..." onfocus="this.style.borderColor='var(--primary)'" onblur="this.style.borderColor='var(--border)'"></textarea>
+        </div>
+      </div>
+    </div>
+  ` : '';
+
+  document.getElementById('lesson-content').innerHTML = `
+    <div class="content-card animate-in" id="sec-0">
+      <div class="content-card-header">
+        <div class="content-num" style="background:${lesson.color}15">📌</div>
+        <div>
+          <div class="content-card-title">الخلاصة المركزة</div>
+          <div class="content-card-sub">الفكرة الرئيسية للدرس</div>
+        </div>
+      </div>
+      <div class="content-card-body">
+        <div class="summary-box">
+          <div class="summary-label">🦅 خلاصة</div>
+          <div class="summary-text">${lesson.summary}</div>
+        </div>
+        <div style="display:flex;gap:10px;flex-wrap:wrap">
+          <span class="tag tag-blue">📅 القرنان 19 و 20م</span>
+          <span class="tag tag-gold">⏱ ${lesson.duration}</span>
+          <span class="tag tag-green">✅ ${lesson.concepts.length} مفاهيم</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="content-card animate-in delay-1" id="sec-1">
+      <div class="content-card-header">
+        <div class="content-num" style="background:${lesson.color}15">🔍</div>
+        <div>
+          <div class="content-card-title">الركائز التحليلية</div>
+          <div class="content-card-sub">التحليل المنهجي للدرس</div>
+        </div>
+      </div>
+      <div class="content-card-body">
+        <div class="pillars-grid">
+          ${lesson.pillars.map((p,i)=>`
+            <div class="pillar-item">
+              <div class="pillar-dot" style="background:${lesson.color}"></div>
+              <div class="pillar-content">
+                <div class="pillar-title">${p.title}</div>
+                <div class="pillar-detail">${p.detail}</div>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    </div>
+
+    ${conceptsHTML}
+    ${exerciseHTML}
+  `;
+
+  const idx = HISTORY_LESSONS.findIndex(l=>l.id===id);
+  const prev = idx > 0 ? HISTORY_LESSONS[idx-1] : null;
+  const next = idx < HISTORY_LESSONS.length-1 ? HISTORY_LESSONS[idx+1] : null;
+  const nav = document.getElementById('lesson-nav');
+  nav.style.display = 'flex';
+  nav.innerHTML = `
+    ${next ? `<a href="lesson.html?id=${next.id}" class="lesson-nav-btn" style="text-align:right">
+      <div style="font-size:1.5rem">←</div>
+      <div>
+        <div class="nav-btn-label">الدرس التالي</div>
+        <div class="nav-btn-title">${next.title}</div>
+      </div>
+    </a>` : '<div></div>'}
+    ${prev ? `<a href="lesson.html?id=${prev.id}" class="lesson-nav-btn next" style="text-align:left">
+      <div>
+        <div class="nav-btn-label">الدرس السابق</div>
+        <div class="nav-btn-title">${prev.title}</div>
+      </div>
+      <div style="font-size:1.5rem">→</div>
+    </a>` : '<div></div>'}
+  `;
+
+  window.addEventListener('scroll', function(){
+    const h = document.documentElement;
+    const pct = (h.scrollTop/(h.scrollHeight-h.clientHeight))*100;
+    document.getElementById('read-progress').style.width = Math.min(pct,100)+'%';
+  });
+
+})();
+</script>
+</body>
+</html>
