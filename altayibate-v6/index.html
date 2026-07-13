@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0f6b4f">
+  <meta name="description" content="تطبيق عربي منظم لمتابعة نظام الطيبات: دليل أغذية، فاحص مكونات، مخطط أسبوعي ودفتر متابعة محلي.">
+  <meta name="color-scheme" content="light dark">
+  <meta name="application-name" content="نظام الطيبات">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>نظام الطيبات — دليل وتخطيط ومتابعة</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png">
+  <link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+  <a class="skip-link" href="#app-main">تجاوز إلى المحتوى</a>
+
+  <div id="app" class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#/home" aria-label="الصفحة الرئيسية">
+        <span class="brand-mark" aria-hidden="true">ط</span>
+        <span>
+          <strong>نظام الطيبات</strong>
+          <small>نسخة عملية قابلة للتطور</small>
+        </span>
+      </a>
+      <div class="topbar-actions">
+        <button id="install-btn" class="icon-btn hidden" type="button" title="تثبيت التطبيق" aria-label="تثبيت التطبيق">⬇</button>
+        <button id="theme-btn" class="icon-btn" type="button" title="الوضع الليلي" aria-label="تبديل المظهر">◐</button>
+        <button id="menu-btn" class="icon-btn mobile-only" type="button" aria-controls="side-nav" aria-expanded="false" aria-label="فتح القائمة">☰</button>
+      </div>
+    </header>
+
+    <aside id="side-nav" class="side-nav" aria-label="التنقل الرئيسي">
+      <nav>
+        <a href="#/home" data-route="home"><span>⌂</span>الرئيسية</a>
+        <a href="#/foods" data-route="foods"><span>◉</span>دليل الأغذية</a>
+        <a href="#/checker" data-route="checker"><span>⌕</span>فاحص المكونات</a>
+        <a href="#/planner" data-route="planner"><span>▦</span>المخطط الأسبوعي</a>
+        <a href="#/journal" data-route="journal"><span>✎</span>دفتر المتابعة</a>
+        <a href="#/learn" data-route="learn"><span>◇</span>المنهجية</a>
+        <a href="#/settings" data-route="settings"><span>⚙</span>البيانات والإعدادات</a>
+      </nav>
+      <div class="side-note">
+        <strong>تنبيه صحي</strong>
+        <p>هذا التطبيق أداة تنظيمية، وليس تشخيصاً أو وصفة علاجية. لا توقف دواءً ولا تغيّر علاجاً دون طبيب.</p>
+      </div>
+      <small class="side-version">الإصدار 6.1.0 • يوليوز 2026</small>
+    </aside>
+
+    <div id="nav-backdrop" class="nav-backdrop" hidden></div>
+
+    <main id="app-main" class="main-content" tabindex="-1">
+      <div id="route-view" aria-live="polite"></div>
+    </main>
+
+    <nav class="bottom-nav" aria-label="التنقل السريع">
+      <a href="#/home" data-route="home"><span>⌂</span><small>الرئيسية</small></a>
+      <a href="#/foods" data-route="foods"><span>◉</span><small>الأغذية</small></a>
+      <a href="#/checker" data-route="checker"><span>⌕</span><small>الفاحص</small></a>
+      <a href="#/planner" data-route="planner"><span>▦</span><small>الخطة</small></a>
+      <a href="#/journal" data-route="journal"><span>✎</span><small>المتابعة</small></a>
+    </nav>
+  </div>
+
+  <div id="toast-region" class="toast-region" aria-live="assertive" aria-atomic="true"></div>
+
+  <dialog id="onboarding-dialog" class="app-dialog">
+    <form method="dialog" id="onboarding-form">
+      <div class="dialog-head">
+        <span class="brand-mark large" aria-hidden="true">ط</span>
+        <div>
+          <h2>مرحباً بك في الطيبات V6</h2>
+          <p>لننشئ تجربة متابعة بسيطة ومحلية على جهازك.</p>
+        </div>
+      </div>
+      <label class="field">
+        <span>الاسم المختصر (اختياري)</span>
+        <input id="profile-name" name="name" maxlength="30" placeholder="مثال: أحمد">
+      </label>
+      <fieldset>
+        <legend>ما هدفك الرئيسي؟</legend>
+        <div class="choice-grid">
+          <label><input type="radio" name="goal" value="organization" checked><span>تنظيم الوجبات</span></label>
+          <label><input type="radio" name="goal" value="learning"><span>فهم القواعد</span></label>
+          <label><input type="radio" name="goal" value="tracking"><span>متابعة الالتزام</span></label>
+        </div>
+      </fieldset>
+      <label class="consent-line">
+        <input id="safety-consent" type="checkbox" required>
+        <span>أفهم أن التطبيق لا يعوّض الطبيب، ولن أستخدمه لإيقاف دواء أو علاج.</span>
+      </label>
+      <menu>
+        <button class="btn primary" value="confirm">ابدأ الاستخدام</button>
+      </menu>
+    </form>
+  </dialog>
+
+  <noscript>
+    <div class="noscript">يتطلب التطبيق تفعيل JavaScript.</div>
+  </noscript>
+
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>
