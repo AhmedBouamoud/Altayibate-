@@ -4,8 +4,8 @@ const file = new URL("./content.json", import.meta.url);
 const forbidden = [
   "معجزة", "شفاء نهائي", "يعالج كل", "علاجك في", "في 12 يوم",
   "أوقف الدواء", "اترك الدواء", "إيقاف العلاج", "وقف العلاج",
-  "يغني عن الأدوية", "الاستغناء عن الأدوية", "بديل الأدوية", "بدون أدوية",
-  "بدون طبيب", "من قتل", "أخطر وثائقي", "قنبلة", "الحقيقة الكاملة",
+  "الاستغناء عن الأدوية", "بديل الأدوية", "بدون أدوية", "بدون طبيب",
+  "من قتل", "أخطر وثائقي", "قنبلة", "الحقيقة الكاملة",
   "cure all", "miracle cure", "stop medication", "bombshell"
 ];
 
@@ -14,13 +14,23 @@ function normalize(value = "") {
     .toLowerCase()
     .normalize("NFKD")
     .replace(/[\u064B-\u065F\u0670]/g, "")
+    .replace(/[أإآ]/g, "ا")
+    .replace(/ى/g, "ي")
+    .replace(/ة/g, "ه")
     .replace(/[^\p{L}\p{N}]+/gu, " ")
     .trim();
 }
 
 function unsafe(value = "") {
   const text = normalize(value);
-  return forbidden.some((term) => text.includes(normalize(term)));
+  const directMatch = forbidden.some((term) => text.includes(normalize(term)));
+  const medicineEscapeClaim = /(يغني|استغن|بديل|اوقف|اترك)/.test(text)
+    && /(دواء|ادويه|علاج)/.test(text);
+  const rapidTreatmentClaim = /(علاج|شفاء|يعالج)/.test(text)
+    && /\b\d{1,2}\s*(يوم|ايام|اسبوع|اسابيع)\b/.test(text);
+  const conspiracyClaim = /(قتل|مؤامره|اخطر وثائقي)/.test(text)
+    && /(دكتور|طبيب|نظام الطيبات)/.test(text);
+  return directMatch || medicineEscapeClaim || rapidTreatmentClaim || conspiracyClaim;
 }
 
 function cleanText(value = "") {
@@ -64,7 +74,7 @@ data.diagnostics = {
   ...(data.diagnostics || {}),
   articleCount: articles.length,
   videoCount: videos.length,
-  safetyFilterVersion: 2
+  safetyFilterVersion: 3
 };
 
 await fs.writeFile(file, `${JSON.stringify(data, null, 2)}\n`, "utf8");
