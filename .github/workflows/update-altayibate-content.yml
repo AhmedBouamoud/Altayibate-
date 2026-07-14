@@ -1,0 +1,52 @@
+name: Update Altayibate Content
+
+on:
+  schedule:
+    # Runs daily, while the script performs a real refresh only after 72 hours.
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "auto-content/update-content.mjs"
+      - ".github/workflows/update-altayibate-content.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-altayibate-content
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Collect and filter new content
+        env:
+          FORCE_UPDATE: ${{ github.event_name != 'schedule' }}
+        run: node auto-content/update-content.mjs
+
+      - name: Validate content feed
+        run: |
+          node -e "const f=require('./auto-content/content.json'); if(!Array.isArray(f.articles)||!Array.isArray(f.videos)) process.exit(1); console.log({status:f.status,articles:f.articles.length,videos:f.videos.length,lastUpdated:f.lastUpdated})"
+
+      - name: Commit refreshed feed
+        run: |
+          if git diff --quiet -- auto-content/content.json; then
+            echo "No content changes to commit."
+            exit 0
+          fi
+          git config user.name "Altayibate Content Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add auto-content/content.json
+          git commit -m "chore(content): refresh articles and videos"
+          git push
