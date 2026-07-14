@@ -25,12 +25,18 @@ function unsafe(value = "") {
   const text = normalize(value);
   const directMatch = forbidden.some((term) => text.includes(normalize(term)));
   const medicineEscapeClaim = /(يغني|استغن|بديل|اوقف|اترك)/.test(text)
-    && /(دواء|ادويه|علاج)/.test(text);
-  const rapidTreatmentClaim = /(علاج|شفاء|يعالج)/.test(text)
-    && /\b\d{1,2}\s*(يوم|ايام|اسبوع|اسابيع)\b/.test(text);
+    && /(دواء|ادويه|علاج|medicine|medication)/.test(text);
+  const noMedicineCureClaim = /(علاج|شفاء|يعالج|treat|cure)/.test(text)
+    && /(دون|بدون|من غير|without|no medication)/.test(text)
+    && /(دواء|ادويه|medicine|medication)/.test(text);
+  const definitiveCureClaim = /(علاج|شفاء|يعالج|treat|cure)/.test(text)
+    && /(نهائي|دائم|سريع|permanent|permanently|quickly)/.test(text);
+  const rapidTreatmentClaim = /(علاج|شفاء|يعالج|treat|cure)/.test(text)
+    && /\b\d{1,2}\s*(يوم|ايام|اسبوع|اسابيع|day|days|week|weeks)\b/.test(text);
   const conspiracyClaim = /(قتل|مؤامره|اخطر وثائقي)/.test(text)
     && /(دكتور|طبيب|نظام الطيبات)/.test(text);
-  return directMatch || medicineEscapeClaim || rapidTreatmentClaim || conspiracyClaim;
+  return directMatch || medicineEscapeClaim || noMedicineCureClaim
+    || definitiveCureClaim || rapidTreatmentClaim || conspiracyClaim;
 }
 
 function cleanText(value = "") {
@@ -74,7 +80,7 @@ data.diagnostics = {
   ...(data.diagnostics || {}),
   articleCount: articles.length,
   videoCount: videos.length,
-  safetyFilterVersion: 3
+  safetyFilterVersion: 4
 };
 
 await fs.writeFile(file, `${JSON.stringify(data, null, 2)}\n`, "utf8");
