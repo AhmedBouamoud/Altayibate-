@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-07-14T22:51:25.994Z",
-  "nextUpdateAfter": "2026-07-17T22:51:25.994Z",
+  "lastUpdated": "2026-07-14T22:54:02.172Z",
+  "nextUpdateAfter": "2026-07-17T22:54:02.172Z",
   "status": "ready",
   "notice": "المقالات والفيديوهات روابط خارجية منتقاة آليًا للتثقيف العام. لا توقف دواءً ولا تغيّر علاجًا دون استشارة مختص.",
   "articles": [
@@ -118,6 +118,48 @@
   ],
   "videos": [
     {
+      "id": "youtube-9qvyWdLoqIM",
+      "videoId": "9qvyWdLoqIM",
+      "title": "انتهت المهمة ؟ دكتور ضياء العوضي يستنجد خدوا لي حقي! مصير نظام الطيبات؟اعتراف (إجابة لكل تساؤلاتكم).",
+      "channel": "d home - دي هوم",
+      "publishedLabel": "2 months ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=9qvyWdLoqIM",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/9qvyWdLoqIM",
+      "thumbnail": "https://i.ytimg.com/vi/9qvyWdLoqIM/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-FCd3LE1G1h4",
+      "videoId": "FCd3LE1G1h4",
+      "title": "اهم فيديو في تاريخ النظام ما هو نظام الطيبات؟ د. ضياء العوضي يشرح أسسه ووجهة نظره كاملة",
+      "channel": "نظام الطيبات والصحة العامة علم وحياه",
+      "publishedLabel": "4 months ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=FCd3LE1G1h4",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/FCd3LE1G1h4",
+      "thumbnail": "https://i.ytimg.com/vi/FCd3LE1G1h4/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-07YqhzA_7gE",
+      "videoId": "07YqhzA_7gE",
+      "title": "نظام الطيبات pdf - للدكتور ضياء العوضى",
+      "channel": "Graphic Design",
+      "publishedLabel": "2 months ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=07YqhzA_7gE",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/07YqhzA_7gE",
+      "thumbnail": "https://i.ytimg.com/vi/07YqhzA_7gE/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
       "id": "youtube-7a4r1Ui7IIY",
       "videoId": "7a4r1Ui7IIY",
       "title": "جدول يومي كامل على نظام الطيبات | د. ضياء العوضي 🔥",
@@ -146,20 +188,6 @@
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
     },
     {
-      "id": "youtube-K-MV5R8aRfo",
-      "videoId": "K-MV5R8aRfo",
-      "title": "علاج الامراض النفسيه بشكل نهائي وسريع وبأسهل طريقة دون اخذ اى ادويه",
-      "channel": "دكتور ضياء العوضي نظام الطيبات",
-      "publishedLabel": "2 months ago",
-      "duration": "",
-      "url": "https://www.youtube.com/watch?v=K-MV5R8aRfo",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/K-MV5R8aRfo",
-      "thumbnail": "https://i.ytimg.com/vi/K-MV5R8aRfo/hqdefault.jpg",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "video",
-      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
-    },
-    {
       "id": "youtube-kNYNamPOkRs",
       "videoId": "kNYNamPOkRs",
       "title": "د ضياء العوضى نظام الطيبات رجل بحق بس كده",
@@ -169,34 +197,6 @@
       "url": "https://www.youtube.com/watch?v=kNYNamPOkRs",
       "embedUrl": "https://www.youtube-nocookie.com/embed/kNYNamPOkRs",
       "thumbnail": "https://i.ytimg.com/vi/kNYNamPOkRs/hqdefault.jpg",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "video",
-      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
-    },
-    {
-      "id": "youtube-xZngTPKjtYc",
-      "videoId": "xZngTPKjtYc",
-      "title": "غداء ٣٣ على نظام الطيبات للدكتور ضياء العوضي رحمة الله عليه",
-      "channel": "Anas Family UK عائلة أنس",
-      "publishedLabel": "3 days ago",
-      "duration": "",
-      "url": "https://www.youtube.com/watch?v=xZngTPKjtYc",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/xZngTPKjtYc",
-      "thumbnail": "https://i.ytimg.com/vi/xZngTPKjtYc/hqdefault.jpg",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "video",
-      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
-    },
-    {
-      "id": "youtube-9msEYaoTedQ",
-      "videoId": "9msEYaoTedQ",
-      "title": "How to Treat High Blood Pressure Quickly, Permanently, and Easily Without Any Medication",
-      "channel": "دكتور ضياء العوضي نظام الطيبات",
-      "publishedLabel": "2 months ago",
-      "duration": "",
-      "url": "https://www.youtube.com/watch?v=9msEYaoTedQ",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/9msEYaoTedQ",
-      "thumbnail": "https://i.ytimg.com/vi/9msEYaoTedQ/hqdefault.jpg",
       "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
@@ -216,7 +216,7 @@
       "نظام الطيبات التغذية",
       "التغذية الصحية بالعربية"
     ],
-    "safetyFilterVersion": 3
+    "safetyFilterVersion": 4
   },
-  "safetyReviewedAt": "2026-07-14T22:51:34.145Z"
+  "safetyReviewedAt": "2026-07-14T22:54:10.396Z"
 }
