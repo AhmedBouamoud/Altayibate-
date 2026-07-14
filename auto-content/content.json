@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-07-14T22:47:42.463Z",
-  "nextUpdateAfter": "2026-07-17T22:47:42.463Z",
+  "lastUpdated": "2026-07-14T22:51:25.994Z",
+  "nextUpdateAfter": "2026-07-17T22:51:25.994Z",
   "status": "ready",
   "notice": "المقالات والفيديوهات روابط خارجية منتقاة آليًا للتثقيف العام. لا توقف دواءً ولا تغيّر علاجًا دون استشارة مختص.",
   "articles": [
@@ -12,17 +12,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPenVBOTByZV85eTdSYTJLckoyTXV2NHEzWDIxakpHdmUyaHU4T3U5VTFhcUF5TnFtc1F1QWtWYVI2WnVTbFhHeXAxT3FwSHRTQTN6cE1lOGs2cy1TVXdTNWVGbUxoVE4zbDdZNDJoZWFLYm1xdk1FOXBKZlFmSXR1eFhYQW83SEtleWRfOFBLNGVWdlo1T2Q2cG9RUTdGQVUxaUZxVlJrZENubVdLbktyRzVLOTVnNjFsVWZBTWMwcmN0T3lkVnYxd0lWUWtFbkJoUE1heV9TLUpFOENkaUxKTWFoTXY4bkpyYXVzbkZwNDRiYzdkSjF6QUtTVWZDTzVwRGFJQWdYUDhsQnE3QW5hejBrWTNhWDNTZDNnanUwMnhnYmJVcDJPclhOT3lhUVUySm1QWUszclVUWXJFN25zYTFxem12ZUo3WGpr?oc=5",
       "source": "صحيفة الوئام",
       "publishedAt": "2026-07-14T20:49:31.000Z",
-      "query": "السكري التغذية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2KfYs9iq2LTYp9ix2Yog2KrY",
-      "title": "استشاري تغذية علاجية: فقدان الوزن قد يُغني بعض مرضى السكر والضغط عن الأدوية",
-      "summary": "مادة جديدة من اليوم السابع. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNekFJc1NBRDJHckxYYU9hZHhOU3ZvbWZwaFNtcUUwWDlQekZQUDVLTGdtbkhKV0xHWDE1WlNoQ1gydU5pU0p4QXJyQ1NtX2ZKNjBQSXRqMnI2cFg1cnNFTmVELWJ1bHh6Q1JybkJZaGlsS2cwY0hCc01pVEVSQkt0dTZwMUlDQ0JidFpJRGVLY0FwSG5YUE50ZnhWM3V2ck9icjloWkRKd2t0NFpuaVRaYmlVWHRLeUp3dWpIc2NWV1g1SXhzNEJIR2I3THA0LTFGNjRvUWdwdWRNQVJPTkUtaC0xdFNUNlhjSElKRkM3RkVSLWhyZ2N4akxZWFNwQ2RRRy1FdHdnREgyeHlzaG5DUVVEb1h0Z0JkbFZnT2xFdkdwZGk3MGhYbmd6ZDNsQkt0WFJsUWpwTjFqdmdXN2pXUHZVTmhnNzJUNmdtRGVkU1AyT2E1aTJaQVNyV29fN2tESDFUcFN6ZGI2NkRGcUVBMS1uZGZ6NTI3TjBFTkhETWROQ2pXTU1teTA4N0xYRl9aVjNlZ3ktRUxjZEFvZlZ4el9tc1BZQnN4Qnk0UTh6ci1ZTGFYMlJNN3ZsUmUwZXItLUVtNmVYMzZRdWdLY1hCb3BBZmVVSkFO0gHYA0FVX3lxTE16QUlzU0FEMkdyTFhhT2FkeE5Tdm9tZnBoU21xRTBYOVB6RlBQNUtMZ21uSEpXTEdYMTVaU2hDWDJ1TmlTSnhBcnJDU21fZko2MFBJdGoycjZwWDVyc0VOZUQtYnVseHpDUnJuQlloaWxLZzBjSEJzTWlURVJCS3R1NnAxSUNDQmJ0WklEZUtjQXBIblhQTnRmeFYzdXZyT2JyOWhaREp3a3Q0Wm5pVFpiaVVYdEt5Snd1akhzY1ZXWDVJeHM0QkhHYjdMcDQtMUY2NG9RZ3B1ZE1BUk9ORS1oLTF0U1Q2WGNISUpGQzdGRVItaHJnY3hqTFlYU3BDZFFHLUV0d2dESDJ4eXNobkNRVURvWHRnQmRsVmdPbEV2R3BkaTcwaFhuZ3pkM2xCS3RYUmxRanBOMWp2Z1c3aldQdlVOaGc3MlQ2Z21EZWRTUDJPYTVpMlpBU3JXb183a0RIMVRwU3pkYjY2REZxRUExLW5kZno1MjdOMEVOSERNZE5DaldNTW15MDg3TFhGX1pWM2VneS1FTGNkQW9mVnh6X21zUFlCc3hCeTRROHpyLVlMYVgyUk03dmxSZTBlci0tRW02ZVgzNlF1Z0tjWEJvcEFmZVVKQU4?oc=5",
-      "source": "اليوم السابع",
-      "publishedAt": "2026-07-13T15:13:04.000Z",
       "query": "السكري التغذية",
       "type": "article",
       "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
@@ -114,37 +103,20 @@
       "query": "التغذية الصحية",
       "type": "article",
       "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2YfZhCDZitit2YXZiiDZgdmG",
+      "title": "هل يحمي فنجان القهوة أو كوب الشاي من السكري؟.. دراسات تكشف مفاجأة",
+      "summary": "مادة جديدة من بوابة أخبار اليوم الإلكترونية. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTB1anh0cjJOMFVNN2V5b1JNS0NkX2d1VTRaTXUwNktyckpuSGZRVzFWeXlPS0lWUVlDNkI1Wm5UYnRpU1MtT3N1VXBIWTN3TFU0d1RhU2dtNE1yR0xOa1RKMkpHSzVJN1R1elI5UkpiWnFTeDJGQnR2WUVYeENoM0huTGtFX0hUQXRwOFJwTXliSnJnOFVNaHF3VmJTdXpRQU9NSkZVYnRUY1p4ZzBJdjlycw?oc=5",
+      "source": "بوابة أخبار اليوم الإلكترونية",
+      "publishedAt": "2026-07-11T22:17:30.000Z",
+      "query": "السكري التغذية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
     }
   ],
   "videos": [
-    {
-      "id": "youtube-K-MV5R8aRfo",
-      "videoId": "K-MV5R8aRfo",
-      "title": "علاج الامراض النفسيه بشكل نهائي وسريع وبأسهل طريقة دون اخذ اى ادويه",
-      "channel": "دكتور ضياء العوضي نظام الطيبات",
-      "publishedLabel": "2 months ago",
-      "duration": "",
-      "url": "https://www.youtube.com/watch?v=K-MV5R8aRfo",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/K-MV5R8aRfo",
-      "thumbnail": "https://i.ytimg.com/vi/K-MV5R8aRfo/hqdefault.jpg",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "video",
-      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
-    },
-    {
-      "id": "youtube-9msEYaoTedQ",
-      "videoId": "9msEYaoTedQ",
-      "title": "How to Treat High Blood Pressure Quickly, Permanently, and Easily Without Any Medication",
-      "channel": "دكتور ضياء العوضي نظام الطيبات",
-      "publishedLabel": "2 months ago",
-      "duration": "",
-      "url": "https://www.youtube.com/watch?v=9msEYaoTedQ",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/9msEYaoTedQ",
-      "thumbnail": "https://i.ytimg.com/vi/9msEYaoTedQ/hqdefault.jpg",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "video",
-      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
-    },
     {
       "id": "youtube-7a4r1Ui7IIY",
       "videoId": "7a4r1Ui7IIY",
@@ -169,6 +141,20 @@
       "url": "https://www.youtube.com/watch?v=PQcRrlDCmUA",
       "embedUrl": "https://www.youtube-nocookie.com/embed/PQcRrlDCmUA",
       "thumbnail": "https://i.ytimg.com/vi/PQcRrlDCmUA/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-K-MV5R8aRfo",
+      "videoId": "K-MV5R8aRfo",
+      "title": "علاج الامراض النفسيه بشكل نهائي وسريع وبأسهل طريقة دون اخذ اى ادويه",
+      "channel": "دكتور ضياء العوضي نظام الطيبات",
+      "publishedLabel": "2 months ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=K-MV5R8aRfo",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/K-MV5R8aRfo",
+      "thumbnail": "https://i.ytimg.com/vi/K-MV5R8aRfo/hqdefault.jpg",
       "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
@@ -200,6 +186,20 @@
       "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-9msEYaoTedQ",
+      "videoId": "9msEYaoTedQ",
+      "title": "How to Treat High Blood Pressure Quickly, Permanently, and Easily Without Any Medication",
+      "channel": "دكتور ضياء العوضي نظام الطيبات",
+      "publishedLabel": "2 months ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=9msEYaoTedQ",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/9msEYaoTedQ",
+      "thumbnail": "https://i.ytimg.com/vi/9msEYaoTedQ/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
     }
   ],
   "diagnostics": {
@@ -216,7 +216,7 @@
       "نظام الطيبات التغذية",
       "التغذية الصحية بالعربية"
     ],
-    "safetyFilterVersion": 2
+    "safetyFilterVersion": 3
   },
-  "safetyReviewedAt": "2026-07-14T22:47:50.649Z"
+  "safetyReviewedAt": "2026-07-14T22:51:34.145Z"
 }
