@@ -2,12 +2,13 @@ name: Update Altayibate Content
 
 on:
   schedule:
-    # Runs daily, while the script performs a real refresh only after 72 hours.
+    # Runs daily, while the collector performs a real refresh only after 72 hours.
     - cron: "17 6 * * *"
   workflow_dispatch:
   push:
     paths:
       - "auto-content/update-content.mjs"
+      - "auto-content/sanitize-content.mjs"
       - ".github/workflows/update-altayibate-content.yml"
 
 permissions:
@@ -30,14 +31,17 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Collect and filter new content
+      - name: Collect new content
         env:
           FORCE_UPDATE: ${{ github.event_name != 'schedule' }}
         run: node auto-content/update-content.mjs
 
+      - name: Apply medical and sensational-content safety review
+        run: node auto-content/sanitize-content.mjs
+
       - name: Validate content feed
         run: |
-          node -e "const f=require('./auto-content/content.json'); if(!Array.isArray(f.articles)||!Array.isArray(f.videos)) process.exit(1); console.log({status:f.status,articles:f.articles.length,videos:f.videos.length,lastUpdated:f.lastUpdated})"
+          node -e "const f=require('./auto-content/content.json'); if(!Array.isArray(f.articles)||!Array.isArray(f.videos)) process.exit(1); if(!f.safetyReviewedAt) process.exit(1); console.log({status:f.status,articles:f.articles.length,videos:f.videos.length,lastUpdated:f.lastUpdated,safetyReviewedAt:f.safetyReviewedAt})"
 
       - name: Commit refreshed feed
         run: |
@@ -48,5 +52,5 @@ jobs:
           git config user.name "Altayibate Content Bot"
           git config user.email "actions@users.noreply.github.com"
           git add auto-content/content.json
-          git commit -m "chore(content): refresh articles and videos"
+          git commit -m "chore(content): refresh reviewed articles and videos"
           git push
