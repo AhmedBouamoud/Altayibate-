@@ -104,7 +104,7 @@
       "ضغط الدم حمية DASH",
       "التغذية الصحية القلب والسكري"
     ],
-    "safetyFilterVersion": 5,
+    "safetyFilterVersion": 4,
     "deduplicated": true,
     "rejectedForSafety": [
       "ادعاءات الشفاء أو العلاج الطبيعي البديل",
@@ -113,5 +113,5 @@
       "مصادر مجهولة أو غير طبية"
     ]
   },
-  "safetyReviewedAt": "2026-07-18T06:59:34.000Z"
+  "safetyReviewedAt": "2026-07-18T08:07:37.814Z"
 }
