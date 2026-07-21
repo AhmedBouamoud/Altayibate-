@@ -1,10 +1,21 @@
 {
   "version": 2,
-  "lastUpdated": "2026-07-18T06:59:34.000Z",
-  "nextUpdateAfter": "2026-07-21T06:59:34.000Z",
+  "lastUpdated": "2026-07-21T07:01:41.000Z",
+  "nextUpdateAfter": "2026-07-24T07:01:41.000Z",
   "status": "ready",
   "notice": "هذا المحتوى للتثقيف العام فقط، ولا يُعد تشخيصًا أو وصفة علاجية. لا توقف دواءً ولا تغيّر جرعته أو نظامك العلاجي دون استشارة الطبيب أو الصيدلي.",
   "articles": [
+    {
+      "id": "article-who-urban-food-environments-2026",
+      "title": "دعم الغذاء الصحي والآمن في البيئات الحضرية",
+      "summary": "وثيقة تقنية حديثة من منظمة الصحة العالمية تشرح كيف تؤثر بيئات الغذاء في المدن على الوصول إلى الطعام الصحي، وتقترح سياسات عملية تشمل المشتريات العامة الصحية، والوسم الغذائي، ودعم الأسواق والأغذية الطازجة.",
+      "url": "https://www.who.int/publications/i/item/B09723",
+      "source": "منظمة الصحة العالمية",
+      "publishedAt": "2026-07-01T00:00:00.000Z",
+      "query": "التغذية الصحية والبيئات الغذائية الحضرية",
+      "type": "article",
+      "safetyLabel": "مرجع صحي رسمي — للتثقيف العام ولا يغيّر العلاج"
+    },
     {
       "id": "article-who-healthy-diet-2026",
       "title": "النظام الغذائي الصحي: مبادئ الكفاية والتوازن والاعتدال والتنوع",
@@ -63,20 +74,6 @@
   ],
   "videos": [
     {
-      "id": "youtube-0rxsjNSHD_M",
-      "videoId": "0rxsjNSHD_M",
-      "title": "ارتفاع ضغط الدم: ماذا نأكل وماذا نقلل؟ دليل حمية DASH",
-      "channel": "Mayo Clinic",
-      "publishedLabel": "13 فبراير 2026",
-      "duration": "36:00",
-      "url": "https://www.youtube.com/watch?v=0rxsjNSHD_M",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/0rxsjNSHD_M",
-      "thumbnail": "https://i.ytimg.com/vi/0rxsjNSHD_M/hqdefault.jpg",
-      "query": "ضغط الدم حمية DASH",
-      "type": "video",
-      "safetyLabel": "محتوى تثقيفي من مايو كلينك — الدواء لا يُوقف إلا بتوجيه طبي"
-    },
-    {
       "id": "youtube-VKXQcNHYS1w",
       "videoId": "VKXQcNHYS1w",
       "title": "الإرشادات الغذائية الجديدة: ما الذي تغير ولماذا يهم صحة القلب والتمثيل الغذائي؟",
@@ -88,20 +85,19 @@
       "thumbnail": "https://i.ytimg.com/vi/VKXQcNHYS1w/hqdefault.jpg",
       "query": "التغذية الصحية القلب والسكري",
       "type": "video",
-      "safetyLabel": "محتوى طبي تعليمي موثوق — لا يقدّم علاجًا فرديًا"
+      "safetyLabel": "محتوى طبي تعليمي من مايو كلينك — لا يقدّم علاجًا فرديًا"
     }
   ],
   "diagnostics": {
-    "articleCount": 5,
-    "videoCount": 2,
+    "articleCount": 6,
+    "videoCount": 1,
     "articleQueries": [
       "التغذية الصحية",
       "السكري التغذية",
       "ضغط الدم التغذية",
-      "نظام غذائي صحي"
+      "البيئات الغذائية الحضرية"
     ],
     "videoQueries": [
-      "ضغط الدم حمية DASH",
       "التغذية الصحية القلب والسكري"
     ],
     "safetyFilterVersion": 4,
@@ -110,8 +106,9 @@
       "ادعاءات الشفاء أو العلاج الطبيعي البديل",
       "الدعوة إلى إيقاف الدواء أو استبداله",
       "العناوين المثيرة وغير المسندة",
-      "مصادر مجهولة أو غير طبية"
+      "مصادر مجهولة أو غير طبية",
+      "فيديو غير قابل للتحقق من مصدره أو عنوانه"
     ]
   },
-  "safetyReviewedAt": "2026-07-20T09:33:19.852Z"
+  "safetyReviewedAt": "2026-07-21T07:01:41.000Z"
 }
