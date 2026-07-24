@@ -1,10 +1,21 @@
 {
   "version": 2,
-  "lastUpdated": "2026-07-21T07:01:41.000Z",
-  "nextUpdateAfter": "2026-07-24T07:01:41.000Z",
+  "lastUpdated": "2026-07-24T07:09:15.000Z",
+  "nextUpdateAfter": "2026-07-27T07:09:15.000Z",
   "status": "ready",
   "notice": "هذا المحتوى للتثقيف العام فقط، ولا يُعد تشخيصًا أو وصفة علاجية. لا توقف دواءً ولا تغيّر جرعته أو نظامك العلاجي دون استشارة الطبيب أو الصيدلي.",
   "articles": [
+    {
+      "id": "article-ada-gestational-diabetes-food-2026",
+      "title": "السكري الحملي: كيف يمكن تنظيم الطعام دون فقدان المتعة والثقة؟",
+      "summary": "مقال حديث من الجمعية الأمريكية للسكري يعرض تجربة عملية مع السكري الحملي، ويركز على موازنة الوجبات، وزيادة البروتين، وضبط الحصص، واختيار وجبات تساعد على تجنب الارتفاعات الحادة في سكر الدم ضمن المتابعة الطبية.",
+      "url": "https://diabetes.org/blog/meet-titi-how-gestational-diabetes-helped-her-reclaim-food-pregnancy-and-confidence",
+      "source": "الجمعية الأمريكية للسكري",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "query": "السكري التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "مرجع موثوق للتثقيف العام — السكري الحملي يحتاج متابعة الفريق الطبي"
+    },
     {
       "id": "article-who-urban-food-environments-2026",
       "title": "دعم الغذاء الصحي والآمن في البيئات الحضرية",
@@ -74,6 +85,20 @@
   ],
   "videos": [
     {
+      "id": "youtube-0rxsjNSHD_M",
+      "videoId": "0rxsjNSHD_M",
+      "title": "ارتفاع ضغط الدم: ماذا نأكل وما الذي نقلله؟ دليل حمية DASH",
+      "channel": "Mayo Clinic",
+      "publishedLabel": "13 فبراير 2026",
+      "duration": "36:00",
+      "url": "https://www.youtube.com/watch?v=0rxsjNSHD_M",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/0rxsjNSHD_M",
+      "thumbnail": "https://i.ytimg.com/vi/0rxsjNSHD_M/hqdefault.jpg",
+      "query": "ضغط الدم التغذية حمية DASH",
+      "type": "video",
+      "safetyLabel": "محتوى تثقيفي من مايو كلينك — تغييرات نمط الحياة تكمّل العلاج ولا تستبدله"
+    },
+    {
       "id": "youtube-VKXQcNHYS1w",
       "videoId": "VKXQcNHYS1w",
       "title": "الإرشادات الغذائية الجديدة: ما الذي تغير ولماذا يهم صحة القلب والتمثيل الغذائي؟",
@@ -89,8 +114,8 @@
     }
   ],
   "diagnostics": {
-    "articleCount": 6,
-    "videoCount": 1,
+    "articleCount": 7,
+    "videoCount": 2,
     "articleQueries": [
       "التغذية الصحية",
       "السكري التغذية",
@@ -98,6 +123,7 @@
       "البيئات الغذائية الحضرية"
     ],
     "videoQueries": [
+      "ضغط الدم التغذية حمية DASH",
       "التغذية الصحية القلب والسكري"
     ],
     "safetyFilterVersion": 4,
@@ -110,5 +136,5 @@
       "فيديو غير قابل للتحقق من مصدره أو عنوانه"
     ]
   },
-  "safetyReviewedAt": "2026-07-23T08:44:04.787Z"
+  "safetyReviewedAt": "2026-07-24T07:09:15.000Z"
 }
