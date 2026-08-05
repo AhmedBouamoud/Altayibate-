@@ -17,17 +17,6 @@
       "safetyLabel": "للتثقيف العام — لا تغيّر العلاج دون استشارة مختص"
     },
     {
-      "id": "article-wqvYp9mE2LXYrdipwrsg2KrZ",
-      "title": "الصحة توضح استهلاك الجسم للطاقة أثناء النشاط البدني وتؤكد أهمية الغذاء المتوازن",
-      "summary": "إرشادات عامة حول النشاط البدني والغذاء المتوازن ضمن الوقاية من الأمراض المزمنة، دون وعود علاجية أو دعوة لترك الدواء.",
-      "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxNSV9mWDBNY1k0VmhuQkhwUmF0UnBKZElScDVXWVRjVDBhRmFCWWNNOGViVlFVb0t5eDZSNjN5ajhHSkdEd2s0UHBVQUVsQ0YxX0FSX2gtUXk5TlFPRDFmcDRyUC1QRk9RYVJmQjZaNmQ5X1B2VnAzSzJpWGtLbXhWemVLaVZVdkVsOHR1M1hheUpCWXJqeXVnVlEyXzdsNW1xSE1TMGZSTXIyd2taRXFNUWt2OTItU05aamVaaENuSU5uQmhOTDdmUWlWZFNSaHRqb2NDNmQwZ2xTVGpPOEtadmZITlRTaC1SaGFxcjQxa1NRT08tUnd6WUxBaXhRRHVVa19hN054TG5FbWJTYVo3cXM5Zk9VMlFtYlZmSlFja2xUZ0xYMC1HOVdxYzFSWGYxbE44ZG8wcDNweFljdVFxTFpWRWc0NFIzYl9nZlkzQ1FWd2dzWk9DdXFxSUFUUVAyOEJ1Y3ZTQXFMWEpSR1JrRTA2Vk1MeGZ0amIyN1k2elphem5CNGdqcnF0aFlOV1FpVFBVRmRHdV9ENkEwV0RYSXZ1R2pXVE9UdXpBMUxfOFR1aENyYzJsQjFjNC1SMFZPY0Z4bENyRFBQNVZZUEp5RUdlU3g3dzVSWFNKX2ZnZ0I5ZXZVMjJTcTZ4ZnBwYWNYN2NKUGZsOHR4akU0TG95M2p5cDd5c3I5RXJVXzJpSFVMbFBjMmJ3aDhrTTJqWHd2MzRMa9IBnwRBVV95cUxPMkI0MTBrNU5WX2FPc3RyNEtVRzZ0M2JIbEZDV1NhQjc2N3lnbEs5VllabWZjMHN0SjhHNnI3NnFMcERxZGdiOVN0ZmZ1VlRBMjN4S3RfSDkwNWRHNThsMFNLQUhMTnNTbVU3WldqX2RnMGxMMk56TkFVY3liNlJOUmJES0VKZHpoaVh5Q3ZUbU5fLVNjYW9zSGE4OGhmc01VbHNSS1NVYk85d3h1eDhtUkFtNFZ5TmYxSE16Yy1YYkpZLUQ0eHhuWVZoNGFEVnhfTWxSV2o2bE40MHd2TVp6TDVpclNveU8xWWpZWFI1M2JpUkFWbWNSZFNQOGxGcHBoZXdsak9Gam5Ha3hpMnRxUnY4V1g4S3VOZjkxQ1BValVMX1JxT1BzdXJjemI3aTNLNldWa2dBS3lwdXpMWWh4a0s3OWliVERDbFFCT2FnaEUzVTVHMEVHYlZqdFRxNGNZRjlyUnVLTHNGRm9seDV2dkg1US0yeFZRNm80YklUaVF4endPd0lPbmluSWNhNkpVSFg0OUtVOXVfSFlwWVFzQ29wbnpESHl2Rm1vQjJ2am1rbm5Ua3VUUmx3aGlYN1dJZnQ3Rk5GOHIzNHlLaVo1dHktZUgyVV9sODYwRHJuSmdzckxxYXJDYy1PeHIwT0xjSk80WnVLX1JsdERrZEw2UjRKcFJoNlY1SFJjUF9JRk9xNEZQd2QweDZROG1oSk0?oc=5",
-      "source": "اليوم السابع — نقلًا عن وزارة الصحة",
-      "publishedAt": "2026-08-01T22:00:00.000Z",
-      "query": "التغذية الصحية",
-      "type": "article",
-      "safetyLabel": "إرشادات عامة — راجع الطبيب للحالات المزمنة"
-    },
-    {
       "id": "article-2K_Ysdin2LPYqTog2KrYrdiv",
       "title": "دراسة: تحديد أوقات تناول الطعام يدعم صحة الدماغ",
       "summary": "تغطية لدراسة عن توقيت الوجبات وعلاقته بالصحة. لا تثبت التغطية وحدها سببًا مباشرًا ولا تستبدل الإرشاد الطبي.",
@@ -56,7 +45,7 @@
     }
   ],
   "diagnostics": {
-    "articleCount": 3,
+    "articleCount": 2,
     "videoCount": 1,
     "articleQueries": [
       "نظام الطيبات ضياء العوضي",
@@ -69,7 +58,7 @@
       "السكري والتغذية",
       "ضغط الدم ونظام DASH"
     ],
-    "safetyFilterVersion": 5,
+    "safetyFilterVersion": 4,
     "removedForSafety": 12,
     "safetyNotes": [
       "استبعاد المحتوى غير المرتبط مباشرة بالتغذية والسكري والضغط",
@@ -78,5 +67,5 @@
       "استبعاد أي محتوى قد يُفهم منه ترك الدواء أو استبدال العلاج بالغذاء"
     ]
   },
-  "safetyReviewedAt": "2026-08-05T07:04:59.000Z"
+  "safetyReviewedAt": "2026-08-05T08:51:32.344Z"
 }
