@@ -1,71 +1,73 @@
 {
   "version": 2,
-  "lastUpdated": "2026-08-05T07:04:59.000Z",
-  "nextUpdateAfter": "2026-08-08T07:04:59.000Z",
+  "lastUpdated": "2026-08-08T07:09:19.000Z",
+  "nextUpdateAfter": "2026-08-11T07:09:19.000Z",
   "status": "ready",
-  "notice": "المقالات والفيديوهات روابط خارجية منتقاة للتثقيف العام. لا توقف دواءً ولا تغيّر علاجًا أو جرعة دون استشارة طبيب أو صيدلي مؤهل.",
+  "notice": "روابط تثقيفية مختارة من مصادر موثوقة. أي تغيير علاجي يجب أن يتم مع مختص صحي مؤهل.",
   "articles": [
     {
-      "id": "article-2KfZhNiz2Y_Zg9ixOiAi2KfZ",
-      "title": "السُكر: الحد من تناوله قبل سن الثانية قد يرتبط بصحة أفضل للدماغ",
-      "summary": "مادة صحفية تلخص نتائج بحثية عن أثر تقليل السكر المضاف في الطفولة المبكرة. النتائج للتثقيف ولا تُعد توصية علاجية فردية.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FTlBVdU9NZXI3cnFPbXc2cldPY0ZrZ2lCay1SNU92U3E3Q084Zl9UR3J6V3pBYmx6UHBSTzFwNHFaSkdSdzFTaU5QTnBweWlfbFF0U0Z3d3Z3eWtt0gFiQVVfeXFMTWVQSGQ1S1AyamUxdktpSTBLbVF4M0VGM1FqRnVuUWNreXM5Z1lIcGxEV25Ua05pTXBUTVZiWUZXWUIzalZYWHAzR0JJQjQtWlZSMTVzSmpxb012WXBRYzhmdmc?oc=5",
-      "source": "BBC",
-      "publishedAt": "2026-08-02T02:36:16.000Z",
-      "query": "السكري التغذية",
+      "id": "article-mayo-dash-20260716",
+      "title": "DASH: نمط غذائي صحي لدعم ضبط ضغط الدم",
+      "summary": "مادة حديثة من Mayo Clinic تشرح نمط DASH الذي يركز على الخضروات والفواكه والحبوب الكاملة وتقليل الصوديوم والسكريات المضافة والدهون المشبعة.",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456",
+      "source": "Mayo Clinic",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "query": "ضغط الدم التغذية DASH",
       "type": "article",
-      "safetyLabel": "للتثقيف العام — لا تغيّر العلاج دون استشارة مختص"
+      "safetyLabel": "مصدر طبي مؤسسي"
     },
     {
-      "id": "article-2K_Ysdin2LPYqTog2KrYrdiv",
-      "title": "دراسة: تحديد أوقات تناول الطعام يدعم صحة الدماغ",
-      "summary": "تغطية لدراسة عن توقيت الوجبات وعلاقته بالصحة. لا تثبت التغطية وحدها سببًا مباشرًا ولا تستبدل الإرشاد الطبي.",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQUjRyQ0wxYkdOdkk3NENjUEU5UzhsOTItZVdleGtQRjIxVkJucmNrZTZxaFo5UTFiWEJWbGZpalJibnFwdjlFekFHem44VjV6R2RVcVVSLUFoRGZpRFNKcWVxdWh4UERSa1JLMmFGZ2dtRG5PckRMQzdkVmZFRDRwMTJNRV9kM1hQbXpoX05qZ2pjRzJQaHpMbVF5NlJPRU43QmhkdllkVzBLYWFUcVlXejI5OFdzZWMxREQ3M3ZveElUcFNXYjdzZTNpSzhycFBuVjRlMVhPaVlVRmg1cGVpZDc5OG5lNVoxTnJkSG5vaUFLZ2VvdWgzb1dJWk5GZGVBeno4RkEwSjlKeFk5NkpiOFVpUUp1cW1nZ1N1aHJlLVA4T2Z2azc1N2RYZklkU3ZBQTFVMmFyMUlMTURiSlhmcmU3dUlYOVBLckNhRmxuVU0wZXJtY28yaVZHQkxXbUdnaXNHOVFPX2YwcGQ5NlRCcHItNG5NV00xQVZVdUI2ZHM3QndJdDUzMHRKVk44VHo2U0FoN2pGUEpEN3c?oc=5",
-      "source": "أخبار 24",
-      "publishedAt": "2026-07-31T09:58:48.000Z",
-      "query": "التغذية الصحية",
+      "id": "article-mayo-diabetes-diet-20260420",
+      "title": "التغذية مع السكري: بناء خطة أكل صحية",
+      "summary": "دليل من Mayo Clinic حول تخطيط الوجبات واختيار الأغذية الغنية بالعناصر الغذائية للمساعدة في إدارة سكر الدم وعوامل الخطر القلبية.",
+      "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-diet/art-20044295",
+      "source": "Mayo Clinic",
+      "publishedAt": "2026-04-20T00:00:00.000Z",
+      "query": "السكري التغذية الصحية",
       "type": "article",
-      "safetyLabel": "نتائج بحثية أولية — لا تغيّر العلاج بناءً عليها"
+      "safetyLabel": "مصدر طبي مؤسسي"
+    },
+    {
+      "id": "article-who-healthy-diet-20260126",
+      "title": "النظام الغذائي الصحي: التوازن والتنوع والاعتدال",
+      "summary": "توضح منظمة الصحة العالمية مبادئ الغذاء الصحي، ومنها التنوع والتوازن وتقليل الملح والسكريات الحرة والدهون غير الصحية.",
+      "url": "https://www.who.int/en/news-room/fact-sheets/detail/healthy-diet",
+      "source": "World Health Organization",
+      "publishedAt": "2026-01-26T00:00:00.000Z",
+      "query": "التغذية الصحية السكري الضغط",
+      "type": "article",
+      "safetyLabel": "مرجع صحي رسمي"
     }
   ],
   "videos": [
     {
       "id": "youtube-0rxsjNSHD_M",
       "videoId": "0rxsjNSHD_M",
-      "title": "High Blood Pressure? What to Eat & Avoid — DASH Diet Guide",
+      "title": "High Blood Pressure? What to Eat & Avoid (DASH Diet Guide)",
       "channel": "Mayo Clinic — On Nutrition",
-      "publishedLabel": "2026",
+      "publishedLabel": "2026-02-13",
       "duration": "36:00",
       "url": "https://www.youtube.com/watch?v=0rxsjNSHD_M",
       "embedUrl": "https://www.youtube-nocookie.com/embed/0rxsjNSHD_M",
       "thumbnail": "https://i.ytimg.com/vi/0rxsjNSHD_M/hqdefault.jpg",
       "query": "ضغط الدم التغذية DASH",
       "type": "video",
-      "safetyLabel": "مصدر طبي مؤسسي — نمط الحياة يكمّل العلاج ولا يستبدله"
+      "safetyLabel": "مصدر طبي مؤسسي"
     }
   ],
   "diagnostics": {
-    "articleCount": 2,
+    "articleCount": 3,
     "videoCount": 1,
-    "articleQueries": [
-      "نظام الطيبات ضياء العوضي",
-      "التغذية الصحية",
-      "السكري التغذية",
-      "ضغط الدم التغذية"
-    ],
-    "videoQueries": [
-      "التغذية الصحية",
-      "السكري والتغذية",
-      "ضغط الدم ونظام DASH"
-    ],
-    "safetyFilterVersion": 4,
-    "removedForSafety": 12,
+    "articleQueries": ["نظام الطيبات ضياء العوضي", "التغذية الصحية", "السكري التغذية", "ضغط الدم التغذية DASH"],
+    "videoQueries": ["نظام الطيبات السكري التغذية", "التغذية الصحية", "السكري والتغذية", "ضغط الدم ونظام DASH"],
+    "safetyFilterVersion": 5,
+    "removedForSafety": 15,
     "safetyNotes": [
       "استبعاد المحتوى غير المرتبط مباشرة بالتغذية والسكري والضغط",
-      "استبعاد العناوين الدينية أو الجدلية أو المثيرة المستخدمة لتسويق ادعاءات صحية",
-      "استبعاد ادعاءات الوقاية من السرطان أو الشفاء أو الإعجاز غير المدعومة بمصدر طبي مؤسسي",
-      "استبعاد أي محتوى قد يُفهم منه ترك الدواء أو استبدال العلاج بالغذاء"
+      "استبعاد العناوين المثيرة أو الادعاءات الصحية غير الموثقة",
+      "استبعاد المحتوى الذي يقدم ادعاءات شفاء شاملة أو يهاجم الطب المبني على الدليل",
+      "تفضيل المصادر الصحية الرسمية والمؤسسات الطبية المعروفة"
     ]
   },
-  "safetyReviewedAt": "2026-08-07T07:39:54.397Z"
+  "safetyReviewedAt": "2026-08-08T07:09:19.000Z"
 }
