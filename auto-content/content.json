@@ -1,83 +1,222 @@
 {
   "version": 2,
-  "lastUpdated": "2026-08-08T07:09:19.000Z",
-  "nextUpdateAfter": "2026-08-11T07:09:19.000Z",
+  "lastUpdated": "2026-08-11T07:35:50.712Z",
+  "nextUpdateAfter": "2026-08-14T07:35:50.712Z",
   "status": "ready",
-  "notice": "روابط تثقيفية مختارة من مصادر موثوقة. أي تغيير علاجي يجب أن يتم مع مختص صحي مؤهل.",
+  "notice": "المقالات والفيديوهات روابط خارجية منتقاة آليًا للتثقيف العام. لا توقف دواءً ولا تغيّر علاجًا دون استشارة مختص.",
   "articles": [
     {
-      "id": "article-mayo-dash-20260716",
-      "title": "DASH: نمط غذائي صحي لدعم ضبط ضغط الدم",
-      "summary": "مادة حديثة من Mayo Clinic تشرح نمط DASH الذي يركز على الخضروات والفواكه والحبوب الكاملة وتقليل الصوديوم والسكريات المضافة والدهون المشبعة.",
-      "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456",
-      "source": "Mayo Clinic",
-      "publishedAt": "2026-07-16T00:00:00.000Z",
-      "query": "ضغط الدم التغذية DASH",
+      "id": "article-wqvYp9mE2LHYudin2YrYqcK7",
+      "title": "«الرعاية»: التغذية الصحية ضرورة وقائية من «الصداع»",
+      "summary": "مادة جديدة من صحيفة العرب القطرية. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPQjNxMHgzY2Zxd1EzX0xEY1VyWkdtS3NLY1lmN1dLVEhjWHVfa3N5QXo5N20tWWRKVWg2bnR5UGUxaHBiWUFPSFAzcDJWNzZNZEhPaWhGNVlSa1RmbzNYZ2hRZzl4TkVqaEcwazlxeS1zdDhVa3dYeGp6dElYRjBnRzh5RUlCakVjN05YN043V1VSaVdwZzNXaVo0QzI4QnNhRGZuU2htaFZZTDdNRUZhNWhQdHZYRVJlcTJ1cEtFZG1KNXh4UWN4SWN0VjJhbTNMdXVvMUh5ZG5WVmRGUkJfUUtGQWtqUmVfdm5LYWtTQzJpb1FUeDBCeDFBZU1hUlk1bmZyYlZVM0hkT1dlMFJCQWJDYWZSa3Qtd08tVEJ6ejNKcnQzWUxkbWdlZHNVVTF6MC1TQjVhY0xuMmNjWnFHWWJwVFdtSTUzLWxVYlMwZW9oOVpXWUwzdDduNXdES2dNQW9nVHd2YV9FcE95b3Vtb3hMY2JzWVNadGtDQ3BSRVZic3U5S0xSNXR1U0xFQQ?oc=5",
+      "source": "صحيفة العرب القطرية",
+      "publishedAt": "2026-08-11T05:25:40.000Z",
+      "query": "التغذية الصحية",
       "type": "article",
-      "safetyLabel": "مصدر طبي مؤسسي"
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
     },
     {
-      "id": "article-mayo-diabetes-diet-20260420",
-      "title": "التغذية مع السكري: بناء خطة أكل صحية",
-      "summary": "دليل من Mayo Clinic حول تخطيط الوجبات واختيار الأغذية الغنية بالعناصر الغذائية للمساعدة في إدارة سكر الدم وعوامل الخطر القلبية.",
-      "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-diet/art-20044295",
-      "source": "Mayo Clinic",
-      "publishedAt": "2026-04-20T00:00:00.000Z",
-      "query": "السكري التغذية الصحية",
+      "id": "article-2YjYstin2LHYqSDYp9mE2LXY",
+      "title": "وزارة الصحة تحذر: تذبذب الوزن يرفع خطر الإصابة بالسكر والسرطان",
+      "summary": "مادة جديدة من اليوم السابع. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQa2F2NWNyQTVoTWdZWnJIQl9HczJmX2hkTXVmSHlBa1BlRnZaQXFxVWFLU2RzUDRCV052azRxeGVWOHo3MnRoOUM5M1QtTGt5dkhGblJ5a3IyZG45VjZXQUZrVTBiX0Z1bF94cllnUk9nNGJLZlRoSVpGejZYZ2tMNzg5MkRaSWxnY19nUWs1YWUwOGpxdXJXVS1YbXZ4ODNSLTRpb0hVTzBySlhyU1JQdDNDTXR6d1dQaENHUUdDVTRsdmJRdDFCUV9UaDgyNm9SdXpQMWx5Ynd0WW0tVjVTSmFWV0xwNzc1TUFMNkVJWHRmX2U0X3JPZlRzR00zSkpWNml3SHZIdnFsTHlkZmpSR3psWmNQOTVwYndfMndlNVRhcjEwX2U1czBCSGpjRHNuSUdRYTFIZjZKY2JmU0s1Yy1la2k5MVVGVWp5UVZNOU1IUzhOblllMEFMNTRjNm9ELXhPdHpVSjdJT2lMMVplSmZubmFfRzVFRGZkSzE0cHR2Tl9WUHRaaVZWdTNxX1lQOEh6bzZDY09YaWxieWJ5cFpEajY0ZVh2U0NiNnRaMGQ5TFhrb2NHVGV5MlRaYW5wRWVXME9FTFFNOU9wWXhIenEydG9FelhZVDQ4ZUhfRmpySURCeWJySXVzZEZFRm4yZU41VE4xcjhQTTYyMDRGLdIBgARBVV95cUxQa2F2NWNyQTVoTWdZWnJIQl9HczJmX2hkTXVmSHlBa1BlRnZaQXFxVWFLU2RzUDRCV052azRxeGVWOHo3MnRoOUM5M1QtTGt5dkhGblJ5a3IyZG45VjZXQUZrVTBiX0Z1bF94cllnUk9nNGJLZlRoSVpGejZYZ2tMNzg5MkRaSWxnY19nUWs1YWUwOGpxdXJXVS1YbXZ4ODNSLTRpb0hVTzBySlhyU1JQdDNDTXR6d1dQaENHUUdDVTRsdmJRdDFCUV9UaDgyNm9SdXpQMWx5Ynd0WW0tVjVTSmFWV0xwNzc1TUFMNkVJWHRmX2U0X3JPZlRzR00zSkpWNml3SHZIdnFsTHlkZmpSR3psWmNQOTVwYndfMndlNVRhcjEwX2U1czBCSGpjRHNuSUdRYTFIZjZKY2JmU0s1Yy1la2k5MVVGVWp5UVZNOU1IUzhOblllMEFMNTRjNm9ELXhPdHpVSjdJT2lMMVplSmZubmFfRzVFRGZkSzE0cHR2Tl9WUHRaaVZWdTNxX1lQOEh6bzZDY09YaWxieWJ5cFpEajY0ZVh2U0NiNnRaMGQ5TFhrb2NHVGV5MlRaYW5wRWVXME9FTFFNOU9wWXhIenEydG9FelhZVDQ4ZUhfRmpySURCeWJySXVzZEZFRm4yZU41VE4xcjhQTTYyMDRGLQ?oc=5",
+      "source": "اليوم السابع",
+      "publishedAt": "2026-08-11T04:03:19.000Z",
+      "query": "التغذية الصحية",
       "type": "article",
-      "safetyLabel": "مصدر طبي مؤسسي"
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
     },
     {
-      "id": "article-who-healthy-diet-20260126",
-      "title": "النظام الغذائي الصحي: التوازن والتنوع والاعتدال",
-      "summary": "توضح منظمة الصحة العالمية مبادئ الغذاء الصحي، ومنها التنوع والتوازن وتقليل الملح والسكريات الحرة والدهون غير الصحية.",
-      "url": "https://www.who.int/en/news-room/fact-sheets/detail/healthy-diet",
-      "source": "World Health Organization",
-      "publishedAt": "2026-01-26T00:00:00.000Z",
-      "query": "التغذية الصحية السكري الضغط",
+      "id": "article-2K8uINij2LPYp9mF2Kkg2K3Z",
+      "title": "د. أسامة حمدي: التغذية العلاجية في مستشفيات مصر الخاصة \"مأساة\"",
+      "summary": "مادة جديدة من الكونسلتو. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxOS0tTc2VXM1RKa09NQUNYU29CZnUtZGg1Y1NITzFyckJiQkFadFdld2J1RmhaUi1TM0F5ZXhyZmNLQXBoVVBTdDh5MERoNlJ1N2pEcGxnZ2ZhOTUxakRiWjhTNkotYVcxZnR0Skppb2NpVnlMczZ5MXpZNXNxQXhTenZtdVk1NGQ2aWZtUDBuQnFPeFVSYVA4SlJWVHlUaXJzX0NYUmdydmJFMFp5WlFjSm5tT24yR3hiYjJaYzFZTVpEUzJXYWdnMGJYUnM4VndGVGdtRHVBQUxIaTRrSm9QV1gwdVo1ZmZDLXlBZ3ZzenY5YU9INzdON0pBLUVjWG9EZWJmTGEyU01wbE0tLXVVenMyTE1RMkZYaTFMMWM0T3UwSk1mR0ZONnlncGdFVVc3MVdpdnV2SDhCdXVjaW9xRm1iX2FHM2piSE84THh1RTZLQTlfeWM3QjlsZG90dGpkckV2R0RxU0Mtb3ZUQmh2d2U3dXF5dTdENXE0UHFxeFRLczg2OVZ2MjJhQS1ZVmdSOFNxdnVJZ1ZWYjRnY3NGTDhxWVlXbFg0TVpqcFRaQndCa3oxTU5zSW56UTJ6VmcxR2VzbW5QdERreldoSWIxMXMycXp4X1lRNkw5VDlvRWJYVWk5WnBPaEg4RVUxMTdVdGZvenRVeU56U09YZW1MQTl3TGNJd0xEUWpmcXdvNXpDdU0xSll1MnRIejDSAaIEQVVfeXFMT3V3UlM1SzM0NmR1SjhVWjlhZmJTMzJGaHVnTEJXMHJxWmtwbklGNEt3amNfLVhGdXNKNWJFSXM0ZkttTzI3cEF6QmhWYVVlUUxzRFpnMzFoVlBmdHIxTTZ0bFN5ajM4MGI4S3ZhTXJXOE5ERW9pMko2SFoxSllxWDBNQ0M2a0tIc3V4Rlk1bTkzSkt4Skx6TmxBNVgyVE52LUJOY2I5OEdicnFmWlVHenkxbDVOTDMtYktrY1lHNTZsNEZFc0pUWGJ2bGM3SHZPcVc4SkdBXzY2Q2k4RGcxS2xzbk94WWg3TEhRZGpxc3lGOFJjdFYxZHNUY2Z6dXNFVTJ3UGhzTnNTRHBNd3pBUlRhYjI4bkU3TU9tTlFVdmVKOXFfa1lwalBrNWh1RmJsSVJVbjRVbFQxSV96eW1WOFRSR0hXTGp5b0dxc2JiUzJFYmVLLTRabEM3VV9HcW42blI1T3V2bkowVVRwX3NRbm0xbS03U1BYMnE2ZDdlQ3RhS01sLXE2UlFrbWhjRjJXSUdqSnNkNmNJRUwzWWVRZU45LWF6N2JjMUQ3V0xxRTFoYUJvN1QxRjBKQU1vWm1IQmU1aUwwWkp6U1ZNZm9lLWZ3MzR1R2lPNTYtc1YzTzRUa1lYQ1FCOWFIU01keXRpUEpSd0pqYzFpSUtFQjRBSjJIM0pDbThQckZTR2ViVXNqMXAwbUFmT182M3BPN1plU0Z3?oc=5",
+      "source": "الكونسلتو",
+      "publishedAt": "2026-08-10T11:04:53.000Z",
+      "query": "السكري التغذية",
       "type": "article",
-      "safetyLabel": "مرجع صحي رسمي"
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2K7YqNixIDog2LPYqtmRINi5",
+      "title": "خبر : ستّ عادات يومية لتقليل تعرّضك للجسيمات البلاستيكية في الطعام",
+      "summary": "مادة جديدة من samanews.ps. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPZlkwOF9uQmtSbUVHNFpZc3lzRDd4UVF0UVk0VVZIS2tleUtDb1loWU1QVlNXRFY1TTVsbnRKdFhqZ0FheTVVWXVxWWhUVHdsTHJDVHZrUVVDLVNKd2Fidml4eUNEVzVLcldCd0JvcWlJRy1GUDZxYmRaaE9uUnMwRzVXaEFvVTRfVnJ2RmZ3NkxJNnVGUVFBWDF5MmtEQkh5OUh6NzNtWG1tQzgtclMwM0Y0Q2Q1NUZmLV9RSFVxemVWc2NaUUR0YmpCdmk4ak5NQUNWam1obWE5ZnVzUVlHOVZpSlNSOHJDZ1Ntc01zNVpJNEhKREE5dmlXQWpVY3NHYWFQYXJhVlV3RnMxTEJDVHJERnFjQmFoWE5pYk5wbDNiTUpkR2Vxdy0tVWpBa0J0Q0VteEVGZ19PcGlpdklpOXc3SEtEWk5RelNVcTJhNmI0SE9xRmZUMS1VLW9tcU8tc29NQ0VlaUZMNXhPd2h2R09vbFpDcTZ3WUExMklPQmtFcTZTaUJVM3JYcVV1WGxocE1UemxJcjc0WjlYY2FQbkhtTFc0SWZWcGxfaVNFcnhRQ2JDMkJPZXM2UGExNzlQMWoxMGxnNmZmODhOWF85YnRxUlpIV1lTTXU5VGtRSUx1X2pYZ1E?oc=5",
+      "source": "samanews.ps",
+      "publishedAt": "2026-08-09T19:56:00.000Z",
+      "query": "التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2KPZgdi22YQg2KfZhNij2LfY",
+      "title": "أفضل الأطعمة لتعزيز صحة الكبد: القهوة والبروكلي والكينوا في المقدمة",
+      "summary": "مادة جديدة من akhbarhayat.com. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPT0Jxdmdrem8yOU9SZzN1Z0N1X3d3RXY0cTBuYk1QOU45WDNGZ25ZaUl1bGVfZzE2M3lKOGkycUhNemxYMzRTbkpFUnNJRFl0YWZPemQtaVUtSVRDTGZoNXFSVzJld3g1MGJGazFiS2RhbEV4cTFpeXlHM2RkQ1hXZmI5bXVqWGpYNG9obUd0UTdfTXFMRW0zUlZIcFJKTENoZzJtS1c4aVYwcXZaV3FiQ1BUVng3VXh0NnJua0Y3QkUwUjk3U3puYlZORXNDUkgzWlRqTXdOWWVKc2ZYMHFBd25nXzBzNnhoUXVQWGZ5ODRyZUZNelhsUTFWTVRxVzMzT1dldG9MNkxvVE5XTWRsUEx0Y3lmNDI0bHYzNEhwSEc4SVBnZnl2Mmt1RjBFMk5XNmQ1TW0tOHd4N29DazQwZHZDTVQ4VmVTV2V2YmhNSQ?oc=5",
+      "source": "akhbarhayat.com",
+      "publishedAt": "2026-08-09T15:32:25.000Z",
+      "query": "التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2KfZhNij2YLYqNin2Lcg2YXY",
+      "title": "الأقباط متحدون |نظام الطيبات.. خالد منتصر: الجارديان لخصت أكبر عملية نصب في تاريخ مصر في جملة الرجل الذي خدع أمة",
+      "summary": "مادة جديدة من Copts United. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4MzM3ODZrdWNWSmR2bm9sRzVQdkRRQmRhWEpfcjJkb2FDcTdaekk0SV9uWXQ0WktCNFJkWlQxby1TbmZlbUFxVVJSX1FpU1pVOUtPN0dIWW9OTUpQUllCVTBIeU5wc0U?oc=5",
+      "source": "Copts United",
+      "publishedAt": "2026-08-09T09:54:44.000Z",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2YXYudiz2YPYsSDYtdit2Yog",
+      "title": "معسكر صحي عن التغذية السليمة بمركز شابات الوسطية",
+      "summary": "مادة جديدة من وكالة الانباء الاردنية. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQdTZ2MlYycGF5STB4TV8wOVJERTRITkZCVktfTlU3eS1jSmJCODdFR3B4QWR6eGFKZzZJbklPN0lrLTBwNG1zeUNKWTcyWjZsYlVVYjlYcXlQUkt6TmRNOUQ5VVBibG1oZkpVbXEyNW53X3RQTDZJc0ZHclVDWC1FSUpINnVydHpTdGZQMjdHaHdCblB2UHE4Y2JUWWItYTJGSFUtOW54WkVvcU5wT05LSTJBVXUtN2FwajI3Z25TY2FGbU9PeFpBSGYtN2ZiS0hrRVo1UVJaSmtJRXZ4OTlLWXN6VkZrWXVJS2FBN3BmdnVvTlR2WXEyOHBYR3dQekJrSGY3aDhmZFdXTXQ5VVlwTDJpMFotT3JrMHZpMVpKN3pjLXowanBQMXM1d3BPV1FQQ1pfaV92YjFTZHJOd1cyUldxb09DWm01V0k2WFJyOWR4OXdPQWFoQXFoOXdnRU83d0tXV1FvZm05Wk5ZQml6MmI1a3hEcjZPZmMxRUFrWWRKMzh6UHBoRHpjRkZuMk1iajJLTmZYOVprcER6SEpsYVJXdjladmhvWVZ3MA?oc=5",
+      "source": "وكالة الانباء الاردنية",
+      "publishedAt": "2026-08-08T23:43:43.000Z",
+      "query": "التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2KzYr9mEINin2YTYt9mK2KjY",
+      "title": "جدل الطيبات.. هل أكل الرسول الدجاج وشرب الحليب؟ فقيه أزهري يجيب | مدار الساعة",
+      "summary": "مادة جديدة من alsaa.net. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY3BGZ3kwX3MwMFVQS0EzVGh3R2xVVUh2a3VoWk5pNDlpWDRlUHlCM2tBZ2NYblg2dXkzWWhfTGhHWEVHcnctT3RQaHpWMkl5TEN1SENLT1cxRVo2UzlhcG9QajVoQ0x4SUp0MlhjN05sZzktWWR5cFdiTktOclhSMTFKVEVDWVhFLUdZVk5KaG9LWThzdDcxZmtSZWxhVGs5ZVUzYlFZTEVWWXZHRURTTlk3ZkpBaERjelpRbFVtanpKOVZO0gG_AUFVX3lxTE54alhQNEIyemFEOGlMVjJDaGQ3MHVvTGhPaGpJX0swS0dTY1M3eFVLVkFOU1pNZklTQjNDa0FBZjJINkstZlhkMjBPb0Ewc0l5S0NUTWNTQXFrN1Q3V3loSkx4Qk1ab3VTeHNna0JNTEtJb3BSdFR5TXpmb1d1aEcwUWNKYUhlWnZSNlVLT1RDY2JJellVWUVFTHZKVi1uU28yUlFPaUxWR3VnNUhfalF5aTYtU2VMOHNjdEgzdVRj?oc=5",
+      "source": "alsaa.net",
+      "publishedAt": "2026-08-06T18:21:44.000Z",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2KfZhNit2YTZiNmK2KfYqiDZ",
+      "title": "الحلويات في نظام الطيبات- هكذا يدمرك السكر في صمت \"فيديو\"",
+      "summary": "مادة جديدة من الكونسلتو. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPUk5KdWhLVWE4aWRkbVAwUmR4M05nd2lTWEd3ekwwVXIwMmhlNXdSSmhPeE9LSEFIOGpscWxqSXFURVBGVmRIWlFRV21XQThsckYyVDBvbi1mT2lrMTJfSGhRUHdHalNZUDNJWXl1cGNkMzNSNkwtR2JnMEhjSEZJc1pKSUFuVUo3eGVRRXBLOTJZclRFUHZROXNIc3Z5MmlLeTBEYVZLN0EtcFZLZDhQd1lJZDFvOHYwWjNrZkdBa1IwUVZpU0hSUXNoX0FVZy1Eb2JKLXdVeHVYUFh4M01TQ3FVaFpIcGJTb01WcGY0dDliUE9aTWtEMTNHbWY0eExrcnExa2lvQno2bVl6cVNMdzBhalpBb3hTNTAyN1ZxWkUxSENlM1U3Rzl2MTRNZ19aVVV6RWxuSFpZb1JCdkV0MUlyMVFqU3lhQ1duZ3U5X1lDUW1ySk05T0VyUWl1eEdhU3ZWWTlSNlZKRVNONW1GWEt1bTdxTVdUMUJ0TTJsOHNfVHppeU9IWmd2dHNqamxnSm9kekllVE5BZzFHQm1qTWdTNGJNQ251bUxBZmRnalN6NjIwbzRySE1ROXMwZUk3UmZ3VEdFQy1jNWpOSFJnTWJjR2RmcGM1WHFOU2NkRFBzbVhFZjJZX00xd2lGU0xGRjZzeFhaTGF2TWl00gGCBEFVX3lxTFBaSnBfSnF4OW0tUWRIZnpEejJEc1pNakRwYXZvRlFTQUliMGxybk1BWEg1Y1NweFdTT09ZNVVXU1dGUzNxN2hyLWpMS1ZIMVlLXzRoY1RtUnVTdy12eVRIQm9XWXNBX2tuNWJUUHZweXpxRVZiMk4tSVE3dmgybVgzMVI3WTh5ZTFYNmtUSG1NQk5MeENzMzkxLU1Sdl9hbDdSU1VWcm00THV5UV9UNEhXQ242WE1adnVZZUU3dkNieE1mNDlfNkp3M3c2LTFWMGUxbUx1OHdkX2xOS3BGN1I4UFdjcWNZWWlaVks1anM2eEtaNHFkai1YNzFtVkE1Zk5JUkh0RkdiQXMwUWtReWRoUUhpZlJaYkE5Y2t4SDlUVDAxbE1hcXAzRi0xRXVxMmt0S1F0cnQxSWVvR3czNnlhQTFOSEp6SVlYSFBoUjdWb3V0d1Y4M1ZqMlpIVE1uTEhvVEU2OWRGMlFqc3FkNjR3dXFEb2o5M2t6WksxY01IeFVrMGlmZUxJeTJMVm1FOWpablR2MlNyR25vdFFXZjZZOGk4RzM3cE12NlJMUnBqZGZmNWxJTzV3NU5RV3FXdGZMTG13N1FOck9pU01nc1pJU1B5QjhCMGdpNGVybkpRdy14WWl1Zk9nZmcxRkVYMjFDS2FnSmtvREFidHBjblZ4X1E?oc=5",
+      "source": "الكونسلتو",
+      "publishedAt": "2026-08-06T17:28:00.000Z",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2KfZhNis2KfYsdiv2YrYp9mG",
+      "title": "الجارديان تفند أكاذيب ضياء العوضي ونظام الطيبات",
+      "summary": "مادة جديدة من عدن اوبزيرفر. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Vd280bk9ZZ1JzRUN0Sy1LaWNFdFZZUlNIR0tBS1FRSlQxTnJzVms2TVppWFRzWWdGVi1mZWpLMmFneHc3aG5GdmJ6azE?oc=5",
+      "source": "عدن اوبزيرفر",
+      "publishedAt": "2026-08-05T23:29:33.000Z",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
     }
   ],
   "videos": [
     {
-      "id": "youtube-0rxsjNSHD_M",
-      "videoId": "0rxsjNSHD_M",
-      "title": "High Blood Pressure? What to Eat & Avoid (DASH Diet Guide)",
-      "channel": "Mayo Clinic — On Nutrition",
-      "publishedLabel": "2026-02-13",
-      "duration": "36:00",
-      "url": "https://www.youtube.com/watch?v=0rxsjNSHD_M",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/0rxsjNSHD_M",
-      "thumbnail": "https://i.ytimg.com/vi/0rxsjNSHD_M/hqdefault.jpg",
-      "query": "ضغط الدم التغذية DASH",
+      "id": "youtube-otK_pjxw-14",
+      "videoId": "otK_pjxw-14",
+      "title": "الحقيقة الصادمة عن الممنوعات في نظام الطيبات! 😲 د. ضياء العوضي",
+      "channel": "MO Nawas - محمود النواس",
+      "publishedLabel": "3 days ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=otK_pjxw-14",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/otK_pjxw-14",
+      "thumbnail": "https://i.ytimg.com/vi/otK_pjxw-14/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
-      "safetyLabel": "مصدر طبي مؤسسي"
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-yafScyG6fjs",
+      "videoId": "yafScyG6fjs",
+      "title": "د. ضياء العوضي: نظام الطيبات.. بعض الممنوعات والمسموحات",
+      "channel": "يوميات متألقه",
+      "publishedLabel": "2 weeks ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=yafScyG6fjs",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/yafScyG6fjs",
+      "thumbnail": "https://i.ytimg.com/vi/yafScyG6fjs/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-xembettoZ-Q",
+      "videoId": "xembettoZ-Q",
+      "title": "Dr. Diaa El-Awadi | The Dos and Don'ts of the Tayyibat Diet in Detail",
+      "channel": "Tayibat Studio | استوديو الطيبات",
+      "publishedLabel": "2 months ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=xembettoZ-Q",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/xembettoZ-Q",
+      "thumbnail": "https://i.ytimg.com/vi/xembettoZ-Q/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-P_gopS26ngM",
+      "videoId": "P_gopS26ngM",
+      "title": "تجربتي مع نظام الطيبات د.ضياء العوضي",
+      "channel": "محيي الدين حسن",
+      "publishedLabel": "1 day ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=P_gopS26ngM",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/P_gopS26ngM",
+      "thumbnail": "https://i.ytimg.com/vi/P_gopS26ngM/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-dc1GwMz3eKk",
+      "videoId": "dc1GwMz3eKk",
+      "title": "الدكتور ضياء العوضي يشرح نظام الطيبات بالتفصيل 🌿",
+      "channel": "Tayibat Studio | استوديو الطيبات",
+      "publishedLabel": "1 month ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=dc1GwMz3eKk",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/dc1GwMz3eKk",
+      "thumbnail": "https://i.ytimg.com/vi/dc1GwMz3eKk/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-Ek_CtoEQeWE",
+      "videoId": "Ek_CtoEQeWE",
+      "title": "نظام الطيبات للدكتور ضياء العوضي | مؤامرة دواء ام اكتشاف طبي",
+      "channel": "samaras ketolife",
+      "publishedLabel": "3 months ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=Ek_CtoEQeWE",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/Ek_CtoEQeWE",
+      "thumbnail": "https://i.ytimg.com/vi/Ek_CtoEQeWE/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
     }
   ],
   "diagnostics": {
-    "articleCount": 3,
-    "videoCount": 1,
+    "articleCount": 10,
+    "videoCount": 6,
     "articleQueries": [
       "نظام الطيبات ضياء العوضي",
       "التغذية الصحية",
       "السكري التغذية",
-      "ضغط الدم التغذية DASH"
+      "ضغط الدم التغذية"
     ],
     "videoQueries": [
-      "نظام الطيبات السكري التغذية",
-      "التغذية الصحية",
-      "السكري والتغذية",
-      "ضغط الدم ونظام DASH"
+      "نظام الطيبات ضياء العوضي",
+      "نظام الطيبات التغذية",
+      "التغذية الصحية بالعربية"
     ],
-    "safetyFilterVersion": 4,
-    "removedForSafety": 15,
-    "safetyNotes": [
-      "استبعاد المحتوى غير المرتبط مباشرة بالتغذية والسكري والضغط",
-      "استبعاد العناوين المثيرة أو الادعاءات الصحية غير الموثقة",
-      "استبعاد المحتوى الذي يقدم ادعاءات شفاء شاملة أو يهاجم الطب المبني على الدليل",
-      "تفضيل المصادر الصحية الرسمية والمؤسسات الطبية المعروفة"
-    ]
+    "safetyFilterVersion": 4
   },
-  "safetyReviewedAt": "2026-08-10T08:03:18.524Z"
+  "safetyReviewedAt": "2026-08-11T07:35:58.798Z"
 }
