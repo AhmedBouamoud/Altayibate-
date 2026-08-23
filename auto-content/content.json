@@ -6,17 +6,6 @@
   "notice": "المقالات والفيديوهات روابط خارجية منتقاة للتثقيف العام من مصادر موثوقة. لا توقف دواءً ولا تغيّر علاجًا دون استشارة مختص.",
   "articles": [
     {
-      "id": "who-hypertension-terminology-2026-08-13",
-      "title": "مرجع منظمة الصحة العالمية للمصطلحات الأساسية في برامج ضبط ارتفاع ضغط الدم",
-      "summary": "مرجع حديث لمنظمة الصحة العالمية يدعم الوقاية وضبط الضغط، ويتناول قياس الضغط والمتابعة ونمط الحياة والتدخلات غير الدوائية ضمن الرعاية الصحية، دون الدعوة إلى إيقاف العلاج.",
-      "url": "https://www.who.int/publications/i/item/9789240123854",
-      "source": "منظمة الصحة العالمية",
-      "publishedAt": "2026-08-13T00:00:00.000Z",
-      "query": "ارتفاع ضغط الدم",
-      "type": "article",
-      "safetyLabel": "مصدر صحي رسمي — للتثقيف العام ولا يغيّر الخطة العلاجية"
-    },
-    {
       "id": "who-salt-healthy-diet-2026-08-19",
       "title": "تقليل الملح وحلول تعزيز النظام الغذائي الصحي",
       "summary": "مادة حديثة من منظمة الصحة العالمية حول تقليل الملح وتحسين البيئة الغذائية للوقاية من الأمراض غير السارية، ومنها أمراض القلب والسكري.",
@@ -60,7 +49,8 @@
       "publishedAt": "2026-04-23T00:00:00.000Z",
       "query": "التغذية الصحية وضغط الدم",
       "type": "video",
-      "safetyLabel": "محتوى تثقيفي مرتبط بإرشادات جمعية القلب الأمريكية"
+      "safetyLabel": "محتوى تثقيفي مرتبط بإرشادات جمعية القلب الأمريكية",
+      "channel": "YouTube"
     },
     {
       "id": "video-telemaroc-diabetes-nutrition",
@@ -71,15 +61,25 @@
       "publishedAt": "2019-12-12T00:00:00.000Z",
       "query": "التغذية الصحية والسكري",
       "type": "video",
-      "safetyLabel": "للتثقيف العام — راجع فريق الرعاية قبل أي تغيير علاجي"
+      "safetyLabel": "للتثقيف العام — راجع فريق الرعاية قبل أي تغيير علاجي",
+      "channel": "YouTube"
     }
   ],
-  "safetyReviewedAt": "2026-08-23T06:55:45.000Z",
+  "safetyReviewedAt": "2026-08-23T07:00:14.411Z",
   "safetyPolicy": {
     "deduplicated": true,
     "excludedSensationalClaims": true,
     "excludedMedicationStoppingClaims": true,
     "excludedUnverifiedMedicalCures": true,
-    "preferredSources": ["WHO", "American Diabetes Association", "American Heart Association"]
+    "preferredSources": [
+      "WHO",
+      "American Diabetes Association",
+      "American Heart Association"
+    ]
+  },
+  "diagnostics": {
+    "articleCount": 3,
+    "videoCount": 2,
+    "safetyFilterVersion": 4
   }
 }
