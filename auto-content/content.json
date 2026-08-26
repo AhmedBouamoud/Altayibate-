@@ -1,10 +1,21 @@
 {
   "version": 2,
-  "lastUpdated": "2026-08-23T06:55:45.000Z",
-  "nextUpdateAfter": "2026-08-26T06:55:45.000Z",
+  "lastUpdated": "2026-08-26T07:01:14.000Z",
+  "nextUpdateAfter": "2026-08-29T07:01:14.000Z",
   "status": "ready",
   "notice": "المقالات والفيديوهات روابط خارجية منتقاة للتثقيف العام من مصادر موثوقة. لا توقف دواءً ولا تغيّر علاجًا دون استشارة مختص.",
   "articles": [
+    {
+      "id": "who-hypertension-terminology-2026-08-13",
+      "title": "مرجع حديث للمصطلحات الأساسية في برامج ضبط ارتفاع ضغط الدم",
+      "summary": "منظمة الصحة العالمية تعرض مرجعًا موحدًا للمصطلحات السريرية والتشغيلية ومصطلحات المتابعة المستخدمة في برامج ضبط ارتفاع ضغط الدم، بما يدعم الرعاية والمتابعة القائمة على الدليل.",
+      "url": "https://www.who.int/health-topics/hypertension/",
+      "source": "منظمة الصحة العالمية",
+      "publishedAt": "2026-08-13T00:00:00.000Z",
+      "query": "ارتفاع ضغط الدم",
+      "type": "article",
+      "safetyLabel": "مصدر صحي رسمي — للتثقيف العام ولا يغيّر الخطة العلاجية"
+    },
     {
       "id": "who-salt-healthy-diet-2026-08-19",
       "title": "تقليل الملح وحلول تعزيز النظام الغذائي الصحي",
@@ -17,55 +28,32 @@
       "safetyLabel": "مصدر صحي رسمي — للتثقيف العام ولا يغيّر الخطة العلاجية"
     },
     {
-      "id": "ada-healthy-eating-diabetes-2026",
-      "title": "كيف تتناول غذاءً صحيًا مع السكري؟",
-      "summary": "إرشادات من الجمعية الأمريكية للسكري تركز على اختيارات غذائية واقعية قائمة على الدليل وعلى دور فريق الرعاية في إدارة السكري.",
-      "url": "https://diabetes.org/food-nutrition/how-to-eat-healthy-with-diabetes",
+      "id": "ada-standards-nutrition-2026",
+      "title": "توصيات 2026 للتغذية وإدارة السكري",
+      "summary": "تحديث الجمعية الأمريكية للسكري لمعايير الرعاية لعام 2026 يتضمن أنماطًا غذائية مدعومة بالدليل للوقاية من السكري من النوع الثاني، مع استمرار أهمية العلاج والمتابعة الطبية الفردية.",
+      "url": "https://diabetes.org/newsroom/press-releases/american-diabetes-association-releases-standards-care-diabetes-2026",
       "source": "American Diabetes Association",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "publishedAt": "2025-12-08T00:00:00.000Z",
       "query": "السكري والتغذية الصحية",
       "type": "article",
       "safetyLabel": "مصدر طبي موثوق — لا تستبدل العلاج بتغييرات غذائية دون متابعة مختص"
-    },
-    {
-      "id": "aha-hypertension-community-2026-08-20",
-      "title": "توسيع التوعية والرعاية لضبط ارتفاع ضغط الدم",
-      "summary": "مادة حديثة من جمعية القلب الأمريكية تؤكد أهمية اكتشاف ارتفاع الضغط ومتابعته وعلاجه والتثقيف الصحي المستمر.",
-      "url": "https://newsroom.heart.org/local-news/philadelphias-health-organizations-unite-to-take-down-high-blood-pressure",
-      "source": "American Heart Association",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "query": "ارتفاع ضغط الدم",
-      "type": "article",
-      "safetyLabel": "مصدر طبي موثوق — للتثقيف العام ولا يغيّر الخطة العلاجية"
     }
   ],
   "videos": [
     {
-      "id": "video-aha-dietary-guidance-2026",
-      "title": "American Heart Association releases new dietary guidance",
-      "summary": "فيديو يعرّف بالتوجيهات الغذائية لعام 2026 لصحة القلب، برعاية جمعية القلب الأمريكية، دون ادعاءات علاجية بديلة أو دعوة لترك الدواء.",
-      "url": "https://www.youtube.com/watch?v=px6APREbAfg",
-      "source": "First Coast News / American Heart Association",
-      "publishedAt": "2026-04-23T00:00:00.000Z",
-      "query": "التغذية الصحية وضغط الدم",
+      "id": "video-aha-dietary-guidance-2026-official",
+      "title": "2026 Dietary Guidance to Improve Cardiovascular Health",
+      "summary": "فيديو من قناة AHAScience يشرح أبرز توصيات البيان العلمي لجمعية القلب الأمريكية لعام 2026 بشأن أنماط الأكل الداعمة لصحة القلب والتمثيل الغذائي، دون ادعاءات علاجية بديلة.",
+      "url": "https://www.youtube.com/watch?v=iyafS9r-XZc",
+      "source": "AHAScience / American Heart Association",
+      "publishedAt": "2026-03-31T00:00:00.000Z",
+      "query": "التغذية الصحية وصحة القلب وضغط الدم",
       "type": "video",
-      "safetyLabel": "محتوى تثقيفي مرتبط بإرشادات جمعية القلب الأمريكية",
-      "channel": "YouTube"
-    },
-    {
-      "id": "video-telemaroc-diabetes-nutrition",
-      "title": "هكذا تكون التغذية الصحية لمرضى السكري",
-      "summary": "مادة تثقيفية عربية حول التغذية والسكري. أُبقيت بوصفها توعية عامة فقط، مع أولوية توصيات الطبيب ومصادر الإرشادات الطبية الحديثة.",
-      "url": "https://www.youtube.com/watch?v=yYjRK3M7rCs",
-      "source": "Télé Maroc",
-      "publishedAt": "2019-12-12T00:00:00.000Z",
-      "query": "التغذية الصحية والسكري",
-      "type": "video",
-      "safetyLabel": "للتثقيف العام — راجع فريق الرعاية قبل أي تغيير علاجي",
+      "safetyLabel": "قناة علمية تابعة لجمعية القلب الأمريكية — للتثقيف العام ولا يغيّر العلاج",
       "channel": "YouTube"
     }
   ],
-  "safetyReviewedAt": "2026-08-25T07:07:04.869Z",
+  "safetyReviewedAt": "2026-08-26T07:01:14.000Z",
   "safetyPolicy": {
     "deduplicated": true,
     "excludedSensationalClaims": true,
@@ -79,7 +67,7 @@
   },
   "diagnostics": {
     "articleCount": 3,
-    "videoCount": 2,
+    "videoCount": 1,
     "safetyFilterVersion": 4
   }
 }
