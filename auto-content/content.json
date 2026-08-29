@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "lastUpdated": "2026-08-26T07:01:14.000Z",
-  "nextUpdateAfter": "2026-08-29T07:01:14.000Z",
+  "lastUpdated": "2026-08-29T12:40:16.596Z",
+  "nextUpdateAfter": "2026-09-01T12:40:16.596Z",
   "status": "ready",
-  "notice": "المقالات والفيديوهات روابط خارجية منتقاة للتثقيف العام من مصادر موثوقة. لا توقف دواءً ولا تغيّر علاجًا دون استشارة مختص.",
+  "notice": "المقالات والفيديوهات روابط خارجية منتقاة آليًا للتثقيف العام. لا توقف دواءً ولا تغيّر علاجًا دون استشارة مختص.",
   "articles": [
     {
       "id": "who-hypertension-terminology-2026-08-13",
@@ -41,33 +41,105 @@
   ],
   "videos": [
     {
-      "id": "video-aha-dietary-guidance-2026-official",
-      "title": "2026 Dietary Guidance to Improve Cardiovascular Health",
-      "summary": "فيديو من قناة AHAScience يشرح أبرز توصيات البيان العلمي لجمعية القلب الأمريكية لعام 2026 بشأن أنماط الأكل الداعمة لصحة القلب والتمثيل الغذائي، دون ادعاءات علاجية بديلة.",
-      "url": "https://www.youtube.com/watch?v=iyafS9r-XZc",
-      "source": "AHAScience / American Heart Association",
-      "publishedAt": "2026-03-31T00:00:00.000Z",
-      "query": "التغذية الصحية وصحة القلب وضغط الدم",
+      "id": "youtube-kCpRlPkKgSw",
+      "videoId": "kCpRlPkKgSw",
+      "title": "الإعجاز في نظام الطيبات! للدكتور ضياء العوضي",
+      "channel": "Ali Baba",
+      "publishedLabel": "2 months ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=kCpRlPkKgSw",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/kCpRlPkKgSw",
+      "thumbnail": "https://i.ytimg.com/vi/kCpRlPkKgSw/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
-      "safetyLabel": "قناة علمية تابعة لجمعية القلب الأمريكية — للتثقيف العام ولا يغيّر العلاج",
-      "channel": "YouTube"
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-xembettoZ-Q",
+      "videoId": "xembettoZ-Q",
+      "title": "Dr. Diaa El-Awadi | The Dos and Don'ts of the Tayyibat Diet in Detail",
+      "channel": "Tayibat Studio | استوديو الطيبات",
+      "publishedLabel": "2 months ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=xembettoZ-Q",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/xembettoZ-Q",
+      "thumbnail": "https://i.ytimg.com/vi/xembettoZ-Q/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-HGhsI8cx8RU",
+      "videoId": "HGhsI8cx8RU",
+      "title": "هل نظام الطيبات يمنع عنك المرض ؟ 😳 الدكتور ضياء العوضي",
+      "channel": "MO Nawas - محمود النواس",
+      "publishedLabel": "4 days ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=HGhsI8cx8RU",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/HGhsI8cx8RU",
+      "thumbnail": "https://i.ytimg.com/vi/HGhsI8cx8RU/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-xyEHdyJLSsE",
+      "videoId": "xyEHdyJLSsE",
+      "title": "الدليل الكامل لممنوعات نظام الطيبات 🥚🚫🥖 | د. ضياء العوضي",
+      "channel": "فكر تالت",
+      "publishedLabel": "3 months ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=xyEHdyJLSsE",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/xyEHdyJLSsE",
+      "thumbnail": "https://i.ytimg.com/vi/xyEHdyJLSsE/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-KVw7d36a6-Q",
+      "videoId": "KVw7d36a6-Q",
+      "title": "لماذا يمرض جسمك؟ د. ضياء العوضي يشرح الحقيقة | نظام الطيبات بالتفصيل",
+      "channel": "Tayibat Studio | استوديو الطيبات",
+      "publishedLabel": "2 months ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=KVw7d36a6-Q",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/KVw7d36a6-Q",
+      "thumbnail": "https://i.ytimg.com/vi/KVw7d36a6-Q/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-Ek_CtoEQeWE",
+      "videoId": "Ek_CtoEQeWE",
+      "title": "نظام الطيبات للدكتور ضياء العوضي | مؤامرة دواء ام اكتشاف طبي",
+      "channel": "samaras ketolife",
+      "publishedLabel": "3 months ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=Ek_CtoEQeWE",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/Ek_CtoEQeWE",
+      "thumbnail": "https://i.ytimg.com/vi/Ek_CtoEQeWE/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
     }
   ],
-  "safetyReviewedAt": "2026-08-28T18:40:16.244Z",
-  "safetyPolicy": {
-    "deduplicated": true,
-    "excludedSensationalClaims": true,
-    "excludedMedicationStoppingClaims": true,
-    "excludedUnverifiedMedicalCures": true,
-    "preferredSources": [
-      "WHO",
-      "American Diabetes Association",
-      "American Heart Association"
-    ]
-  },
   "diagnostics": {
     "articleCount": 3,
-    "videoCount": 1,
+    "videoCount": 6,
+    "articleQueries": [
+      "نظام الطيبات ضياء العوضي",
+      "التغذية الصحية",
+      "السكري التغذية",
+      "ضغط الدم التغذية"
+    ],
+    "videoQueries": [
+      "نظام الطيبات ضياء العوضي",
+      "نظام الطيبات التغذية",
+      "التغذية الصحية بالعربية"
+    ],
     "safetyFilterVersion": 4
-  }
+  },
+  "safetyReviewedAt": "2026-08-29T12:40:52.446Z"
 }
