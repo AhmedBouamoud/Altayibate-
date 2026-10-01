@@ -1,10 +1,43 @@
 {
   "version": 2,
-  "lastUpdated": "2026-09-28T13:51:31.738Z",
-  "nextUpdateAfter": "2026-10-01T13:51:31.738Z",
+  "lastUpdated": "2026-10-01T13:10:50.443Z",
+  "nextUpdateAfter": "2026-10-04T13:10:50.443Z",
   "status": "ready",
   "notice": "المقالات والفيديوهات روابط خارجية منتقاة آليًا للتثقيف العام. لا توقف دواءً ولا تغيّر علاجًا دون استشارة مختص.",
   "articles": [
+    {
+      "id": "article-2KfZhNmF2LPYp9ihIC0g2KfZ",
+      "title": "المساء - التغذية وإدمان الأنترنت ومخاطر المخدرات في صلب الحملة",
+      "summary": "مادة جديدة من el massa. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNajhjNGl5MXJDMUNreHBmQTNWaHVacTVSd1N4cy1SRFVCZEltcWM4Y2M3aE5mclgzTVJpTy1hVjM1MksxLTh3ZzRVSWVmMUFyR0RSTjh6RHhyWnc3a3pkZkl5eDY3N0duWjNpS0lDNnRJQmliVkw0eFYwaC1LazZxUFpaVm9jS29JN2lfMFRVUENsdkpPM05zcGVFd3ZNUE0zOFRFQ0dxbmdoamdvc1JST3RBMTJFbXZaSUIyNXNWRlRQcFdndUZkY0JkXzFldDNwMzl5akF1ODY3TG80T19wb0twc3FuZDZUaDlyS1h5eXlyNFB2UGVjT0dQZGZZTVFtd2hDTnVtYk4zVnMtT3lBYzZnZWIyUXk2STZVNXQ4Q1Z5d0F4R2t6eWEyaFFTSzROMlJFbks2QVpIWXlJWjlWdGM0cU5WNjBITnl1MHhmeHFMVnU4elJoV25xU2ZFblI1a3Q3OWYxdzhUOTUtOTR1U2k3aTNGTG5YVExtYlJrQ0M2WlRIckp0NDY2V3NjZms3UzJxbzA4YWdGTEFPVjY4bWJ3blZtOWhzdDA2Z1IzWXJLbjZYMEJaVldabDlrUHhjaXZUNjhZUHdDdWdxbG42bThxVC00Ymp6RWlsV2tIQmJaZzVwVnhqWWMwMTEydmp6UVIzQw?oc=5",
+      "source": "el massa",
+      "publishedAt": "2026-09-30T19:35:14.000Z",
+      "query": "التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2KfZhNio2YbZgyDYp9mE2K_Z",
+      "title": "البنك الدولي يبرز استراتيجية المغرب لتحسين تغذية الأطفال خلال أول 1000 يوم من حياتهم",
+      "summary": "مادة جديدة من 24saa.com. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPMkpxbTUwck9OOU5rc01iVlotcXluZmhveXVxNkxKUWZwYUY3Ynk1d3JUMmhKNS1nMWNyVnhUcU5kQ240UVRnMWFzSXVXRkpId2I2cHpNb3oyWXNGblYxQXNPSGJxR0tvbXpzUzdjUmEyWkRsaXJFbmtHR2VDVWtraV9RMV82MXRLY1RkVkI1czVsRnFyYVVvZ0E2LTZmRVRIOU92VjlyU2VuN3VQNHFrLUozQkJ0WUQ3TWJFMmRhTnEwbW9CRDVmNDgtNW9YUlA1cFBlTlV3NjVfU2syQ3d4aExuY1dLYzdGQWd0R3dDcFoyNElpMGN2cnNjVGJGRnBYbjFjSzF1SWo2dXpKLUhTWXhjU2JfVll4eWZXZnFYYzBoYWxJSXc2Yl9iQ2drczRaQ2tGaDJxNGRGLWdJ?oc=5",
+      "source": "24saa.com",
+      "publishedAt": "2026-09-29T23:30:04.000Z",
+      "query": "التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2YfZhCDYp9mE2YXZiNiyINmK",
+      "title": "هل الموز يرفع الضغط والسكر؟- إليك الحقيقة",
+      "summary": "مادة جديدة من الكونسلتو. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNbHIwbmJsWC1BTU5QMmU0Mk5CMVNENHp2cjdnbklFTkwtRGFNc2hCaGtaZVNpTWx6MkJWVWc5QzRIbHBKUERDZXpYWUx6MTNiLVA4RWFZc0VUX0Z6b2I0b0xmdTFENnJqSUU5TTJBT0hKNGdmNVhUYUJrTTh3TTBPUnBtZUYwX3hDcTdYSTRsOXFTMXJDZGFJLVJNcURJR0s2TEJ6SjMxWVBVMWNPNlZsbEZEX25mMWZ0Tk9CSWVUalVDSzI4ZENnMTktRzN6Rkp0Smd5ZGdmYmdzU0ZSMWhRT09NeE4xdWJmNU4tb3JDMnhrRjhuRE9jZ2R5cFRBd251NVhlZlFfQ05KbEdtVEtnbk54ZloyRndLSjlKR2JKZTUzcDBPbFptZ3pJaWtVQXBtNzJxY0toNV9tRHotOTl2emFManZHYUYzR21KM1AtbUwzV1hNbXppVzB4OVhrNUQxdGhOX3p3OEoyVndlOGZLNFlEay1ETVZpSlQtUW1tT1ZWYXV6dHBIRDVzOHM2WUllSm5rb1JDYkI1THJkZTRVQ9IBpgNBVV95cUxQam00UnNkbk01ako1OEZaR2lGR0JCaE1JREEwNlk0WThBNDg3NUpfY2NoNVcwU2VEWmdGa19Lckw2VzlDVmNNcTVFenpXZW9QMnlPYllpdFItNnFKM2ZMd0tmYkNvVjJWamtoZDY1QTRHQ2xVdWVqZlZnNUVhTzZ4R1JyUVJvNVM3SDJwNkg5T3BxbFhDYTNlYldfVk1IUXczQzJveWRFYWo5Q1Y1Nm8ycGVVSHN5RDZ2aHBwNWhCdkVWWE8wNDM2X3RuVTZ6Rl92eVVBTm8wWWJOYkozOGtWTXdiT25fRDFMeVJSQzBNcHpZMzNvUGVnMUNyTm5TSExkNzNneGtRQ0JXVnBaWEE1SE0tMHR0STRLVWw0QTFJQXZJNFFtUElQdkZtWjRMNE83NlZrT1ZRdTgwQjMwMkU3eUVsdlhsbHhJYkxfRXdQbEk1WkZXMWE3YlNWa3g1UGdqd2NVcFI3R0FLRFNxWVJLTkUxSkFqaDludThHLWZkNmRaRnY3Qlg4ZEFhRkQ2LWJ0STlGdGVZWUgyMXY4WUUxQWNCYmNtQQ?oc=5",
+      "source": "الكونسلتو",
+      "publishedAt": "2026-09-28T18:17:42.000Z",
+      "query": "السكري التغذية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
     {
       "id": "article-2YXZgdin2KzYo9ipINi52YTZ",
       "title": "مفاجأة علمية.. خطوة صغيرة في نظامك الغذائي قد تحميك من السكري",
@@ -17,12 +50,12 @@
       "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
     },
     {
-      "id": "article-2YTZhdin2LDYpyDZitmG2LXY",
-      "title": "لماذا ينصح خبراء التغذية بإدخال الشمندر في النظام الغذائي؟",
-      "summary": "مادة جديدة من alnahdanews.com. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQc2dOLXR4TTRncU5YeHRpM0lYaEFzZHVka3h0ZExLOUliYktnS0lpeE1jRmpGTGdIY2dWV0hPd2pOZVFpRzZxczJFRmpBTUttOG9HX3c2S0VQdWZUUjdjTHlnZmV4Um1EZE1CbWd5YWFQN0FqVVFpVG5BQnlPN09NWTRYcm1jcG15eUhZUFVDYUdfSkxkYkZ0SXdvMy1PMG9sNUxrM2VYSjlxRVlXT25kU1lzNExiRW93WmJCaEtTV0NlUjE2cEJLcEMyVzZOSUc0WER6ZlNtaGFDQnhVcXEwQlFObGp1TW5LWV92anc1VWU1c2ZFVW9xb2xuazd5RG5nWm8yQ29ycG1ubmVnQm9TTS1saGFOSlM0UFdxNEMtUVVFTWQ0NHdESm5mcjlXTFpOcmlvSGoxWUhsZUdpOGhHUFZ6MW9PcnFLRVZfcW9kOTZZbnBHZDB0eDZRdDR5Rnp1ZUNWQ3dzdTNEdlM3Qks2RDBIQTJTSENTY3RKamgxakVJOHdqRHRTb09DcV9KRXVzdVpKS1JGcGR1UlNTQktBRmRoTllsNF9GendSRHFwX0puSGs4OURzeGNrUVI?oc=5",
-      "source": "alnahdanews.com",
-      "publishedAt": "2026-09-28T04:13:45.000Z",
+      "id": "article-4oCP2KfZhNi02YXZhtiv2LEg",
+      "title": "‏الشمندر في النظام الغذائي يساعد في دعم تنظيم ضغط الدم | إضآءات",
+      "summary": "مادة جديدة من ida2at.org. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQSkFiUDd4VW5QcGcyWFdaSWlSWl9VcERzTkN5Sk5yNEpncWFndXRoWlZwb0VaREdndTRXa1owV1dXRW01a1R6NjVWQTNCdzVYam5YdTlzNm1iT0JCb3poWGMyQy1fNXgtNzd2cE81SXdIWFhnejdfbEZlMkpfM0ZkaFFIakR1c3pJT21QbHg3YXF4Wjk1M0I5bTBvYWNtdjJPZFRxVXBBYmQzbGp4VHRsZ0IwYWNIQ0ZkeHF3R3NMUzA3QXQ4Z21YQy1hazJOVEVURS00U0hwRmJOaW84WTNhV1lRNnpCb21ON0RreGpzUm9vdEFCN002S1FEY1dJYUFXV1FpcUZNQ3Bvb3d0ZzV3b0Z4bXZmX1RBNE5qSXJ3ODV3VUdWcXV6eQ?oc=5",
+      "source": "ida2at.org",
+      "publishedAt": "2026-09-28T11:27:55.000Z",
       "query": "ضغط الدم التغذية",
       "type": "article",
       "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
@@ -52,9 +85,9 @@
     {
       "id": "article-2KfZhNiq2LrYsNmK2Kkg2KfZ",
       "title": "التغذية الصحية... حرمان آخر تواجهه الحوامل في اليمن",
-      "summary": "مادة جديدة من jinhaagency.com. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "summary": "مادة جديدة من JINHAGENCY. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmJFMWpiblVicHV2ejQwYVI3bGk4Ql9rQWYtZU9aNjVIbjgwYVVUSGV4Ui15clNPb3hNU2RtdjJWclJkazJOZ003NGtiSFphSnZfSjNlYk1QZVRfUTVBWEI5dWtaZ3BDTDItWWxhc2V1V3E1VGxXRm5FRXVHYXk2anZQZ3pXVzFyZWVlS0M3dUxfaTBO?oc=5",
-      "source": "jinhaagency.com",
+      "source": "JINHAGENCY",
       "publishedAt": "2026-09-27T05:17:47.000Z",
       "query": "التغذية الصحية",
       "type": "article",
@@ -74,43 +107,10 @@
     {
       "id": "article-wqvYp9mE2LXYrdipwrsg2KrY",
       "title": "«الصحة» تحذر من الإفراط في أطعمة يومية قد تضر الكبد والكلى: سموم صامتة في كل بيت",
-      "summary": "مادة جديدة من elwatannews.com. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "summary": "مادة جديدة من الوطن. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84SVVFTlJEMGhPMmQwTklKTWFEOURaWUlIODNYTk5NZlBiUmNLblJxUVlIVnRjUllfdV9ja0tNQmt5RTItekt5eExrODRRdWlrS1VYcGJqQ3ZlZDZy?oc=5",
-      "source": "elwatannews.com",
+      "source": "الوطن",
       "publishedAt": "2026-09-26T22:04:56.000Z",
-      "query": "التغذية الصحية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2KPYt9i52YXYqSDZitmG2LXY",
-      "title": "أطعمة ينصح بتناولها في العشاء لخفض ضغط الدم",
-      "summary": "مادة جديدة من صحيفة صدى الالكترونية. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40V29vTUpQTDNWSU10VUUyeW9iQkpJVWlILWlwNE91R3ZpdU5kMFIxWE9oSmdqTnlfQnY0SUptRG1FellqOTh3amxzbVVzY0pZSkpUVHlB?oc=5",
-      "source": "صحيفة صدى الالكترونية",
-      "publishedAt": "2026-09-25T02:03:49.000Z",
-      "query": "ضغط الدم التغذية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2YPZitmBINmK2LPYp9i52K8g",
-      "title": "كيف يساعد عصير الشمندر على خفض ضغط الدم؟",
-      "summary": "مادة جديدة من إرم نيوز. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwNVFxU1pOSlQ4MGZoNjRJSnR6c1kzeEJkMFl3X3ozbGxNWG9zSVdtR1hkYjhndmJLT3l5b0JCZDZienBseTVMazJ2eFhVTlFqNmEzaHNHWXhtdXJVZVk1SVFZVFFWNGo5SUNPbtIBa0FVX3lxTE5Cc0d2eXJUV3dhRGtMdWQyUFk5TmZSSlpaM28zajgtRFhQNUVYczAwNlk1QkdJdmZGekZOM2hGS0xyYWNfLVNNTFRDWU15MkpSaEtlb1VuNTM0cVhZdVB2WlJGOFRNNVNaZndJ?oc=5",
-      "source": "إرم نيوز",
-      "publishedAt": "2026-09-24T23:41:07.000Z",
-      "query": "ضغط الدم التغذية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2KfZhNi12K3YqSDYp9mE2LnY",
-      "title": "الصحة العالمية ومركز الملك سلمان يوقعان اتفاقية لعلاج أطفال سوء التغذية في اليمن",
-      "summary": "مادة جديدة من اليوم السابع. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxPbXkwSTA2U3ZfX3F1b3dvdVFCc0cwM0lmT25uUUVNVVJEVVdvOXpmb0xDM3ZkSTBtaDFtTkE3eUxFOUFsUGVuaDRzaENvbWVVcnVxdjNXMkhma1JlLWJ3eGZlWE5KR0JOWXNSdEFfaHhraFUtMEhnSHEwMHhJWXV0ZUZ0V3ZaeUJoelFLN2pVSWl1VGljdEpzR1RlNXpoZlBGV2RZTG85U0Y1Vmp0VGZEME5fblBRVHJoRGwzcFVieGIyNkJBc1JyMW92cXBneUljOEZ6X1lYNGc0V2FrVWNGVmhDalY2SDZFeXl3b1ZJUEdmcFB4aXQxazByUXNCOUIydXB6N2hDYXVONlFfRUNXc0paaW1waEp5bTNUS0dXcElCWGZZak8xSHRORWhCRzZ2bUh0cU5XR1V6b2E1Y1JIOWVWeUZTWHZUaG82YmtxRi1wU1p4cUhlM205NFBHa0N2bkxFR2hzaDlpb042Mzhyd3pkM3JjcEVfRzlYN2k2M2VJSVNMUkpuSXRDVksxUnJpc1l0Uk55Q3kxTDNkdlBSMXljNlQ2emJrNFVaaW1abGkzMnVvY2dxVkM0VzhiclFZSHFfSk9TV3FweElSTXNOZ1BZZ3VCQUVjVUxLVTZyOFVxa2hkYURPbUhPYkQ2XzIwQVZBdFp6V3ozSUhmSDhCRGVvaU9pSmtlUjRpRDd3ZXVGN1ZsLWfSAZAEQVVfeXFMUDRhcW51cHh2WkxRYjFSVjNJQkhFM2tqTm9NcE5GV0dRQ3VDLUphWkRWX2RyWVZ6N0JFUS04RnYxUnktd2JKQ0o1SzVvSkNWcmxCZjMtRS1GNWhna2pmYUlLVDJOX0VJa3hLaWNYSFdQZXQ2dE1HWllqdlRLYWxDbjRhb3NOeThwQUdWS0djQUpuVFpUZVlCNUhhOXFkSk9nZDFxczdBOERBYnRDQURIS3FPeElZSUk3WWMwd0tFSFFzZTAxaVBpWThVd2x3TEJHdEpKZGpsaTg3cDVjb01WdFE5ajc5Tzc4MkdlbHdILUNiVTNrb0RqcWY2aGJvNVlGcng5REQ0dUJIS3RGYzBYZnVEbVBfNXp4QWRubmF0X1VDQ1BmVzh4VzA0Ul9ONmY3SU5FdGlITk5jZ1hTTFJkNkxOWnV3MHdtclZYVnhabUtpLXVxWnNrLXFPOG80dVQzRTJ2LTh0STJyZWRmNTVpX0FyT29IdWlRSHU2LUtkYVJwNnJQUFlabXo2aEhOTDNhU011OW1TaGV2c0JaT3lhRWRJMTQ4ajVleFlsaUdJUEtRMVF6RXdpNGxOSjNERURWNXVEYTlMSTd4NU1jU2Z2MlZyZF9FTEJ1aE1jVnQwVzVUdHBNUXh0RGhnVmFBNE9vZzFoeWZmVlRsZlotaGJTMU5zeUpQYWdDSExOV0tueDI0?oc=5",
-      "source": "اليوم السابع",
-      "publishedAt": "2026-09-24T20:57:00.000Z",
       "query": "التغذية الصحية",
       "type": "article",
       "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
@@ -132,15 +132,15 @@
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
     },
     {
-      "id": "youtube-xyEHdyJLSsE",
-      "videoId": "xyEHdyJLSsE",
-      "title": "الدليل الكامل لممنوعات نظام الطيبات 🥚🚫🥖 | د. ضياء العوضي",
-      "channel": "فكر تالت",
-      "publishedLabel": "4mo ago",
+      "id": "youtube-wwi06TaD7pk",
+      "videoId": "wwi06TaD7pk",
+      "title": "صباح العربية | مواجهة مباشرة على الهواء حول \"نظام الطيبات\" وضياء العوضي",
+      "channel": "AlArabiya العربية",
+      "publishedLabel": "2d ago",
       "duration": "",
-      "url": "https://www.youtube.com/watch?v=xyEHdyJLSsE",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/xyEHdyJLSsE",
-      "thumbnail": "https://i.ytimg.com/vi/xyEHdyJLSsE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wwi06TaD7pk",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/wwi06TaD7pk",
+      "thumbnail": "https://i.ytimg.com/vi/wwi06TaD7pk/hqdefault.jpg",
       "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
@@ -160,29 +160,15 @@
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
     },
     {
-      "id": "youtube-yafScyG6fjs",
-      "videoId": "yafScyG6fjs",
-      "title": "د. ضياء العوضي: نظام الطيبات.. بعض الممنوعات والمسموحات",
-      "channel": "Ahmed_الغزالي",
-      "publishedLabel": "2mo ago",
-      "duration": "",
-      "url": "https://www.youtube.com/watch?v=yafScyG6fjs",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/yafScyG6fjs",
-      "thumbnail": "https://i.ytimg.com/vi/yafScyG6fjs/hqdefault.jpg",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "video",
-      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
-    },
-    {
-      "id": "youtube-N1xpuA-mR-k",
-      "videoId": "N1xpuA-mR-k",
-      "title": "سبب منع البصل والثوم في نظام الطيبات للدكتور ضياء العوضي",
-      "channel": "تحت المجهر",
+      "id": "youtube-xyEHdyJLSsE",
+      "videoId": "xyEHdyJLSsE",
+      "title": "الدليل الكامل لممنوعات نظام الطيبات 🥚🚫🥖 | د. ضياء العوضي",
+      "channel": "فكر تالت",
       "publishedLabel": "4mo ago",
       "duration": "",
-      "url": "https://www.youtube.com/watch?v=N1xpuA-mR-k",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/N1xpuA-mR-k",
-      "thumbnail": "https://i.ytimg.com/vi/N1xpuA-mR-k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xyEHdyJLSsE",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/xyEHdyJLSsE",
+      "thumbnail": "https://i.ytimg.com/vi/xyEHdyJLSsE/hqdefault.jpg",
       "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
@@ -197,6 +183,20 @@
       "url": "https://www.youtube.com/watch?v=aByM67Sz4Js",
       "embedUrl": "https://www.youtube-nocookie.com/embed/aByM67Sz4Js",
       "thumbnail": "https://i.ytimg.com/vi/aByM67Sz4Js/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-eg7r3Q5JYGM",
+      "videoId": "eg7r3Q5JYGM",
+      "title": "ما هو نظام الطيبات الدكتور ضياء العوضي",
+      "channel": "King of English",
+      "publishedLabel": "4mo ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=eg7r3Q5JYGM",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/eg7r3Q5JYGM",
+      "thumbnail": "https://i.ytimg.com/vi/eg7r3Q5JYGM/hqdefault.jpg",
       "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
@@ -218,5 +218,5 @@
     ],
     "safetyFilterVersion": 4
   },
-  "safetyReviewedAt": "2026-09-30T12:32:29.656Z"
+  "safetyReviewedAt": "2026-10-01T13:10:58.071Z"
 }
