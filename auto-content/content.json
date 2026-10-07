@@ -1,10 +1,76 @@
 {
   "version": 2,
-  "lastUpdated": "2026-10-04T12:19:26.874Z",
-  "nextUpdateAfter": "2026-10-07T12:19:26.874Z",
+  "lastUpdated": "2026-10-07T13:21:01.976Z",
+  "nextUpdateAfter": "2026-10-10T13:21:01.976Z",
   "status": "ready",
   "notice": "المقالات والفيديوهات روابط خارجية منتقاة آليًا للتثقيف العام. لا توقف دواءً ولا تغيّر علاجًا دون استشارة مختص.",
   "articles": [
+    {
+      "id": "article-2KfZhNi12K3YqSDYp9mE2LnY",
+      "title": "الصحة العالمية توصي بمواجهة سمنة الأطفال بالغذاء…",
+      "summary": "مادة جديدة من شبكة تواصل الإخبارية. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBMHFvVHcxY29BNnpTV3l2UWtlNTBraER6SmE3TkY1R2p5eHNycGJiZVIxVG93WHo2Ymc3aDU5Y2lOVkZhdzY1MG4zRWoyQVRPS29Z?oc=5",
+      "source": "شبكة تواصل الإخبارية",
+      "publishedAt": "2026-10-07T10:36:29.000Z",
+      "query": "التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2LnZhNmF2KfYoSDZitmD2LTZ",
+      "title": "علماء يكشفون عادة مفاجئة قد تساعد على خفض ضغط الدم",
+      "summary": "مادة جديدة من الحدث. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPTEhmV2dZUEVMU2FOSzRoR2laT0dwTm9hSkpiTHY3US1pRzFUa2ljczhCVERBODZpVXVJcF9OdjBJajRQeGE1RXNlXzloZHRXU0V6ci13OTFBeWZ2RWtOSXppeE9vOXR4ZFF1OGNNZVZWY24tT25pYlJwMlBkdlBXR3NoeHZCdkNJdmNNOURETUtxXzdWdC1qbDRXMkxGV0RUNmFndWpYcjgxZ1dGZ0ZFOTkwWEZVTEFQLWlUU1JxcEVOdkdMTXNtY0V4bjV1T1l1UURKMUFsY3llZS1ZQ0hJYmZvcUQxSGM4cnNoX3NFLWJGdVNCRGRVSXp1ZENJRGZncjVDNGtZU0pmU3owY1N0ZzVkb0xjSDdMQVRybmpUQWZfZ0p3VGZDQV8xZTZkcjZWZnBiUGliMzcwNHhER2RkRllJMGw4dF9meks0UTVXd1B1S0c3dHNSWVFaQVFsaFE2R3M3Nk40c2I4UGxlU29sNFdJanRmSzR2SDdlRGtJTmhaTUM0cW0wTVhGdW1tdWFrNDAwZ1BkSWpVX1JGRHByb9IBwgNBVV95cUxNS01lY0dyQ0dNZkNOSWZSMEFuOFI1b1F2ZjB1NlhPUzViZ28wSGN2Rmo3elljdEJkYWwtSXdCcjZsdjc5SmZSLWstUkJqMGVFTWd6X1NXTk55VjQyOVpIeTBJcTIxaHZjdkVPcHowMkVOWVk4V3otME5HX0pMNmtCM0pwaHlwYjk1Nk1OeXZrcHVYU0hBY3g1TlM1SFdJNnlkQl9HLXpEdzlmQi1JUEhUeU1DcmF4VnVmc3ktSzJtOGlPblZqOWVLV3JFVUNrQy1kM0pFc1hRa3B6RG9kYVF2S2RNQ0t2alRKcVRnRXh6Y1JwUmtGaVlZR2xnZjh3NUtqTXZHcXpDUUtGWFozQ1FMdVlzQTJta25GMHJ5TWc0Q2NpWnFJNVJ5TlJ3MXBQV3VrbHFtVEJUQkVMci1QLXY0NGFOQjZod1Q0eUVDaG1aem1PWUt0dDZNNzUwZV85RlJ2cXBLbzdEd0lMbU5raGlvbWYtT1RNRmhzdG14M2pfem5GNjEzSGhOaG5za1FEWERQaV9Wc1hUZUNBNzBBLWZhRjhwTnY0dlcwY1NPUGZIUkVDazdQVUZORW1EcmhHcnRzYWc?oc=5",
+      "source": "الحدث",
+      "publishedAt": "2026-10-06T16:41:00.000Z",
+      "query": "التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2YXYsdmD2LIg2LTYqNin2Kgg",
+      "title": "مركز شباب برما ينفذ ورشة توعوية حول أسس التغذية الصحية",
+      "summary": "مادة جديدة من وكالة عمان جو الاخبارية. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9raXlkeTZmVXZkaTAxakw2LWtsSEhtakVMb3dZSVpPV3lvM1hMMDQ2N1ZRUGlia0ZsSXlWV2VqckJEZ2h3bFMxLTFpT1hmSjM2NXpSTw?oc=5",
+      "source": "وكالة عمان جو الاخبارية",
+      "publishedAt": "2026-10-06T15:44:13.000Z",
+      "query": "التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2KXZhiDYqtmG2KfZiNmEINin",
+      "title": "إن تناول الكربوهيدرات بشكل صحيح يمكن أن يساعد في الوقاية من مرض السكري.",
+      "summary": "مادة جديدة من Vietnam.vn. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWjB3eWtnNmdHWTJiYmZvbHBKNjhMYWVTTEwtR1RrY212WFNCYWRvZ3JxYlRFMVBaendmaTZ1X0ZYRkkyNUxQYlRlcG9yUGpVRVJrOE9EendWMU9TMkptTEh6cW5SdnB3a2ZpYzhNbDdQTjduTzdoMUM2dW9qZTZtRUZB?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-06T09:01:23.000Z",
+      "query": "السكري التغذية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2KfZhNi12K3YqSDYp9mE2YXY",
+      "title": "الصحة المدرسية.. 12 مليون طفل يضعون الوقاية الصحية أمام مسؤولية مشتركة",
+      "summary": "مادة جديدة من الأيام نيوز. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQS2trVHZvb0N6Uy1ENkQzRjFZVnRiaTBrai11djZ3NVN1WVhyQlA3V0tqa2U5czZuM0NiYXhwd01tVmtNZmdNck9MNmtTWUc3VDltZVBEUUFJMW9FUzZNXzE0QjRhU0dQLVY0aDRvdy1NN2c3amVaX0VOT05uUEdmVWxlSnJLSDdZS1JVOExvX0R5cG1qUUV2UjRTeWZMR0J4YlowWjIzRzZsUVFvejFVS01zOFpzMVM1Uy0yb3ItNzdkYkw0cUEzLXpBNVpmbWVhSVdiVFQ0dy1UZEdHRzBwajBNRWtzODJtWFgtNW1RTW9LeF9TSE5LOTg3czNoaTNFa2dqRGstcm43eUhwakhBUkZtTm5qclFCSWNycXMtbzVqbVZjLW1sUDJpWUxHYUFuTzJBVzVvVFdmSWM?oc=5",
+      "source": "الأيام نيوز",
+      "publishedAt": "2026-10-05T20:30:51.000Z",
+      "query": "التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-wqvYtdit2Kkg2KfZhNil2LPZ",
+      "title": "«صحة الإسماعيلية» تنظم ندوات توعوية لـ1250 طالبًا بالمدارس والمعاهد الأزهرية",
+      "summary": "مادة جديدة من اليوم السابع. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxONUVjcFdvNmE3TDAyeXRSNE04a2NEekJENWhxd2VkaDZJVmExREhWUW9LVnluNjFlSExYTHlQdVpLa19EcXd2U3hFS29ERWpqWFhkRHF2TzFTOUs4TWdXS0ZsdVg4Rml0YnNSSlItNDViRUwtTkhGYmtjbU1UYVQtZnJlVUdsS29Wak5hQnFJakdITXRLMFg4NklSb1ZwN2NDNTJYN3Rna0xVeldSMnFneVczSjlReUpxcU5aTXo0QTFodWVlRE1RMk9YRmZSSkZQRTVDdHdyMHpZTFJWWTJOSXZzNG5vS1BrVjI5Tk53ZW9COW95a0NMSzBmaEpiSkxOTmw1eHRQQS1sLVA1NE55dm9PRVBOSjYwR2RCMjg0OV9LOW51aF9UVS04ZUJGMERpblR6YTBCNlh2N3NtQ3V5MmlGWVNhNko1LUhMWERhQUxWaS1qZEQwTDhpT0lZbm5ONllrU2F5VVJjSm4zTG9MZnRuOF9CdkFnZjJOQVhkMm9kOXF5cTZVZjlqeVkwd2xQc3NzdDk3X1NtQmVNUHBvYVlOaEI2RUhZaTd5T0JwTkx2b090cFVNc3dxN1FxZ0NUREFoU1RCbWNnZExIUkZYOFdGNVBQUUI0N0NwMWRMLVBMR1ZOclc4WG4xNUM2bXlwWDRQTzU1LTkzWno0VWs3bTc2bVNNcEVFUHRzdk5LV3FuNjZ4QjVxak9GbjhkWGxmd0oybFF0MlJUQXRzb2xHX2NrZFcxWkhVcHlmSkJKUTBLSGozdXBranpISW1Xa1d6XzJGTDd5N0ZIRlRiRnJGOXMzY9IB3gRBVV95cUxONEQ1SHF5UVlXZ0JJN1VzQS1FZXhlX2VYWm5xeGxZd3FkZWd3YWJLVXZCZ0oxcDJXUmxEWGJ0VjhVbGUtdlFSSTNoQWRzMmpWNzQ4MVNSeUFDZTRNczFMR1BpR0dBWlhYMnpPRno4UTFvYXVEbnRBX0VjVmJWUmxYMmN3Z2ctTGdJQjNlNzg2YlRKR1pmZGM2a1BnXy1WTFNrQnA0WkFyVFlqbDUwdjRlLXRTU1J2bWJFY3d4cGx1eERNekcxNmhGWjhOcVpFamVQYzFGNkFtcnk1S25NbnNodjhCRFpXZ3QwdWJWNjNUSklCXzc4V3gwb3dxOFplaGdPLUpYc3JHU2dteWt0Q2Q4UWxjTlBqVjU4Vm9aSlZaaG5UcXNleDdSTFduOW9WeEx1Qm05LTNVRGQxYVBzblFjeEZDeFFjLXJ5SnEwLWVTdkFhRXNIZGhONFM0RWtTMEdra0xJY0NmcHVJU2tCcUdLRE5VMUJnTERNNjNrZjRUN2pGNlAtV1BHbHY0cnJfY3FqdXV4cDRjTnlxRkFpUVp6VHQtRFo3TFhGV20yb2paVzBoazVQYU55WWg5UDdHaW0yTm0tYTlTV21XaGhoV3VYTERJeHI3WEZHYmdfUjZUUHViZ2tnY3JaMHN1U0M5eTIwdWd3N3lsUjBFVVNtejNqN1hQNDliM29UTTZtN2RfVFRiUVRtNjVPQS14bS1nT2VyMlljRlhrT0hsOUFMSlFubXM2ajY3djk0SnlwM2FnbDVJeXQwOXhJYkg4aEYtOGJiWDlDdFkxUFFGLXBNelE?oc=5",
+      "source": "اليوم السابع",
+      "publishedAt": "2026-10-05T08:04:00.000Z",
+      "query": "التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
     {
       "id": "article-2KfZhNi12K3YqSDYqti32YTZ",
       "title": "الصحة تطلق حملة \"هنتغير\" لتعزيز الوعي الصحي والسلوكيات الإيجابية بالمدارس",
@@ -12,39 +78,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxNOW13X0N2WXlNUmxxZkduWDBGYXFkUDdvVE9ETUV4al94QTYwZjJKZ29Lb3BOcUNCUHJuU1FKMk1OYkV2Q0pDMlZvNVQxRGpZZ0E5Qi1LbGRXNHk5Tlc4QURwYVBsdkE1eHhfVlVoWVlWeVhTZlVXZDFjaUljUmxlRHNHZ2pwQXFwa3lwbW4tdUgyQjlJaUJ0a0NmSWwyZl9GeWhVVjNhcjNOdG9DWDEtcFpSclRyUFpwRU1SV3h1UndCbkUtcURPTjk4Vi1HWUpMN3dpc19wMHFxMzFaTkI3VDNtYTN0bjhMTmJRUlI3ZlpvTEhfcUNKcS04ek03VVlDY3AxVDV1YXBGRjlyZEo0a0ZLUFg1VnpVUHFaZm9hNk4tSTlPNFY0RE9fa1pic19fUUs4ZlBRY0Z5Ykc2R0pBNGo4ZEJ2QVFyQnZOWmJvVWJENjBQdE5ZMzBhSEFFNW12ZWR5NjZzbHVzaVZBVGJrTWFVU0V6VkFfY0RVSUtza0FabllvVFFtUWE0QnhUMzRYQzBlMnpRQ2Q2dm9CQkthaHAzMXE3bnZHbl93R0pvc0oxb2w3Y0VCMURsU281RTNVSzhMaTdEakZNZ1l2S1g4LVB4LXR4NThZTFkzQkFTQVZBN29iMlJEXzloaHFESE9qRDFQZUx6d2dYOC1ndTh3N3lfRUp3U3hmZGtWVGc0STFVdTdtdnZGZ2VKVWt6b1RFVGxGQlczaVpVWk5hSS1vbHJCcWxEYS03QmtGUXdCSkR1M2lQWmdxMnBfVWlBbGFLWnM5eGdEMDEteXM0U1E3LW9YTXdRcURMTUpVeEJ2UEjSAfYEQVVfeXFMTUEtWXUyb0phQUhDZTdHMVpOUkZGZGw5R0diT0hRSV8wTlduazZXMjFTVE9RYm1wUmtFZkxoQXhUell2MnEzZFp1ZFhnby1oMF96VHpCX1Z4d1dtdkpMaVZNWklLRzBkMWd3aVAzcnllTXYtNVIyc0Q4blRZYUxZNS0xNjBITnh1NE1uM3hCOVlJQmxtNzBoNFZ5b2xEUVlsdlQ0WHVYdDNFRXB1anJJUzZyaXFQVWxJVkdKd2dJMXMyRVpLNUVkbXJMam5yc0VqVXdDTFVEaUZnMVdsNG1SQXRnWmdDLXpIN1FOcDFFTzd0WVAzVE1uZTJkVlFMUzhtOElJemRuX1RuZDR5OGwtSTFINDE0eGN4bXEzNWtva2RwdkNKNnI3N1U2UVhUQlRZaERxcDhhR3RmOEJYMDNzZVhQYWhWcHZ3ZnI4N1VfXzU4R2FEZmZYSUFPNkg4WkRCbWhpTkZBZFZKbEc1dGIyUWpuVkVqazI3elFjSHlkV04wQzhua1NjbjBPbnFMdVY5UDBUSHZVRkgyNzltSHhLMFJURlVXNVpyMDBWclNkSk9QcnNXWHVqQUliM1JmaW5xaUlOem1JUUdSaDAyQlZDRHRJZEtSem1hQjdLazZDcnMwbnZDY19OY0x1Z3VxdUdtZ1BCZXJlNjNKRmNsZWhoeE5VYjVua0xSSm5XNzVfYzdWWE00UC0xOG4tTThDTU9uaDVJOVFjVzVaaURXUW9QenpjQTRfdGd2QmZZTG5RSHR6MlJsRE5Dc3otc0lNWmtuVWdPZm9kY0RDUzJrNEpDb1VKUDAtVzlpQnVwNk45YjhNeTk4WDVR?oc=5",
       "source": "Masrawy",
       "publishedAt": "2026-10-04T10:55:49.000Z",
-      "query": "التغذية الصحية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2KfZhtiu2YHYp9i2INij2LPY",
-      "title": "انخفاض أسعار الدجاج والبيض في مصر... هل له علاقة بـ«نظام الطيبات»؟",
-      "summary": "مادة جديدة من الشرق الأوسط. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxNUllUelBzd0Z3RnJ3RzJNV2xrWWdhY3hCVEVZY2N1SDI0M3FEWm0xeWJnS3c5MU9CQlFmbG9sN1JqMWRCRVNNY1JxZUVwSFBnUGFBTzVXVFFLVzdVMmw4TS1TSHNUaXBEYVBKYXFzR1dPa3JRWllseGUyTmd3eF93elJHa3ZxM0dvdE5MYkhOVVJqTHJtNzVPelU0SDBfQldLUzZGMV84ZFdxNlMyaDd2cDRNUmlsVDRUX2h1dm9nSF9RdTAyLVkxQzdZd04wbkdVRU9VYkhSV0N0MmotVlVJeE5razdOcUxRRzI1OXNNT3lzNlFCQ3FVMGJybFpzR2dPdVpTVFFsb1VYVl96MWZmUWJDQUMxXzdabldUT2R6REc1VEEyeExBaVBVd1JkNEdGeVdXMzFpU3lCcVNoV25fcW1NbXBOeE5Wc3c4UVhXMDI4YW1CdHljTmxLNWpURmY2bEpPNHJpNFRpSW1PTU8ycEV4aUVscFpLeDNhaXNzTXJHaS1IME9ka0hzTnlFdWJXMFZhSkdEZkp2UE5jS0V1c0tZaXg1dzNyUXNmNHVyNG85dWg1NUNQeXNtNUMzSWIzRlhKTXJ0bGxLYV9FQzEtZDdxTGFzTVJEZzkxdUFvelZDX29JejN2d2RyaFUzQnIzYnlUYVUyeVlRaWRJWEs0LUZ4bUxlNk4zOThuZGFMYi1uMVhBcHMwUWdveWszZ1ZrZFRhN2FnX1hXYzVhZ3FsZUtQNmVVd01lanliOTRLdmI5QnpleG02ekZvMmFhUkJXVDhrRmo2dHpfWS1TYm5BVEJTRHh4TlJ2Sy1CRlNYQnBuMUh2VE9UWGxmX3N1aXRjd1RnamI3Yk5Yd2ZDUmh5VDIxNFRWa2NUVmpUWnR2a1hiM2c?oc=5",
-      "source": "الشرق الأوسط",
-      "publishedAt": "2026-10-04T10:18:55.000Z",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2K3Ys9ioINin2YTZhdiu2KrY",
-      "title": "حسب المختصين في التغذية - هل يعد تناول الشاي الأخضر الأفضل لخفض ضغط الدم؟",
-      "summary": "مادة جديدة من الموعد اليومي. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOczkxR1hZM3JyUG8xT0FUTlI0Q2JYOXRMbVpvUjVBdWxDdTBPaWhmazJ0X2JNd2pUUnVITlRxYXNyQVZHQWdOazZFTk9ZLVFtdGctcDk1Z1BVUV9ZVkFMSmc0UHhUWjU4TnJ0OVRFdWhpTHZzZXNIb0wtRFZtQlpKWVZQbHN1LTZZOXllODNySDUwaV9IN0tJWkF5UnkzVm83VWlpUTB5OWx0SjhhdUUxU0pucmhrR1hod0RGaUV4MElkMXN6NE9NVU5BcWVfVWYwbnZPOW14dldsY2YwbkNvNUozc012UGl3a2Rrbk5GMXRUdlVPTlJOZ05NT2t6RGtLRk8zTmF1T1FFU1BFY1pwVXZDUHdCREJobmpfRWcwZzh4UTdxc2RYbFdvRzdSMlhROWxTazAtZElMTWgtN1h1ZklR?oc=5",
-      "source": "الموعد اليومي",
-      "publishedAt": "2026-10-03T15:18:09.000Z",
-      "query": "ضغط الدم التغذية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2K_Ysdin2LPYqSDYt9io2YrY",
-      "title": "دراسة طبية: البرغل يعزز صحة الجهاز الهضمي ويقي من أمراض القلب والسكري",
-      "summary": "مادة جديدة من کوردستان 24. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxQYTgzQjBXcHY4MUp1NjFnQTdDUkJvSEgxWnBRN01kVHBTSUJNaUg0NlFicmIySmU2LXloWEYtNEI5ZHdYbWI4WUpfcms4QnpUak9xeHd0bGxramdSV3ZtYTE2b3BWek9YQnp6VHFmMXV4WGxsQ0RwbC0yeGpZRFpWal9NUXcwSWw1VTZqT09OMnM0bHdUOEIzVlE1SE02Qk9XLXg5UlVXWnpFUlMwUVNwLUJrMndnQjRMWlczMnNibVpneTBobjFZZDh4dlJ6LW1UUExpUzdnZTNyZFRyclgwU2ZsV2pYVWVuY2tWMlkwaUhPMGt1TjZIYTlMTHE2QWhiUmRvQUxHSTVEa09YSlFwWTY0QXVvTDdpaF9acWVMZ1ZiMHhUa0NxRUpBN1M3cTVjZWFOSDdIT21ZSmVfeU5lTTdiTS1pODNSWTRXY0JVWVlqOXY3NTQwaXFYVWdpX1N1NkRhODZxcVZQY2IxQndtend4VVZRYUIyQU5SMkN0X0hlbm1jY1BiZWpzN2VBSDNQNEZ0VUhmVlJHdWphRE9HUVE1MHpnRklPNHBTLUtoU1pLYVNZVkxpdmF2S1FMczBoNnRDcDE1R2RyZDU0bW5EcWd6clkybWRIRGJFR0dRRkN6X09qd3dFaGtieEk3cEV6dmQ1NVlvVXppQUhyZDZ0YmJHVzNveHlGeGlLeDlaMUQ5WW96UHl6SnpOYVU5blA5a2JyQ1lqWm9GUHd4clE?oc=5",
-      "source": "کوردستان 24",
-      "publishedAt": "2026-10-03T08:15:06.000Z",
       "query": "التغذية الصحية",
       "type": "article",
       "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
@@ -78,39 +111,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xSnQwTURlemotUnZDU0EzdHAxbU1zQmljTndkV1RGVzlBS1R3OWVxMEhGOW5VZk52WGhBdkhvR25TWFBVQlNlRlhCY29fYlJEemFZblpn?oc=5",
       "source": "کوردستان 24",
       "publishedAt": "2026-10-02T06:52:53.000Z",
-      "query": "التغذية الصحية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2KfYrdiw2LEg2YfYsNmHINin",
-      "title": "احذر هذه الأطعمة.. المعهد القومي للتغذية يوضح مخاطر الدهون المتحولة",
-      "summary": "مادة جديدة من Masrawy. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQbVBXZ0Y5bFZqVkRTdTFmZzA5bFZNd1pSbDhoYWRsUUpSRFdVUVZpVkFwSVM3RWNVd3plWWhDYVU5blktVGU3VVFRdEZQWDVzR0V4M2t5ZC1GeTlWQ21kUWx5S0dOdXNYaURSdDRtSTVOMnBrUmVUM0xmVXlpS2hvTE9jV0Z0LVNISERPenFBREhNUE00TzlmaEd2TVoyeExRTEFGR0pEaFEtV1Y0R3RnZi1VVGdEY1JuT3hVcjAtdFc4dU1yanhaMkVHN1JQQy1DR1lnWlh0U2RYTDFDaTBNalJ5ejNfY1E3M3pzalYwdkpXTDJnTWx1Q3V0X0ZMUDZLUE52Y1dDQmE5TjBmNkNrWWlwUWVqZzNXWTFvdGNVU1g1TmpHbnJZRGZpbVpjSTNXcWdfZVZ6QTZ2cjN5VjNJS2dQLVN5Zk1wcGZGOVgwdXItZGt2LXhpanoyM2xzODh6eTZJN1BhLU9HdXZvWVNOTk9vd2hFdm9GLVQzaTdUSjNRSk5MaHlxM3g1Y3BLVkNOTTlVNmJ2bG11Wm1hRkxpc1l5UXE1RjhGdzVmcmVqRDdCZTdJTUdzMVJwajJXdjVyMEZGSl9rQnY3cGlvMG1RZlVxdVFYSHlZMEk2QXp4MjdiZDF6LXFyYXJYOGpMcU81bEptTUdEMjFXQnJJRUhCd2lDSWNpblVlVGI5X284WkFTZURPNU1BU3lUYzI3NlVaTlZUMV9pWi1IVExWSXlfVmQyWmxEMTJzX3o2ZWpEYkXSAcYEQVVfeXFMT3NNVjB6OVpsZzEtX3JHYnhILWhFY1BVQkZoNDd5LWs1eVRQemc4Y0wwSWVJWFlyVUFlSnhPaWZfT0wtZnFWaXBYMVB5S01vRnZKbzI2clRGTi16S0ZQRS1TOXB6NnNBZGwya1hULU1YTXVQb1pjMUxWS2Z1TVh0aFdYZUZqSUMyS1ZXZFFmNXRiNEh6cjNKTld0c0hZRGtGbGk0STNXNVJjVUhWeTZJemx4dlotRTdINWMxbkNCQnMtdHJvNnZpa3JCWjBVWkpFWENqQTdqSTVwd1ZtanQ1Wi1WV3ZTUnpFOWlWaXVZNlUyUHZScTlzZFZ2TnZTUFZxMFFVOVZLdDlUMFpoMWVRb19tdkM5RWZxNldTMjNjVGNSaldXVndVNGRDS3UxVlVrRVpreXdsUnZjNlBScE5HbFJVMjMzb0ZKVEFNS0VNX1BMX2puaGxlSkw1UzFJcms2emhZRExHLVo3Z3VqZHlCblNTZktvUEVZQXhMSFd4and2eWpMSDVvcmR1eHRrSDd2LVE4bjFscXgwQTRVOEc1SXM4RWFNR0VfNlRJd1NVb2pfN1NCWkFIYkpwZzVuRVJGZ3dUNUhoRHI0QUd5VDlENEc2ODFMa2VSV0pvS0o2eldHU190MkNuTS1hTzhTZTdPMWp4TUZlcGNSd01SNnhFRE14T0tlQlBaM3pZLTdGMzN1QS1KQ1Z5RUNVeklkMzF1WVdxZ1M5WVJPbEJkNk9xeHhtSGx5Z2lEYXhTZGNFRnhRYmR3OUd3?oc=5",
-      "source": "Masrawy",
-      "publishedAt": "2026-10-02T06:00:00.000Z",
-      "query": "التغذية الصحية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2KfZhNmF2LPYp9ihIC0g2KfZ",
-      "title": "المساء - التغذية وإدمان الأنترنت ومخاطر المخدرات في صلب الحملة",
-      "summary": "مادة جديدة من el massa. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNajhjNGl5MXJDMUNreHBmQTNWaHVacTVSd1N4cy1SRFVCZEltcWM4Y2M3aE5mclgzTVJpTy1hVjM1MksxLTh3ZzRVSWVmMUFyR0RSTjh6RHhyWnc3a3pkZkl5eDY3N0duWjNpS0lDNnRJQmliVkw0eFYwaC1LazZxUFpaVm9jS29JN2lfMFRVUENsdkpPM05zcGVFd3ZNUE0zOFRFQ0dxbmdoamdvc1JST3RBMTJFbXZaSUIyNXNWRlRQcFdndUZkY0JkXzFldDNwMzl5akF1ODY3TG80T19wb0twc3FuZDZUaDlyS1h5eXlyNFB2UGVjT0dQZGZZTVFtd2hDTnVtYk4zVnMtT3lBYzZnZWIyUXk2STZVNXQ4Q1Z5d0F4R2t6eWEyaFFTSzROMlJFbks2QVpIWXlJWjlWdGM0cU5WNjBITnl1MHhmeHFMVnU4elJoV25xU2ZFblI1a3Q3OWYxdzhUOTUtOTR1U2k3aTNGTG5YVExtYlJrQ0M2WlRIckp0NDY2V3NjZms3UzJxbzA4YWdGTEFPVjY4bWJ3blZtOWhzdDA2Z1IzWXJLbjZYMEJaVldabDlrUHhjaXZUNjhZUHdDdWdxbG42bThxVC00Ymp6RWlsV2tIQmJaZzVwVnhqWWMwMTEydmp6UVIzQw?oc=5",
-      "source": "el massa",
-      "publishedAt": "2026-09-30T19:35:14.000Z",
-      "query": "التغذية الصحية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2YfZhCDYp9mE2YXZiNiyINmK",
-      "title": "هل الموز يرفع الضغط والسكر؟- إليك الحقيقة",
-      "summary": "مادة جديدة من الكونسلتو. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNbHIwbmJsWC1BTU5QMmU0Mk5CMVNENHp2cjdnbklFTkwtRGFNc2hCaGtaZVNpTWx6MkJWVWc5QzRIbHBKUERDZXpYWUx6MTNiLVA4RWFZc0VUX0Z6b2I0b0xmdTFENnJqSUU5TTJBT0hKNGdmNVhUYUJrTTh3TTBPUnBtZUYwX3hDcTdYSTRsOXFTMXJDZGFJLVJNcURJR0s2TEJ6SjMxWVBVMWNPNlZsbEZEX25mMWZ0Tk9CSWVUalVDSzI4ZENnMTktRzN6Rkp0Smd5ZGdmYmdzU0ZSMWhRT09NeE4xdWJmNU4tb3JDMnhrRjhuRE9jZ2R5cFRBd251NVhlZlFfQ05KbEdtVEtnbk54ZloyRndLSjlKR2JKZTUzcDBPbFptZ3pJaWtVQXBtNzJxY0toNV9tRHotOTl2emFManZHYUYzR21KM1AtbUwzV1hNbXppVzB4OVhrNUQxdGhOX3p3OEoyVndlOGZLNFlEay1ETVZpSlQtUW1tT1ZWYXV6dHBIRDVzOHM2WUllSm5rb1JDYkI1THJkZTRVQ9IBpgNBVV95cUxQam00UnNkbk01ako1OEZaR2lGR0JCaE1JREEwNlk0WThBNDg3NUpfY2NoNVcwU2VEWmdGa19Lckw2VzlDVmNNcTVFenpXZW9QMnlPYllpdFItNnFKM2ZMd0tmYkNvVjJWamtoZDY1QTRHQ2xVdWVqZlZnNUVhTzZ4R1JyUVJvNVM3SDJwNkg5T3BxbFhDYTNlYldfVk1IUXczQzJveWRFYWo5Q1Y1Nm8ycGVVSHN5RDZ2aHBwNWhCdkVWWE8wNDM2X3RuVTZ6Rl92eVVBTm8wWWJOYkozOGtWTXdiT25fRDFMeVJSQzBNcHpZMzNvUGVnMUNyTm5TSExkNzNneGtRQ0JXVnBaWEE1SE0tMHR0STRLVWw0QTFJQXZJNFFtUElQdkZtWjRMNE83NlZrT1ZRdTgwQjMwMkU3eUVsdlhsbHhJYkxfRXdQbEk1WkZXMWE3YlNWa3g1UGdqd2NVcFI3R0FLRFNxWVJLTkUxSkFqaDludThHLWZkNmRaRnY3Qlg4ZEFhRkQ2LWJ0STlGdGVZWUgyMXY4WUUxQWNCYmNtQQ?oc=5",
-      "source": "الكونسلتو",
-      "publishedAt": "2026-09-28T18:17:42.000Z",
       "query": "ضغط الدم التغذية",
       "type": "article",
       "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
@@ -132,15 +132,15 @@
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
     },
     {
-      "id": "youtube-4VogeIJ_3BI",
-      "videoId": "4VogeIJ_3BI",
-      "title": "Al-Awadi previously told Sabah Al Arabiya: Following the \"Tayyibat\" diet leads to gradually weani...",
-      "channel": "Sabah AlArabiya - صباح العربية",
-      "publishedLabel": "3d ago",
+      "id": "youtube-kCpRlPkKgSw",
+      "videoId": "kCpRlPkKgSw",
+      "title": "الإعجاز في نظام الطيبات! للدكتور ضياء العوضي",
+      "channel": "Ali Baba",
+      "publishedLabel": "3mo ago",
       "duration": "",
-      "url": "https://www.youtube.com/watch?v=4VogeIJ_3BI",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/4VogeIJ_3BI",
-      "thumbnail": "https://i.ytimg.com/vi/4VogeIJ_3BI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kCpRlPkKgSw",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/kCpRlPkKgSw",
+      "thumbnail": "https://i.ytimg.com/vi/kCpRlPkKgSw/hqdefault.jpg",
       "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
@@ -164,7 +164,7 @@
       "videoId": "xyEHdyJLSsE",
       "title": "الدليل الكامل لممنوعات نظام الطيبات 🥚🚫🥖 | د. ضياء العوضي",
       "channel": "فكر تالت",
-      "publishedLabel": "4mo ago",
+      "publishedLabel": "5mo ago",
       "duration": "",
       "url": "https://www.youtube.com/watch?v=xyEHdyJLSsE",
       "embedUrl": "https://www.youtube-nocookie.com/embed/xyEHdyJLSsE",
@@ -188,15 +188,15 @@
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
     },
     {
-      "id": "youtube-wwi06TaD7pk",
-      "videoId": "wwi06TaD7pk",
-      "title": "صباح العربية | مواجهة مباشرة على الهواء حول \"نظام الطيبات\" وضياء العوضي",
-      "channel": "AlArabiya العربية",
-      "publishedLabel": "5d ago",
+      "id": "youtube-39w40XUNegA",
+      "videoId": "39w40XUNegA",
+      "title": "الدين في عقل مؤسس نظام الطيبات.. لماذا كفر بالعلم وماذا وجد في كتاب الله؟",
+      "channel": "Zatmasr - ذات مصر",
+      "publishedLabel": "7mo ago",
       "duration": "",
-      "url": "https://www.youtube.com/watch?v=wwi06TaD7pk",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/wwi06TaD7pk",
-      "thumbnail": "https://i.ytimg.com/vi/wwi06TaD7pk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=39w40XUNegA",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/39w40XUNegA",
+      "thumbnail": "https://i.ytimg.com/vi/39w40XUNegA/hqdefault.jpg",
       "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
@@ -218,5 +218,5 @@
     ],
     "safetyFilterVersion": 4
   },
-  "safetyReviewedAt": "2026-10-06T13:16:45.081Z"
+  "safetyReviewedAt": "2026-10-07T13:21:10.871Z"
 }
