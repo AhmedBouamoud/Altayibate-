@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-10-16T11:20:56.865Z",
-  "nextUpdateAfter": "2026-10-19T11:20:56.865Z",
+  "lastUpdated": "2026-10-19T13:10:44.276Z",
+  "nextUpdateAfter": "2026-10-22T13:10:44.276Z",
   "status": "ready",
   "notice": "المقالات والفيديوهات روابط خارجية منتقاة آليًا للتثقيف العام. لا توقف دواءً ولا تغيّر علاجًا دون استشارة مختص.",
   "articles": [
@@ -132,15 +132,43 @@
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
     },
     {
-      "id": "youtube-39w40XUNegA",
-      "videoId": "39w40XUNegA",
-      "title": "الدين في عقل مؤسس نظام الطيبات.. لماذا كفر بالعلم وماذا وجد في كتاب الله؟",
-      "channel": "Zatmasr - ذات مصر",
-      "publishedLabel": "8mo ago",
+      "id": "youtube-KEMl0V4EaTw",
+      "videoId": "KEMl0V4EaTw",
+      "title": "بعد وفاته .... المسموح والممنوع فى نظام الطيبات للدكتور [[ ضياء العوضى ]]",
+      "channel": "منوعات لمة العائلة",
+      "publishedLabel": "5mo ago",
       "duration": "",
-      "url": "https://www.youtube.com/watch?v=39w40XUNegA",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/39w40XUNegA",
-      "thumbnail": "https://i.ytimg.com/vi/39w40XUNegA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KEMl0V4EaTw",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/KEMl0V4EaTw",
+      "thumbnail": "https://i.ytimg.com/vi/KEMl0V4EaTw/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-V4lY0zSJlE8",
+      "videoId": "V4lY0zSJlE8",
+      "title": "اللقاء الكامل : د. ضياء العوضي يكشف الممنوعات والمسموحات الحقيقية في نظام الطيبات",
+      "channel": "Tayibat Studio | استوديو الطيبات",
+      "publishedLabel": "3mo ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=V4lY0zSJlE8",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/V4lY0zSJlE8",
+      "thumbnail": "https://i.ytimg.com/vi/V4lY0zSJlE8/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-xyEHdyJLSsE",
+      "videoId": "xyEHdyJLSsE",
+      "title": "الدليل الكامل لممنوعات نظام الطيبات 🥚🚫🥖 | د. ضياء العوضي",
+      "channel": "فكر تالت",
+      "publishedLabel": "5mo ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=xyEHdyJLSsE",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/xyEHdyJLSsE",
+      "thumbnail": "https://i.ytimg.com/vi/xyEHdyJLSsE/hqdefault.jpg",
       "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
@@ -160,43 +188,15 @@
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
     },
     {
-      "id": "youtube-Lt_-xl8FyYY",
-      "videoId": "Lt_-xl8FyYY",
-      "title": "The Tayyibat Diet by Dr. Diaa El-Awady | Allowed Foods, Forbidden Foods, and Secrets of the System",
-      "channel": "Tayibat Studio | استوديو الطيبات",
-      "publishedLabel": "4mo ago",
+      "id": "youtube-39w40XUNegA",
+      "videoId": "39w40XUNegA",
+      "title": "الدين في عقل مؤسس نظام الطيبات.. لماذا كفر بالعلم وماذا وجد في كتاب الله؟",
+      "channel": "Zatmasr - ذات مصر",
+      "publishedLabel": "8mo ago",
       "duration": "",
-      "url": "https://www.youtube.com/watch?v=Lt_-xl8FyYY",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/Lt_-xl8FyYY",
-      "thumbnail": "https://i.ytimg.com/vi/Lt_-xl8FyYY/hqdefault.jpg",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "video",
-      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
-    },
-    {
-      "id": "youtube-23cXr2a48Kc",
-      "videoId": "23cXr2a48Kc",
-      "title": "🔴 الطيبات تكشف... «السكر يدمّر البنكرياس»؟! فكيف يسمح د. ضياء العوضي لمريض السكري بتناوله؟",
-      "channel": "Health Code",
-      "publishedLabel": "Streamed 14h ago",
-      "duration": "",
-      "url": "https://www.youtube.com/watch?v=23cXr2a48Kc",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/23cXr2a48Kc",
-      "thumbnail": "https://i.ytimg.com/vi/23cXr2a48Kc/hqdefault.jpg",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "video",
-      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
-    },
-    {
-      "id": "youtube-1fFAkbAXy_Q",
-      "videoId": "1fFAkbAXy_Q",
-      "title": "أهم بروتين لإعادة بناء العضلات لكبار السن في نظام الطيبات | الدكتور ضياء يشرح الحقيقة",
-      "channel": "Tayyibat Expert | خبير الطيبات",
-      "publishedLabel": "2mo ago",
-      "duration": "",
-      "url": "https://www.youtube.com/watch?v=1fFAkbAXy_Q",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/1fFAkbAXy_Q",
-      "thumbnail": "https://i.ytimg.com/vi/1fFAkbAXy_Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=39w40XUNegA",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/39w40XUNegA",
+      "thumbnail": "https://i.ytimg.com/vi/39w40XUNegA/hqdefault.jpg",
       "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
@@ -218,5 +218,5 @@
     ],
     "safetyFilterVersion": 4
   },
-  "safetyReviewedAt": "2026-10-18T11:01:58.420Z"
+  "safetyReviewedAt": "2026-10-19T13:11:23.247Z"
 }
