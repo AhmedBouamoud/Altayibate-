@@ -1,10 +1,76 @@
 {
   "version": 2,
-  "lastUpdated": "2026-11-21T14:37:22.518Z",
-  "nextUpdateAfter": "2026-11-24T14:37:22.518Z",
+  "lastUpdated": "2026-11-24T17:40:36.410Z",
+  "nextUpdateAfter": "2026-11-27T17:40:36.410Z",
   "status": "ready",
   "notice": "المقالات والفيديوهات روابط خارجية منتقاة آليًا للتثقيف العام. لا توقف دواءً ولا تغيّر علاجًا دون استشارة مختص.",
   "articles": [
+    {
+      "id": "article-MjMzINij2YTZgSDZhdiz2KrZ",
+      "title": "233 ألف مستفيد من مشروع إماراتي لمكافحة سوء التغذية في سريلانكا",
+      "summary": "مادة جديدة من العين الإخبارية. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DQ1c2NTU5eTJvbElnSjJMQmM5blY1WHk2TXp4bDZyS3ZELTNOVGxQbDcyNnBzNGxqM1R3dlVfRnBEaE9NcWRGc1ZpeXVyX2dpTzRPRVpUX3JuVVVERFFvUl93eW12N09WVEE?oc=5",
+      "source": "العين الإخبارية",
+      "publishedAt": "2026-11-24T15:26:43.000Z",
+      "query": "التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2YfYr9in2YrYpyDZiNmB2YLY",
+      "title": "هدايا وفقرات فنية.. صحة الجيزة تحتفل بعيد الطفولة بمستشفى أم الأطباء",
+      "summary": "مادة جديدة من المصري اليوم. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByUDdhRU1peVYxZE5WcU1OY3VpMWVkdDcxV1MtT0JZQjd0a0JuT1EyLWpQNGZTM3hqaFZsUG83T1FRX0ktNHJEQkZ0dkw2d095X0QwYVBzdE90bVBpZWV3?oc=5",
+      "source": "المصري اليوم",
+      "publishedAt": "2026-11-23T20:17:00.000Z",
+      "query": "التغذية الصحية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2KfZhNmB2YjZhCDYp9mE2LPZ",
+      "title": "الفول السوداني والسكري .. دراسة ترصد انخفاض الخطر بنسبة 11%",
+      "summary": "مادة جديدة من وكالة عمون الاخبارية. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XTnRrNUhXMW9yTUxiQV9sbktMS2JyY2VGT1R6d1F1MFdlemM3OXZaNGVFQ1ZDXzBrWHFRS2lVU3huZVBiQzhzZlktODM1NEJQWTNz?oc=5",
+      "source": "وكالة عمون الاخبارية",
+      "publishedAt": "2026-11-22T12:46:55.000Z",
+      "query": "السكري التغذية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2YfZhCDZitix2KrYqNi3INin",
+      "title": "هل يرتبط السكري بالإفراط بالحلويات فقط؟",
+      "summary": "مادة جديدة من شبكة فلسطين للأنباء - شفا. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55QXVBT3RvaHJrQ09kWDRXX0FabWxKWjJnc0VkbUFERGw0dFZ0U0RJc0p0Rjl3ZlBQOVhOVVFZWGM2NDkxVmlsTmo0THk?oc=5",
+      "source": "شبكة فلسطين للأنباء - شفا",
+      "publishedAt": "2026-11-22T11:29:22.000Z",
+      "query": "السكري التغذية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2KXYutmB2KfZhCDZiNis2KjY",
+      "title": "إغفال وجبة الإفطار يتسبب في ارتفاع السكر الحاد لدى مرضى السكري",
+      "summary": "مادة جديدة من https://capsulah.com/. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5vUXpJbjk4MmkxN2FXY1JOSjllN09xd1pEVjRONjh6OGprNjhlaXRDQTNHOXlRQUd3Q1duZFZKNWhpMWR3?oc=5",
+      "source": "https://capsulah.com/",
+      "publishedAt": "2026-11-22T11:00:00.000Z",
+      "query": "السكري التغذية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2K7YqNix2KfYoSDYp9mE2LXY",
+      "title": "خبراء الصحة يحددون كميات السكر المضافة الآمنة للرجال والنساء والأطفال",
+      "summary": "مادة جديدة من https://capsulah.com/. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB5TmJJbFhHMmpFVmtoZ0FORlUtVTJXTE5PSEE3aHJtRjhmWjVxT2Z4RnI4SHRNSDZYRU94S2thMk9XVnFZ?oc=5",
+      "source": "https://capsulah.com/",
+      "publishedAt": "2026-11-21T18:00:00.000Z",
+      "query": "السكري التغذية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
     {
       "id": "article-2KfYs9iq2LTYp9ix2YrYqSDY",
       "title": "استشارية تغذية: اضطراب نهم الطعام قد يهدد القلب ويرفع ضغط الدم والسكر",
@@ -13,6 +79,17 @@
       "source": "الهيئة الوطنية للإعلام",
       "publishedAt": "2026-11-21T13:22:00.000Z",
       "query": "ضغط الدم التغذية",
+      "type": "article",
+      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
+    },
+    {
+      "id": "article-2K3ZhdmK2Kkg2LTZh9mK2LHY",
+      "title": "حمية شهيرة تسهم في خفض دهون الكبد 67% خلال أشهر",
+      "summary": "مادة جديدة من وكالة عمون الاخبارية. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kd2ZWZkdtbi1FOXhpRHRDWlFweUQ3TnB6UzJFcTFtR1hKeDdtQnBjMGtwS2VKYjdhOUQxcFhjRnJTRHVlaktHYV8xN0ZHOXJJbWdV?oc=5",
+      "source": "وكالة عمون الاخبارية",
+      "publishedAt": "2026-11-21T11:58:51.000Z",
+      "query": "السكري التغذية",
       "type": "article",
       "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
     },
@@ -37,83 +114,6 @@
       "query": "التغذية الصحية",
       "type": "article",
       "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2K3ZiNin2LEv2YXYqtiu2LXY",
-      "title": "حوار/متخصص التغذية الهاشمي: المغرب سيؤدي ثمن التحول الغذائي المصنع وسكري يُنهك المنظومة الصحية",
-      "summary": "مادة جديدة من تيل كيل عربي. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQVmVPOGVZQm5iblYyVndmclNBTzZmZDMyRHgtdVA3bVlWYVRycjJYOGZ0Tk13alZES0lWcHJsWUI0ZXM1T2tJMGlCUWM0ekxaNDUtRVR6UGJ0RVBBR1JqUS00UjlMN1ptQ1FwN3JLd2ZmQ0pJbk52bER0Z2NFb0x0MllMcWlqeWZpalBMYW51ejNQX1JzTmxvczMtZVA5V3c3d2MteGE0UEJycWtfSGdodnJXRnVaZHZpOWZKSm56YUg2Y1hVYmh2ZXZreDJZMV9JN014RWFiVEZWUGg2R0xRcmFBeHBnMmd2aGlUeEItTk9ucGlHcElLTE83dXpoR2wyQWdCUVoxV25lOU9aUFQ2TjA0T2hTbGlfeUxjRU1VaVo5ZmMyOFNrZkpJUFAyS1dZLUtNcHJRRFo3Zi1YNXNXS2Zn?oc=5",
-      "source": "تيل كيل عربي",
-      "publishedAt": "2026-11-21T10:42:00.000Z",
-      "query": "التغذية الصحية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2KfZhNmG2K3Yp9izINi02LHZ",
-      "title": "النحاس شريك صامت يصنع الفارق في صحة الدماغ والدم والقلب",
-      "summary": "مادة جديدة من Kurdistan24. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPYXBVVVVheTF1TTBPa0ZDckpuMDVYV3YxM3Q2cEc3TUVRclRaYWpwX3E0aUsyQ0d6U3NEYmo4MFJZeWFyZnAwYXFJbTRsUDczQmllMUsxRHRtczV6a3FKR2lnM2JjaXM1WHhiZVBJLTk2aU5FOGwyTlZXRXREQmFhUFRXVDdPWmphXzFPUjVjNjlyRklHTmxFb01ubnUtaV82WVM1cExZNHVTR2lINWxvVWhsUE5vZ1V5M2xTSXhTNVVMb1JnYno4a2dyU0R1UUlDYUdjU0FJY1VnQ3kzTEVnWmk1M3MxQ0dmZWpmbE40bkFpVzNYQ3FXWlc5LW1ZTDF4VmVCNlhDdXhtUlBpQzJZTEI5YzdJVm91SDNaNUJCYjdIeUZMWTFWWFFka2FqQVdOTXRWaXhvOVVHRFFhQUE4Ti1Gbk9kNk1EVDNnTlVLN1FMYWhPcDg0YzNYVVZNUERvTV9XdDlvUi1VVkFvcEczbGgzLVNKd2d4NDJIaEM3RDNfcU16UjdRNUVFY0ZlS3Rkb3dmUm9zT2Y0NV9nSk9fMDRoM2JZeThfa1dkc0pac3FPUEV4Tk9zbjRoR3FlQkV4YXhxcW5DbFJBeVpKRkhpb1hEQQ?oc=5",
-      "source": "Kurdistan24",
-      "publishedAt": "2026-11-21T07:08:57.000Z",
-      "query": "التغذية الصحية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2KfYs9iq2LTYp9ix2YrYqSDY",
-      "title": "استشارية تغذية: الزوائد الجلدية واسمرار ثنايا الجسم علامات لا يجب تجاهلها",
-      "summary": "مادة جديدة من شبكة تواصل الإخبارية. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfQlBnRUdxeHUxSU91LXFaZHBDYmM0VHZfdUFVMDJMd2pTWURsdC05dW1IV21ZLU0zTkxmamhXa0xqMEkzQmllYm4wZ3JDM0lqbmdj?oc=5",
-      "source": "شبكة تواصل الإخبارية",
-      "publishedAt": "2026-11-21T04:21:22.000Z",
-      "query": "السكري التغذية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2KPYs9io2YjYuSDYr9io2Yog",
-      "title": "أسبوع دبي للمستقبل.. خبراء يدعون لمنظومة غذائية تجمع صحة الإنسان والاستدامة البيئية",
-      "summary": "مادة جديدة من شبكة تواصل الإخبارية. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnRHNKRGtKU3dkRG90cmhJRWFsOEpJVmEtbE83UmNIZ0FteXdpUmdIRFRLU05GRTJBOEQtRFltM3VoeHNUeGotV1RjTU83SVlKQkhB?oc=5",
-      "source": "شبكة تواصل الإخبارية",
-      "publishedAt": "2026-11-20T17:57:43.000Z",
-      "query": "التغذية الصحية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2KfYs9iq2LTYp9ix2Yog2LfY",
-      "title": "استشاري طب رياضي: صحة عظام الطفل تبدأ من تغذية الأم قبل الزواج",
-      "summary": "مادة جديدة من جريدة الدستور. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB1Mnd6aEhIOTR5Tl9pUDRsVVQ0SjhJZ3JtRFNtc0dBbEQxQ2xDOUhrdHJvRlJ0U1Jvbnk4Sm56M1ZQNVl1?oc=5",
-      "source": "جريدة الدستور",
-      "publishedAt": "2026-11-20T17:46:25.000Z",
-      "query": "التغذية الصحية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-wqvZhti42KfZhSDYp9mE2LfZ",
-      "title": "«نظام الطيبات» على طاولة «في الصورة».. آدم بطاينة ضيف المديفر الأحد",
-      "summary": "مادة جديدة من https://capsulah.com/. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA3VWdvR24yVlNEVzdBU2l5cUlxTVVYREpaUWdLOG1yeDJtM1pTLTRURWtSaVk2NWhoVnhtb3hWazJVNzFX?oc=5",
-      "source": "https://capsulah.com/",
-      "publishedAt": "2026-11-20T16:35:37.000Z",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
-    },
-    {
-      "id": "article-2YHZiiDYuti22YjZhiDYq9mE",
-      "title": "في غضون ثلاثة أشهر فقط.. دراسة علمية تكشف فعالية مكملات «أوميجا-3» في خفض ضغط الدم المرتفع",
-      "summary": "مادة جديدة من https://capsulah.com/. افتح الرابط لقراءة التفاصيل من المصدر الأصلي.",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1jOVBCeHdEaGlkSnRPeml2dFZfaXJjaF9kc0dKM1gxT294RHVKVk5ibzQ1dGlQb3h3STYxQmVUS3VQOTVG?oc=5",
-      "source": "https://capsulah.com/",
-      "publishedAt": "2026-11-20T16:30:00.000Z",
-      "query": "ضغط الدم التغذية",
-      "type": "article",
-      "safetyLabel": "للتثقيف العام — راجع الطبيب عند اتخاذ قرار صحي"
     }
   ],
   "videos": [
@@ -127,6 +127,34 @@
       "url": "https://www.youtube.com/watch?v=UDSiu45PtFU",
       "embedUrl": "https://www.youtube-nocookie.com/embed/UDSiu45PtFU",
       "thumbnail": "https://i.ytimg.com/vi/UDSiu45PtFU/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-0IxtAcmKS4M",
+      "videoId": "0IxtAcmKS4M",
+      "title": "نظام الطيبات للدكتور ضياء العوضي بودكاست مع د ضياء العوضي",
+      "channel": "الدكتور ضياء العوضي",
+      "publishedLabel": "6mo ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=0IxtAcmKS4M",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/0IxtAcmKS4M",
+      "thumbnail": "https://i.ytimg.com/vi/0IxtAcmKS4M/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-cj4WterSmsE",
+      "videoId": "cj4WterSmsE",
+      "title": "لايف بث مباشر ( المحذوف ) لدكتور ضياء العوضي نظام الطيبات وعلاج الامراض كامل رقم 3",
+      "channel": "دكتور ضياء العوضي نظام الطيبات",
+      "publishedLabel": "1mo ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=cj4WterSmsE",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/cj4WterSmsE",
+      "thumbnail": "https://i.ytimg.com/vi/cj4WterSmsE/hqdefault.jpg",
       "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
@@ -146,48 +174,6 @@
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
     },
     {
-      "id": "youtube-0IxtAcmKS4M",
-      "videoId": "0IxtAcmKS4M",
-      "title": "نظام الطيبات للدكتور ضياء العوضي بودكاست مع د ضياء العوضي",
-      "channel": "الدكتور ضياء العوضي",
-      "publishedLabel": "5mo ago",
-      "duration": "",
-      "url": "https://www.youtube.com/watch?v=0IxtAcmKS4M",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/0IxtAcmKS4M",
-      "thumbnail": "https://i.ytimg.com/vi/0IxtAcmKS4M/hqdefault.jpg",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "video",
-      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
-    },
-    {
-      "id": "youtube-Lt_-xl8FyYY",
-      "videoId": "Lt_-xl8FyYY",
-      "title": "The Tayyibat Diet by Dr. Diaa El-Awady | Allowed Foods, Forbidden Foods, and Secrets of the System",
-      "channel": "Tayibat Studio | استوديو الطيبات",
-      "publishedLabel": "5mo ago",
-      "duration": "",
-      "url": "https://www.youtube.com/watch?v=Lt_-xl8FyYY",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/Lt_-xl8FyYY",
-      "thumbnail": "https://i.ytimg.com/vi/Lt_-xl8FyYY/hqdefault.jpg",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "video",
-      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
-    },
-    {
-      "id": "youtube-39w40XUNegA",
-      "videoId": "39w40XUNegA",
-      "title": "الدين في عقل مؤسس نظام الطيبات.. لماذا كفر بالعلم وماذا وجد في كتاب الله؟",
-      "channel": "Zatmasr - ذات مصر",
-      "publishedLabel": "9mo ago",
-      "duration": "",
-      "url": "https://www.youtube.com/watch?v=39w40XUNegA",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/39w40XUNegA",
-      "thumbnail": "https://i.ytimg.com/vi/39w40XUNegA/hqdefault.jpg",
-      "query": "نظام الطيبات ضياء العوضي",
-      "type": "video",
-      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
-    },
-    {
       "id": "youtube-IPbl9cUAxkw",
       "videoId": "IPbl9cUAxkw",
       "title": "@الممنوع والمسموح في نظام الطيبات للدكتور ضياء العوضي. للناس الجداد اللي سألوا",
@@ -197,6 +183,20 @@
       "url": "https://www.youtube.com/watch?v=IPbl9cUAxkw",
       "embedUrl": "https://www.youtube-nocookie.com/embed/IPbl9cUAxkw",
       "thumbnail": "https://i.ytimg.com/vi/IPbl9cUAxkw/hqdefault.jpg",
+      "query": "نظام الطيبات ضياء العوضي",
+      "type": "video",
+      "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
+    },
+    {
+      "id": "youtube-fo7fYUtD_yI",
+      "videoId": "fo7fYUtD_yI",
+      "title": "دليلك الشامل لنظام الطيبات: المسموح والممنوع بالتفصيل مع د. ضياء العوضي 🍽️✨",
+      "channel": "صحتك",
+      "publishedLabel": "6mo ago",
+      "duration": "",
+      "url": "https://www.youtube.com/watch?v=fo7fYUtD_yI",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/fo7fYUtD_yI",
+      "thumbnail": "https://i.ytimg.com/vi/fo7fYUtD_yI/hqdefault.jpg",
       "query": "نظام الطيبات ضياء العوضي",
       "type": "video",
       "safetyLabel": "فيديو خارجي — عرضه لا يعني تبنّي جميع الادعاءات الطبية"
@@ -218,5 +218,5 @@
     ],
     "safetyFilterVersion": 4
   },
-  "safetyReviewedAt": "2026-11-23T18:03:13.503Z"
+  "safetyReviewedAt": "2026-11-24T17:40:44.146Z"
 }
